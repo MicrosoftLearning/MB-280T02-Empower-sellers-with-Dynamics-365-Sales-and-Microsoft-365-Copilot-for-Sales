@@ -3,87 +3,110 @@ lab:
     title: 'Lab 2.1: Manage leads and opportunities'
 ---
 
-# Lab 2.1: Manage leads and opportunities
+# Module 2: Manage leads and opportunities with Dynamics 365 Sales
 
-In this exercise you will <!-- provide a description of what they'll do and why it;s important -->
+## Practice Lab 2.1 – Manage customers
 
-This exercise should take approximately **XX** minutes to complete. <!-- update with estimated duration -->
+### Scenario
+Contoso Coffee is looking to use Dynamics 365 Sales to formalize their sales process as well as address a backlog of untouched leads imported by the marketing team from trade shows and campaigns. As a sales analyst at Contoso Coffee, you have been asked to assess and update lead records to ensure that the executive team is working from an accurate pipeline report in the upcoming leadership meeting.
 
-## Before you start
+Upon successful completion of this lab, you will be able to:
+- Create and update lead records
+- Qualify and disqualify leads
+- Reactivate lead records
 
-<!--
-Add steps to get the learner to the starting point" for the exercise.
-This might be cloning the repo and running a script or performing some manual steps.
-Only include this section if its necessary to do some pre-exercise setup AND the same setup steps are required for self-paced (on Learn) and managed (in hosted ILT lab profiles) scenarios. Otherwise delete this section.
-If self-paced /ILT-specific setup steps are required, include them in the Learn "Exercise" unit from where they open this exercise and in the Skillable lab profile instructions before this markdown file is imported.
- -->
+### Exercise 1 – Manage Customers
 
-Before you can start this exercise, you will need to...
+#### Task 1 – Creating Leads
+In this task, you will create three leads, one without company information and two with company information.
+1. Go to your Dynamics 365 Sales Hub application. Ensure you are in the Sales area, using the bottom left dropdown menu.
+2. Using the navigation on the left, under the Sales group, select Leads.
+3. In the Work Items pane, select the three vertical ellipses next to the text Read Only Grid.
+4. From the menu that appears, select the + New button.
+5. Enter Coffee Machine Lead Without Company for Topic, Jane for First Name, Doe for Last Name.
+6. Accept the Cafeteria Manager suggestion that was populated in the Job Title field.
+7. Select the Save button. On the command bar at the top, select the + New button again.
+8. Enter Coffee Machine Lead with Company for Topic, Jon for First Name, Doe for Last Name, Doe Inc. for Company, and click Save.
+9. On the Command Bar, select the + New button one more time.
+10. Enter Another Coffee Machine Lead for Topic, Jack for First Name, Smith for Last Name, Test Coffee Shop, Inc. for Company, and click Save.
 
-1. Step 1
-1. Step 2
-1. etc.
+### Exercise 2 – Lead Qualifications
+In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
-## Task <!-- Change to an appropriate task title with an imperative verb phrase (e.g. "Do something") -->
+#### Task 1 – Qualify Coffee Machine Lead Without Company Information
+1. Go to your Sales Hub application.
+2. Select Leads.
+3. On the Work Items pane, select the Read Only Grid button.
+4. Locate Coffee Machine Lead Without Company and select it.
+5. Click Qualify from the top menu.
+6. The lead will be Qualified into a new Opportunity record.
+   - NOTE: If the new opportunity is not opened automatically, select Opportunities from the left menu to view all open opportunities. Then open the Coffee Machine Lead without Company opportunity.
+7. Locate the Contact field. You will find that Jane Doe is now a Contact record in the application that you can open.
+8. Locate the Account field (in the header of the opportunity record). Notice that the field will be empty.
+9. Click Save.
 
-First, you need to ...
+#### Task 2 – Qualify Coffee Machine Lead with Company
+1. Go to your Sales Hub application.
+2. Select Leads.
+3. Locate Coffee Machine Lead with Company and open it.
+4. Click Qualify from the top menu.
+5. The lead will be Qualified like the previous lead, and you will be taken to the newly created Opportunity record from the qualified Lead.
+6. Locate the Contact field. You will find that Jon Doe is now a Contact record.
+7. Locate the Account field. You will find that Test Coffee Shop, Inc. is now an Account record.
 
-1. Step 1
-1. This step includes an example of `inline code formatting`, which is used when the learner needs to type something (anything, not just code) because it creates a [T] link in the hosted Skillable environment.
-1. If you need the learner to open a website, include both a link (so they can open by clicking in the HTML GitHub page) AND the URL formatted as code (so they can type it in a hosted VM browser). For example, "Open the [Bing](https://www.bing.com) website at `https://www.bing.com`".
-1. If you need the learner to download a file (or a bunch of files in a zip), store the file in Allfiles folder in this repo and use the **raw** URL - like this: "Download [file name](https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json) from `https://raw.githubusercontent.com/MicrosoftLearning/INF99X-SampleCourse/master/Allfiles/Labs/01/Starter/azuredeploy.json`.
-1. Alternatively, for a developer audience, you can have them clone this repo if that seems more appropriate.
-1. If you need to include a multiline code block, indent it to match the bulleted list indent:
+#### Task 3 – Disqualify a Lead
+1. If necessary, go to your Sales Hub application.
+2. Select Leads.
+3. Locate the Another Coffee Machine Lead and open it.
+4. Click Disqualify (You may need to select the vertical ellipsis button for it to display).
+5. From the menu that appears, select No Longer Interested.
+6. The Lead will be Disqualified, the status will change to No Longer Interested, and the record will become Read-only.
 
-    ```python
-    # This is an example of an
-    # indented code block.
-    ```
+#### Task 4 – Reactivate A Lead
+1. If necessary, go to your Sales Hub application.
+2. In the Site Navigation, under the Sales group, select Leads.
+3. The Lead you disqualified is no longer in the My Open Leads view. Select the down arrow next to My Open Leads and change the View to Closed Leads.
+4. Locate Another Coffee Machine Lead and open it.
+5. Click Reactivate Lead.
+6. The Lead will be reactivated, the status will change back to New, and the record will become editable.
 
-1. If you need to include a acreenshot, resize it to an appropriate size (so any "normal" formatted text in a partial screenshot is roughly the same size as this text - generally try to make screenshots of full application windows 800x600px (approx)). Store images in a **Media** subfolder and use markdown to add it to the page (remembering that file and folder names are case-sensitive). If the image is in a list, indent it, like this:
+### Exercise 3 – Work with Opportunities
+In this exercise, you will walk through the process of working an opportunity through the sales process.
 
-    ![A screenshot of an application.](./Media/edge-copilot.png) 
+#### Task 1 – Manage the Coffee Machine Lead with Company
+1. If necessary, go to your Sales Hub application.
+2. In the navigation on the left, select Opportunities under the Sales group.
+3. Locate and open the Coffee Machine Lead with Company opportunity.
+4. On the Opportunity panel that appears, select the Go to Main button (Located next to the X (Close) button).
+5. Complete the Opportunity record as follows:
+   - Budget Amount: $17,000
+   - Purchase Timeframe: This Quarter
+   - Purchase Process: Committee
+   - Description: Looking to upgrade their current coffee machines at multiple locations.
+6. Expand the record header at the top, and complete as follows:
+   - Est. Close Date: Enter tomorrow’s date.
+   - Est. revenue: $16,500
+7. On the Timeline control, select the + (add a timeline record).
+8. From the menu that appears, select Phone call.
+9. Complete the Phone call as follows:
+   - Subject: Initial Call to Jon.
+   - Due: Enter Today’s Date at 4:30 PM
+10. Select the Save and Close button.
+11. With the Opportunity open, select the Develop button on the Lead to Opportunity business process flow. Complete as follows:
+   - Customer Need: Looking to upgrade their coffee machines at multiple locations.
+   - Proposed Solution: Recommending multiple AirPot Duo Machines.
+   - Identify Stakeholders: Completed
+   - Identify Competitors: Completed
+12. Select the Next Stage button.
+13. On the Propose stage, set all the fields to Completed.
+14. Select the Next Stage button.
+15. Select anywhere outside of the business process stage to close it.
+16. In the Assistant section, under Notifications, select the Phone Call item you created earlier to open it.
+17. Select Complete. (Notice that the item disappears from your notifications.)
+18. Select the Close stage on the Lead to Opportunity sales process.
+19. Mark all the items in the Close stage as Completed.
+20. Select the Finish button.
+21. On the Command bar at the top, select the Close as won button.
+22. On the Close Opportunity screen, select the OK button.
 
-1. If you need to explain why something is done the way it is, or provide additional context or links to info, use a note like this:
-
-    > **Note**: This is a note.
-
-1. Be flexible when providing instructions that might vary between self-paced and hosted lab environments. For example:
-    - "Sign in using your Azure credentials" (assuming there were Learn-specific instructions to use a personal subscription or create a trial in the Learn exercise page, and ILT-specific instructions to use provided cloudslice credentials in the Skillable lab profile)
-    - "Select an existing resource group or create a new one" (assuming that if a Skillable CS-R cloudslice is used, you included a note in the lab profile telling the learner which resource group they should use)
-    <!-- The key point is that this markdown file should be environment-agnostic - you need to provide explicit details of things that can vary OUTSIDE of this file (in the Learn exercise page or the Skillable lab profile instructions) -->
-1. etc.
-
-## Next task
-
-Now let's, ...
-
-1. Step 1
-1. Step 2
-1. etc.
-
-## Task with subtasks
-
-Sometimes you might want to break a taak down into smaller chunks.
-
-### Subtask 1
-
-1. Step 1
-1. Step 2
-1. Etc.
-
-### Subtask 2
-
-1. Step 1
-1. Step 2
-1. etc.
-
-## Clean up
-
-<!-- Good practice - especially as self-paced learners will be using their own subscriptions -->
-<!-- Delete this section if it is not needed -->
-
-Now that you've finished the exercise, you should delete the cloud resources you've created to avoid unnecessary resource usage.
-
-1. Step 1
-2. etc.
+Congratulations, you have successfully created and managed Leads and Opportunities in Dynamics 365 Sales.
