@@ -35,49 +35,48 @@ In this task, you will create unit groups for the speakers.
 
 #### Task 2 – Create Discount List
 In this task, you will create a Discount List for people that buy 15 or 20 or more filters. The 15 filters will get a 15% discount and 20 to 50 filters will get a 25% discount.
-1. Select Discount Lists from the Product Catalog section of the left menu.
-2. Click + New.
-3. Enter Quantity Discount for Name, select Percentage for Type, and click Save.
-4. Click Related and choose Discounts.
-5. Click + New Discount.
-6. Make sure Quantity Discount is selected for Discount Type, enter 15 for Begin Quantity, 19 for End Quantity, 15 for Percentage and click Save.
-7. Click + New again.
-8. Select Quantity Discount for Discount Type by starting to enter in your prefix. Then enter 20 for Begin Quantity, 50 for End Quantity, enter 25 for Percentage, and click Save.
+1. Select **Discount Lists** from the Product Catalog section of the left menu.
+2. Click **+ New.**
+3. Enter *Quantity Discount* for Name, select **Percentage** for Type, and click **Save.**
+4. Click **Related** and choose **Discounts.**
+5. Click **+ New Discount.**
+6. Make sure Quantity Discount is selected for Discount Type, enter *15* for Begin Quantity, *19* for End Quantity, *15* for Percentage and click **Save.**
+7. Click **+ New** again.
+8. Select **Quantity Discount** for Discount Type. Then enter *20* for Begin Quantity, *50* for End Quantity, enter *25* for Percentage, and click **Save.**
 
 #### Task 3 – Create Price List
 In this task, you will create a price list for the filters.
-1. Select Price Lists from the Product Catalog section of the left menu.
-2. Click + New.
-3. Enter Filter Direct for Name, select US Dollar for Currency, and click Save & Close.
+1. Select **Price Lists** from the Product Catalog section of the left menu.
+2. Click **+ New.**
+3. Enter *Filter Direct* for Name, select **US Dollar** for Currency, and click **Save & Close.**
 
 #### Task 4 – Create Products
 In this task, you will create products.
-1. Click on the App Settings change area.
-2. Select Sales.
-3. Select Products from the Collateral section of the left menu.
-4. Click Add Product.
-5. Enter Airpot XL 6 month filter for Name, enter AXL6MF-1234 for Product ID, select Filters for Unit Group (you can easily find it by typing in your prefix), select Filter for Default Unit, enter 2 for Decimals Supported, and click Save. (You may need to select the blue check mark next to the decimals supported to accept the suggestion.)
-6. Select the Additional Details tab.
-7. Click the vertical ellipsis on the top right of the Price List Items section. Click + New Price List Item.
-8. Select Filter Direct for Price List, select Quantity Discount for Discount List, select Whole for Quantity Selling Option.
-9. Select the Pricing Information tab, enter 25 for Amount and select Save & Close.
-10. If Auto publish is enabled, skip this step. (Publish will not appear on the command bar.) Otherwise, select Publish and Confirm to publish the Product.
-11. In the left menu, select Products in the Collateral group.
-12. Click Add Product.
-13. Enter Airpot XL Reservoir Extension for Name, enter AXLRE-4321 for Product ID, select Default Unit for Unit Group, select Primary Unit for Default Unit, select the blue checkmark next to the 2 for Decimals Supported, and click Save.
-14. Select the Additional Details tab.
-15. Click the vertical ellipsis on the top right of the Price List Items section. Click + New Price List Item.
-16. Select Filter Direct for Price List, select Whole for Quantity Selling Option.
-17. Select the Pricing Information tab, enter $299 for Amount and select Save & Close.
-18. If Auto publish is enabled; skip this step. Otherwise, select Publish and Confirm to publish the Product.
-19. Select Products from the left menu.
-20. Click Add Product.
-21. Enter Airpot XL Pot Extender for Name, enter AXPLE-7894 for Product ID, select Default Unit for Unit Group, select Primary Unit for Default Unit, Select the blue check mark next to the 2 for Decimals Supported, and click Save.
-22. Select the Additional Details tab.
-23. Click the vertical ellipses on the top right of the Price List Items section. Click + New Price List Item.
-24. Select Filter Direct for Price List, select Whole for Quantity Selling Option.
-25. Select the Pricing Information tab, enter 199 for Amount and select Save & Close.
-26. If Auto publish is enabled; skip this step. Otherwise, select Publish and Confirm to publish the Product.
-27. From the left menu, select Products.
-28. The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the ˅ dropdown icon next to the default view title. You can use the Filter by keyword box to search for your prefix to find your products.
-```
+1. Click on the **App Settings** change area.
+2. Select **Sales.**
+3. Select **Products** from the Collateral section of the left menu.
+4. Click **Add Product.**
+5. Enter *Airpot XL 6 month filter* for Name, enter *AXL6MF-1234* for Product ID, select **Filters** for Unit Group, select **Filter** for Default Unit, enter *2* for Decimals Supported, and click **Save.** (You may need to select the blue check mark next to the decimals supported to accept the suggestion.)
+6. Select the **Additional Details** tab.
+7. Click the **vertical ellipsis** on the top right of the Price List Items section. Click **+ New Price List** Item.
+8. Select **Filter Direct** for Price List, select **Quantity Discount** for Discount List, and select **Whole** for Quantity Selling Option.
+9. Select the **Pricing Information** tab, enter *25* for Amount and select **Save & Close.**
+10. If Auto publish is enabled, skip this step. (Publish will not appear on the command bar.) Otherwise, select **Publish** and **Confirm** to publish the product.
+11. In the left menu, select **Products** in the Collateral group.
+12. Click **Add Product.**
+13. Enter *Airpot XL Reservoir Extension* for Name, enter *AXLRE-4321* for Product ID, select **Default Unit** for Unit Group, select **Primary Unit** for Default Unit, select the blue checkmark next to the 2 for Decimals Supported, and click **Save.**
+14. Select the **Additional Details** tab.
+15. Click the **vertical ellipsis** on the top right of the Price List Items section. Click **+ New Price List Item.**
+16. Select **Filter Direct** for Price List. Select **Whole** for Quantity Selling Option.
+17. Select the **Pricing Information** tab, enter *$299* for Amount and select **Save & Close.**
+18. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
+19. Select **Products** from the left menu.
+20. Click **Add Product.**
+21. Enter *Airpot XL Pot Extender* for Name, enter *AXPLE-7894* for Product ID, select **Default Unit** for Unit Group, select **Primary Unit** for Default Unit, select the blue check mark next to the 2 for Decimals Supported, and click **Save.**
+22. Select the **Additional Details** tab.
+23. Click the **vertical ellipses** on the top right of the Price List Items section. Click **+ New Price List Item.**
+24. Select **Filter Direct** for Price List. Select **Whole** for Quantity Selling Option.
+25. Select the **Pricing Information** tab, enter *199* for Amount and select **Save & Close.**
+26. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
+27. From the left menu, select **Products.**
+28. The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. You can use the **Filter by keyword box** to search for your prefix to find your products.
