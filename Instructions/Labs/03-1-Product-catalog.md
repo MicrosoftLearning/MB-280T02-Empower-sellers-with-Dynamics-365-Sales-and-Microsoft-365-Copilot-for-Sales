@@ -21,16 +21,16 @@ Upon successful completion of this lab, you will be able to:
 #### Task 1 – Create Unit Group
 In this task, you will create unit groups for the speakers.
 1. Go to your Dynamics 365 Sales Hub application.
-2. Click Change area (located in lower left side of screen), by default Sales will be displayed in the bottom of the left menu.
-3. From the menu that appears, select App Settings.
-4. Select Unit Groups from the Product Catalog section of the left menu.
-5. Click + New.
-6. Enter Filters for Name, enter Each for Primary Unit, and click OK.
-7. Once the Unit Group opens, select the Related tab and choose Units.
-8. You will find that you only have the default unit Each now; you will add three more units. Click + New Unit.
-9. Enter Speaker for Name, 1 for Quantity, select Each for Base Unit, and click Save & Create New by selecting the ˅ dropdown icon to the right of the Save & Close button.
-10. Enter Pack for Name, 2 for Quantity, select Filter for Base Unit and click Save & Create New.
-11. Enter Value Pack for Name, 2 for Quantity, select Pair for Base Unit and click Save and Close.
+2. Click into the Change area menu (located in lower left side of screen). By default, Sales will be displayed in the bottom of the left menu.
+3. From the menu that appears, select **App Settings.**
+4. Select **Unit Groups** from the Product Catalog section of the left menu.
+5. Click **+ New.**
+6. Enter **Filters** for Name, enter **Each** for Primary Unit, and click **OK.**
+7. Once the Unit Group opens, select the Related tab and choose **Units.**
+8. You will find that you only have the default unit Each now; you will add three more units. Click **+ New Unit.**
+9. Enter *Speaker* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
+10. Enter *Pack* for Name, *2* for Quantity, select **Filter** for Base Unit and click **Save & Create New.**
+11. Enter *Value Pack* for Name, *2* for Quantity, select **Pair** for Base Unit and click **Save and Close.**
 12. You should now have four unit groups in the list.
 
 #### Task 2 – Create Discount List
