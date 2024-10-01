@@ -15,12 +15,12 @@ Upon successful completion of this lab, you will be able to:
 - Qualify and disqualify leads
 - Reactivate lead records
 
-### Exercise 1 – Manage Customers
+### Exercise 1 – Manage customers
 
 #### Task 1 – Creating Leads
 In this task, you will create three leads, one without company information and two with company information.
 1. Go to your Dynamics 365 Sales Hub application. Ensure you are in the Sales area, using the bottom left dropdown menu.
-2. Using the navigation on the left, under the Sales group, select Leads.
+2. Using the navigation on the left, under the Sales group, select **Leads.**
 3. In the Work Items pane, select the three vertical ellipses next to the text Read Only Grid.
 4. From the menu that appears, select the + New button.
 5. Enter Coffee Machine Lead Without Company for Topic, Jane for First Name, Doe for Last Name.
