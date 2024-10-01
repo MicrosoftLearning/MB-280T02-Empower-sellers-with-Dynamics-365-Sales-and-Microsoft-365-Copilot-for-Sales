@@ -25,8 +25,8 @@ This new offering will help them to build direct relationship with their custome
 **Important:** It can take several minutes for your new environment to be created. You will be notified once it is deployed.
 
 #### Task 2 – Access the Dynamics 365 application
-1. In a browser window, navigate to the Power Apps maker portal.
-2. In the upper right corner of the screen, change the Environment from the Default Environment to the Sales Trial environment.
+1. In a browser window, navigate to the Power Apps maker portal at make.powerapps.com.
+2. In the upper right corner of the screen, change the Environment from the default environment to the Sales Trial environment.
 3. Using the navigation on the left, select **Apps**.
 4. Select the **All** button located above the Name column.
 5. From the list of available, hover over the Sales Hub app and select the **Play** button.
