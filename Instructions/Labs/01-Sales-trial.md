@@ -19,7 +19,7 @@ This new offering will help them to build direct relationship with their custome
 2. Select the **Try for free** button in the upper right corner of the screen.
 3. Locate Dynamic 365 Sales.
 4. Select the **Get started for free** button.
-5. In the *Let's get started* screen, enter the credentials that were provided to you as part of your lab environment. Accept the license agreement.
+5. In the *Let's get started* screen, enter the credentials that were provided to you as part of your lab environment. Accept the license agreement. (If you are prompted to enter a phone number, you can enter 0123456789.)
 6. Select **Start your free trial**.
 
 **Important:** It can take several minutes for your new environment to be created. You will be notified once it is deployed.
