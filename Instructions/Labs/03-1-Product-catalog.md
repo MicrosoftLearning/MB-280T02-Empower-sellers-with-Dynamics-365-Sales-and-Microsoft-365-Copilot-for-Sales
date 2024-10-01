@@ -79,4 +79,4 @@ In this task, you will create products.
 25. Select the **Pricing Information** tab, enter *199* for Amount and select **Save & Close.**
 26. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
 27. From the left menu, select **Products.**
-28. The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. You can use the **Filter by keyword box** to search for your prefix to find your products.
+28. The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. 
