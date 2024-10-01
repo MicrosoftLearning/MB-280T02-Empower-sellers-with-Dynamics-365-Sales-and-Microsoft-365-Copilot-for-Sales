@@ -29,7 +29,7 @@ In this task, you will create unit groups for the speakers.
 7. Once the Unit Group opens, select the Related tab and choose **Units.**
 8. You will find that you only have the default unit Each now; you will add three more units. Click **+ New Unit.**
 9. Enter *Speaker* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
-10. Enter *Pack* for Name, *2* for Quantity, select **Speaker** for Base Unit and click **Save & Create New.**
+10. Enter *Pack* for Name, *2* for Quantity, select **Filter** for Base Unit and click **Save & Create New.**
 11. Enter *Value Pack* for Name, *2* for Quantity, select **Pack** for Base Unit and click **Save and Close.**
 12. You should now have four unit groups in the list.
 
