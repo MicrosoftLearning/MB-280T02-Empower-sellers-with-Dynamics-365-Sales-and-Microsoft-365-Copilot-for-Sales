@@ -1,6 +1,5 @@
 
-
-## Exercise 1: Configure additional applications
+## Exercise 1: Configure email, SharePoint, and OneDrive integration
 ### Task 1: Configure Email Integration
 1. In a web browser, navigate to *An external link was removed to protect your privacy.*.
 2. From the site navigation on the left side of the screen, select **Environments**.
@@ -46,3 +45,24 @@ In this task, you will set up OneNote integration for your Dynamics CRM organiza
 3. Select the **Enable OneDrive for Business** checkbox and click **OK**.
 4. After the screen refreshes, click the **OneDrive for Business Folder Settings**.
 5. Accept the default folder name, or enter a name of your choice, and click **OK**.
+
+## Exercise 2: Configure Teams and Copilot 
+### Task 1: Configure Teams Integration
+1. If necessary, open the Sales Hub app.
+2. Using the navigation on the left, select the **Sales** area (Bottom Left).
+3. From the menu that appears, select **App Settings**.
+4. Under the General Settings group, select **Chat and Collaboration**.
+5. Set **Turn on the linking of Dynamics 365 records to Microsoft Teams channels** to **Yes**.
+6. Set **Turn on Enhanced Microsoft Teams Integration** to **Yes**. (You may need to select your MOD Administrator account. If asked for permissions, select **Accept**.)
+7. Under **Turn on Microsoft Teams chats inside Dynamics 365**, select **Turn on for all Dynamics 365 Apps**.
+8. Select the **Save** button.  
+   **IMPORTANT**: It can take several minutes for the changes to be saved.
+
+### Task 2: Configure Copilot
+1. Make sure that you are in the **App Settings** area.
+2. Under the General Settings group, select **Copilot**.
+3. Select the checkbox next to **Try our newest preview features before they’re rolled out to everyone** to enable it.
+4. Under **Copilot features**, change the **All Dynamics 365 Sales Apps** as follows:
+   - **Chat**: On
+   - **Email (Preview)**: On
+5. Select the **Save** button.
