@@ -1,4 +1,11 @@
+---
+lab:
+    title: 'Lab 7.1: Customize a business process flow'
+---
 
+# Module 7: Enhance seller productivity by extending Dynamics 365 Sales
+
+## Practice Lab 7.1: Customize a business process flow
 
 ## Scenario
 
