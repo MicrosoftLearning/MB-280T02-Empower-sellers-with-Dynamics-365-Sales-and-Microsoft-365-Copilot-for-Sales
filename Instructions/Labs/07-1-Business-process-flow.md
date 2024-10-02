@@ -106,3 +106,5 @@ Sales Process and then test the new BPF.
 23. Enter *Current machines cannot handle customer volume* in the Customer Pain Points field.
 
 24. Select **Next stage**.
+
+25. **Save** the record. Any new or existing Lead and Opportunity records will now use your new version of the Lead to Opportunity Business Process.
