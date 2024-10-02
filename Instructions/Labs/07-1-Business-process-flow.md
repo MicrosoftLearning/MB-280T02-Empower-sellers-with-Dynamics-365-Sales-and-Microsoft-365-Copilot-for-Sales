@@ -85,55 +85,35 @@ application and add the V2 business process flow.
 
 5.  The application designer will open. Select **Automation.**
 
-6.  From the **Components** tab uncheck the **Opportunity Sales Process**
-    checkbox and check the **Opportunity Sales Process V2** checkbox.
+6.  Select the **Opportunity Sales Process V2** business process flow from the pane on the left. 
 
-7.  Click **Save**.
+7.  Select **Save**.
 
-8.  Click **Publish**.
+8.  Select **Publish**.
 
-9.  Close the application designer.
+9.  Select **Back.**
 
 ### Task 3 – Test Business Process Flow
 
-1.  Navigate <https://web.powerapps.com/>
+1.  Select **Play** next to the Sales Trial app. The Sales Trial app will launch.
 
-2.  Make sure you are **NOT** in **Default** environment.
-
-3.  Select **Apps**.
-
-4.  Click to open the **Sales Hub** application.
-
-5.  Click **Site Map** and select **Opportunities**.
-
-6.  Click **+ New**.
-
-7.  Enter **Test Opportunity** for **Topic**.
-
-8.  Select **Jane Doe** for **Contact**.
-
-9.  Enter **900000** for **Budget Amount** and click **Save**.
-
-10. Click Process and select Switch Process.
-
-11. Select the **Opportunity Sales Process V2** process and click **OK**.
+2. Select **Leads** and create a new lead (you can use any name or information you would like). Enter $800,000 for Budget Amount.
 
 12. The Business Process Flow should have 4 stages, **Qualify**, **Develop**,
     **Propose**, and **Close**. The Confirm Interest stage will not be part of the
     process if the Budget Amount is less than $1,000,000.
 
-13. Change the **Budget Amount** to 1000000.
+13. Change the **Budget Amount** to 1,200,000.
 
-14. The Business Process Flow should have 5 stages, **Qualify**, **Thank You**,
-    **Develop**, **Propose**, and **Close**.
+14. The Business Process Flow should have 5 stages, **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**.
 
 15. Click on the **Qualify** Stage.
 
 16. Click **Next Stage**.
 
-17. The process should move to the **Thank You** stage. Click **Next Stage**.
+17. The process should move to the **Confirm Interest** stage. Click **Next Stage**.
 
-18. The process should not move to the next stage until the **Send Thank You**
+18. The process should not move to the next stage until the **Confirm Interest**
     step is marked complete.
 
 19. Check the **Mark Complete** checkbox and click **Next Stage**.
