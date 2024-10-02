@@ -30,15 +30,18 @@ In this lab, we will turn on and configure the features that will help our CRM o
    - **Incoming Email**: Server-Side Synchronization or Email Router
    - **Outgoing Email**: Server-Side Synchronization or Email Router
    - **Appointments, Contacts, and Tasks**: Server-Side Synchronization
-8. Click **Approve Email**. (Note: You must approve the mailbox before you can send and receive email)
-9. You will be asked if you want to approve the primary email, select **OK**.
+8. Click **Approve Email**. (**Note:** You must approve the mailbox before you can send and receive email.)
+9. You will be asked if you want to approve the primary email. Select **OK**.
 10. Click **Test & Enable Mailbox**.
 11. On the test and enable pop-up screen, make sure that if this mailbox was previously configured to sync with another organization, checking this option will switch it to sync with this organization.
-12. Select **OK** (Wait for all the tests to complete before moving to the next step). This can run in the background as you move on to more tasks.
+12. Select **OK**.
+
+**IMPORTANT:** Wait for all the tests to complete before moving to the next task. This can run in the background as you move on to more tasks.
 
 ### Task 2: Enable Server-Based SharePoint Integration
 In this task, you will enable server-based SharePoint integration for your Dynamics 365 organization.
-1. In a web browser, navigate to *An external link was removed to protect your privacy.*.
+
+1. In a web browser, navigate to make.powerapps.com.
 2. From the site navigation on the left side of the screen, select **Environments**.
 3. Open the **Sales Trial** environment that you have been working in to open it.
 4. Locate and select **Settings** from the commands listed at the top.
