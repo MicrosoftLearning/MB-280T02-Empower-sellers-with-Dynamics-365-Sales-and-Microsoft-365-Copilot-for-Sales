@@ -9,9 +9,13 @@ lab:
 
 ## Scenario
 
-Contoso Coffee is looking to formalize their sales process to
-increase revenue and the give leadership stronger forecasting abilities. In this lab, you will create a business process flow to guide the
-sales process experience for users.
+Contoso Coffee is looking to add a few extra steps to their tried-and-true Lead to Opportunity Business Process. Although sellers have been successful following this framework in the past, they are reporting that a few new suggestions would help nurture leads and land high-value contracts.
+
+Sellers would like to add the following steps to their business process:
+- For high-value potential customers with a budget over $1,000,000, have the sales lead reach out personally to confirm interest before moving into qualification.
+- In the develop stage, ensure that sellers are tracking existing customer pain points to help identify potential areas for add-on sales that may have been previously missed.
+
+In this lab, we will customize the business process flow to meet our sellers' requests.
 
 ## Exercise 1 – Customize Business Process Flow
 ### Task 1 – Create Business Process Flow
