@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 5.1: Build a sequence'
+    title: 'Lab 5.2: Build a sequence'
 ---
 
 # Module 5: Work with Dynamics 365 Sales Insights and the Sales accelerator 
 
-## Practice Lab 5.1: Build a sequence
+## Practice Lab 5.2: Build a sequence
 
 ### Scenario
 Contoso Coffee’s sellers suggest that sales could be improved if organizational "best practices" were easier to follow. After examination, Contoso’s sales managers have determined an ideal sequence of sales events for sellers. They want to enforce best practices by setting up a series of consecutive activities for sellers to follow while qualifying leads. You want to ensure that it is as easy as possible for sellers to follow during their day. You have determined that a sequence is the best way to accomplish this.
