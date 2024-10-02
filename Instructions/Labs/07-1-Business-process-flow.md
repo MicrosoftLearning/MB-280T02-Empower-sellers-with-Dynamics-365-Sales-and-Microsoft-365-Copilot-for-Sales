@@ -33,13 +33,11 @@ Sales Process and then test the new BPF.
 
 6.  Now, we will find the **Lead to Opportunity Sales Process** in the list of processes. (You can now use the search box in the upper right corner to search.) When you find it, select it.
 
-8.  A new tab will open the BPF editor. (Keep the old tab with the Solution open.) We will now make some edits to the BPF that we have been seeing on the Lead form throughout the course.
+8.  A new tab will open the BPF editor. (Keep the old tab with the Solutions list open.) Now, let's add the steps that our sellers have been requesting.
 
-14. Drag **Condition** from the **Components** tab and place it between the
-    **Qualify** and **Develop** stages.
+14. First we will add a condition to check the customer's budget and identify our potential high-value customers with budgets over $1,000,000. Drag **Condition** from the **Components** tab and place it between the **Qualify** and **Develop** stages.
 
-15. Select the **Condition**, go to the **Properties** tab, and enter **Check
-    Budget** for **Display Name**.
+15. Select the **Condition**, go to the **Properties** tab, and enter **Check Budget** for **Display Name**.
 
 16. Under **Rules,** select **Budget Amount** for **Field**.
 
@@ -63,7 +61,7 @@ Sales Process and then test the new BPF.
 
 29. Check the **Required** check box and click **Apply**.
 
-30. Next, we will add a new step to a stage. Select the **Develop** stage and expand **Details.**
+30. Next, we will add a new step to ask for customer pain points in the Develop stage, as requested by our sellers. Select the **Develop** stage and expand **Details.**
 
 31. From the Components pane, drag a **Data Step** below Data Step #4.
 
@@ -71,13 +69,13 @@ Sales Process and then test the new BPF.
 
 33. Select **Apply.**
 
-34. Click **Validate** to ensure that the changes you made are valid.
+34. Click **Validate** to ensure that the changes you made are valid and that the BPF will work as expected. 
 
-35. Click **Update.**
+35. If there are no issues, click **Update.**
 
-37. Close the Business process flow editor.
+37. Close the tab with the Business process flow editor.
 
-38. Click **Done** in the pop-up in the Default Solution area. In the top menu, select **Publish all customizations.** (You may need to delete the "opportunity" search in the text box in the upper right to be able to see this button.)
+38. Back on your previous tab, click **Done** in the pop-up in the Default Solution area. In the top menu, select **Publish all customizations.** (You may need to delete the "opportunity" search in the text box in the upper right to be able to see this button.)
 
 39. Wait for your customizations to publish.
 
@@ -87,23 +85,19 @@ Sales Process and then test the new BPF.
 
 2. Navigate to the **Leads** section and click **+New** to create a new lead. You can enter any information you like in the Contact section of the form.
 
-4. Open the **Qualify** stage of the Lead to Opportunity Sales Process business process flow. the Enter $800,000 for Budget Amount.
+4. Open the **Qualify** stage of the Lead to Opportunity Sales Process business process flow. Enter *$800,000* for Budget Amount.
 
-12. The Business Process Flow should have 4 stages, **Qualify**, **Develop**,
-    **Propose**, and **Close**. The Confirm Interest stage will not be part of the
-    process if the Budget Amount is less than $1,000,000.
+12. The Business Process Flow should have 4 stages: **Qualify**, **Develop**, **Propose**, and **Close**. The Confirm Interest stage will not be part of the process if the Budget Amount is less than $1,000,000.
 
-13. Change the **Budget Amount** to 1,200,000.
+13. Change the **Budget Amount** to *$1,200,000.*
 
-14. The Business Process Flow should have 5 stages, **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**. Move from the Qualify stage to the next stage.
+14. The Business Process Flow should now have 5 stages: **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**. Move from the Qualify stage to the next stage.
 
-17. The process should move to the **Confirm Interest** stage. Confirm interest by selecting **Yes.**
+17. The process should move to the **Confirm Interest** stage. Confirm interest by selecting **Yes** if it is not already selected.
 
 18. **Save** and **Qualify** your Lead record.
 
-20. You will be taken to a new Opportunity record created from your Lead record, and the business process flow should now move to the **Develop** stage.
-
-21. **Save** the record. Any new Lead and Opportunity records will now use your new version of the business process flow.
+20. You will be taken to a new Opportunity record created from your Lead record, and the business process flow will move to the **Develop** stage.
 
 22. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
 
