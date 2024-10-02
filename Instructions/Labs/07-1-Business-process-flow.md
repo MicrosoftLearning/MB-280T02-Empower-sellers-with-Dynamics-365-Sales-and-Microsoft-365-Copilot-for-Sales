@@ -99,8 +99,10 @@ Sales Process and then test the new BPF.
 
 20. You will be taken to a new Opportunity record created from your Lead record, and the business process flow should now move to the **Develop** stage.
 
-21. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
+21. **Save** the record. Any new Lead and Opportunity records will now use your new version of the business process flow.
 
-22. Enter *Current machines cannot handle customer volume* in the Customer Pain Points field.
+22. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
 
-23. Select **Next stage**.
+23. Enter *Current machines cannot handle customer volume* in the Customer Pain Points field.
+
+24. Select **Next stage**.
