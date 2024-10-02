@@ -36,7 +36,7 @@ In this lab, we will turn on and configure the features that will help our CRM o
 11. On the test and enable pop-up screen, make sure that if this mailbox was previously configured to sync with another organization, checking this option will switch it to sync with this organization.
 12. Select **OK**.
 
-**IMPORTANT:** Wait for all the tests to complete before moving to the next task. This can run in the background as you move on to more tasks.
+**IMPORTANT:** Wait for all the tests to complete in this tab before moving on. If you would like to work on Task 2 while the tests complete, you can open a new tab or browser.
 
 ### Task 2: Enable Server-Based SharePoint Integration
 In this task, you will enable server-based SharePoint integration for your Dynamics 365 organization.
