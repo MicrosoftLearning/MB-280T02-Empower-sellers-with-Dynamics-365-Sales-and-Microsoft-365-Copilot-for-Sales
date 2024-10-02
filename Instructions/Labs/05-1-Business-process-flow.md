@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 7.2: Customize a business process flow'
+    title: 'Lab 5.1: Customize a business process flow'
 ---
 
-# Module 7: Enhance seller productivity by extending Dynamics 365 Sales
+# Module 5: Work with Dynamics 365 Sales Insights and the Sales accelerator 
 
-## Practice Lab 7.2: Customize a business process flow
+## Practice Lab 5.1: Customize a business process flow
 
 ## Scenario
 
