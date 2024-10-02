@@ -77,7 +77,7 @@ Sales Process and then test the new BPF.
 
 30. Confirm the activation.
 
-31. Close the Business process Flow editor.
+31. Close the Business process flow editor.
 
 33. Click **Done**.
 
