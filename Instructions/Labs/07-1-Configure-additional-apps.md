@@ -19,7 +19,7 @@ In this lab, we will turn on and configure the features that will help our CRM o
 
 ## Exercise 1: Configure email, SharePoint, and OneDrive integration
 ### Task 1: Configure Email Integration
-1. In a web browser, navigate to make.powerapps.com.
+1. In a web browser, navigate to [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
 2. From the site navigation on the left side of the screen, select **Environments**.
 3. Select the **Sales Trial** environment to open it.
 4. Locate and select **Settings** from the commands listed at the top.
@@ -41,7 +41,7 @@ In this lab, we will turn on and configure the features that will help our CRM o
 ### Task 2: Enable Server-Based SharePoint Integration
 In this task, you will enable server-based SharePoint integration for your Dynamics 365 organization.
 
-1. In a web browser, navigate to make.powerapps.com.
+1. In a web browser, navigate to [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
 2. From the site navigation on the left side of the screen, select **Environments**.
 3. Open the **Sales Trial** environment that you have been working in to open it.
 4. Locate and select **Settings** from the commands listed at the top.
