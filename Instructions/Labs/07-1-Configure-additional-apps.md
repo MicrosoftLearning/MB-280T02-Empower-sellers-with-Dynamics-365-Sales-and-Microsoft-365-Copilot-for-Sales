@@ -19,7 +19,7 @@ In this lab, we will turn on and configure the features that will help our CRM o
 
 ## Exercise 1: Configure email, SharePoint, and OneDrive integration
 ### Task 1: Configure Email Integration
-1. In a web browser, navigate to *An external link was removed to protect your privacy.*.
+1. In a web browser, navigate to make.powerapps.com.
 2. From the site navigation on the left side of the screen, select **Environments**.
 3. Select the **Sales Trial** environment to open it.
 4. Locate and select **Settings** from the commands listed at the top.
