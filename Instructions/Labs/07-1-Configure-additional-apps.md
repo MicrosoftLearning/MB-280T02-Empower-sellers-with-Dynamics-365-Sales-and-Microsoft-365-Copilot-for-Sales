@@ -12,7 +12,7 @@ lab:
 Contoso Coffee sellers report that although Dynamics 365 Sales is very helpful in increasing seller productivity, the application feels very siloed in relation to their daily flow of work. They have the following requirements for their IT department:
 - Sellers would like to track and manage sales-related email correspondence in CRM.
 - Sellers would like to store documents related to sales (like product knowledge articles, customer research, and market trend reports) in CRM. They want to be able to access, share, and manage these documents directly from the Sales app.
-- Sellers would like to collaborate with other departments like inventory, order fulfillment, and marketing as they pursue their sales opportunities. They would like these other departments to be able to collaborate a customer record within a Teams chat or channel.
+- Sellers would like to collaborate with other departments like inventory, order fulfillment, and marketing as they pursue their sales opportunities. They would like these other departments to be able to collaborate on a customer record within a Teams chat or channel.
 - Sellers have heard a lot about the Copilot features within Dynamics 365 Sales, including record summarization, catching up on changes to records, preparing for meetings, and composing correspondence. They want to ensure that Copilot features are turned on in their environment so they can start leveraging AI within the app to enhance their productivity.
 
 In this lab, we will turn on and configure the features that will help our CRM organization meet these sellers' requirements.
