@@ -15,19 +15,14 @@ This new offering will help them to build direct relationship with their custome
 ### Exercise 1 – Access a trial environment
 
 #### Task 1 – Create a Trial
-1. In a browser window, navigate to [trials.dynamics.com](https://trials.dynamics.com).
-2. Select the **Try for free** button in the upper right corner of the screen.
+1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. In the middle of the screen, you will see two buttons: one to see plans and pricing, the other to try for free. Select **Try for free.**
 3. Locate Dynamic 365 Sales.
-4. Select the **Get started for free** button.
+4. Select the **Try for free** button.
 5. In the *Let's get started* screen, enter the credentials that were provided to you as part of your lab environment. Accept the license agreement. (If you are prompted to enter a phone number, you can enter 0123456789.)
 6. Select **Start your free trial**.
+7. (If prompted, select **Launch Trial** in the pop-up.
+8. Your trial will launch. It may take a few minutes for your environment to open.
+9. In the header, select **Sales trial.** This will open your list of available apps. In this course, we will be working mostly in the **Sales Hub.** Select **Sales Hub** to open the application.
+10. Feel free to take a few minutes to explore the application.
 
 **Important:** It can take several minutes for your new environment to be created. You will be notified once it is deployed.
-
-#### Task 2 – Access the Dynamics 365 application
-1. In a browser window, navigate to the Power Apps maker portal at make.powerapps.com.
-2. In the upper right corner of the screen, change the Environment from the default environment to the Sales Trial environment.
-3. Using the navigation on the left, select **Apps**.
-4. Select the **All** button located above the Name column.
-5. From the list of available, hover over the Sales Hub app and select the **Play** button.
-6. Spend a few minutes exploring the application.
