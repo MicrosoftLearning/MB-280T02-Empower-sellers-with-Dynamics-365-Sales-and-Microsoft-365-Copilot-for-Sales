@@ -25,4 +25,3 @@ This new offering will help them to build direct relationship with their custome
 9. In the header, select **Sales trial.** This will open your list of available apps. In this course, we will be working mostly in the **Sales Hub.** Select **Sales Hub** to open the application.
 10. Feel free to take a few minutes to explore the application.
 
-**Important:** It can take several minutes for your new environment to be created. You will be notified once it is deployed.
