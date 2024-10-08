@@ -32,7 +32,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 12. Find **Airpot XL Reservoir Extension** in the list of products, enter *1* for Quantity and select **Add.**
 13. You will see three products are added. Select **Save.**
 14. Double click on the **Airpot XL 6 Month Filter** product.
-15. Locate the Volume Discount field. You will find that there is no discount for buying one speaker.
+15. Locate the Volume Discount field. You will find that there is no discount.
 16. Change the Quantity to *15* and click out of the field. The discount will now kick in and the Volume Discount field will show the discounted value.
 17. Select **Save & Close.**
 
