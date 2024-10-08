@@ -16,7 +16,7 @@ Upon successful completion of this lab, you will be able to:
 - Activate and connect sequences to records
 
 ### Task 1: Enable Sales Accelerator
-1. Change the area to **Sales Insights settings** using the Change area menu at the bottom left.
+1. Start in the **Sales Hub** app. Change the area to **Sales Insights settings** using the Change area menu at the bottom left.
 2. In the Sales Insights group, select **Global settings.**
 3. In the Sales accelerator sub-group, select the **Sequences** tab.
 4. You will be asked to set up the Workspace to be able to use Sequences. Select the **Setup workspace** button.
@@ -35,11 +35,8 @@ Upon successful completion of this lab, you will be able to:
 4. If necessary, select **Enable** on the notification to enable workflow for sequences to work properly.
 5. On the Sequences tab, select **+ New sequence.**
 6. You have the option to create a sequence from a number of common templates. You can explore the templates available. When you're ready, select **Start from blank.**
-
-### Task 3: Create basic information about the sequence
-Next, you will assign a name, description, and choose the type of table that the sequence will be available for.
-1. In the Sequence Name text box, type the sequence name, *Trade Show Follow-up Sequence.*
-2. In the Description text box, enter sequence description: "This is a test sequence for Test Coffee."
+7. Next, you will assign a name, description, and choose the type of table that the sequence will be available for. In the Sequence Name text box, type the sequence name, *Trade Show Follow-up Sequence.*
+2. In the Description text box, enter sequence description: "This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows."
 3. In Record type, select **Lead** (if it is not already selected).
 4. Click **Next.**
 
@@ -56,7 +53,7 @@ Choose the first step for your sellers to take. This can be either sending an em
 ### Task 5: Add additional activities for your seller to take
 Add additional activities for your sellers to take in an ordered manner - for example, the seller needs to take the first activity first, then the second and third and so on. 
 1. Click on the **+** button.
-2. Choose the next activity for the seller to take, can be either sending an email, making a phone call or add a task of your own. Select Set wait time to define a time-interval between activities. In our example we will add a time-interval of 1 hour.
+2. Choose the next activity for the seller to take, can be either sending an email, making a phone call or add a task of your own. Select **Set wait time** to define a time-interval between activities. In our example we will add a time-interval of 1 hour.
 3. Click Save.
 4. Click on the **+** button.
 5. Select **Phone call.**
@@ -77,4 +74,5 @@ To make the sequence available for sellers to use, activate the sequence.
 5. Select the sequence you created earlier and select **Connect.**
 6. A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record.
 7. If you are prompted to assign to a seller, select the **Assign** button. Now, the seller(s) who have access to the lead record can see the activities connected with it.
+8. Refresh the page - you should see the tasks you created in the **Up next** section.
 
