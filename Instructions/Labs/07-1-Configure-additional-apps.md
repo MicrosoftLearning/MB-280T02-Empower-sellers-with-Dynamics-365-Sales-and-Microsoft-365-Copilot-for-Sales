@@ -25,12 +25,12 @@ In this lab, we will turn on and configure the features that will help our CRM o
 4. Locate and select **Settings** from the commands listed at the top.
 5. Select the email heading to expand it and select **Mailboxes**.
 6. Open the Mailbox record for **MOD Administrator**.
-7. Verify that **MOD Administrator Mailbox** is set as follows:
+7. Configure the **MOD Administrator Mailbox** as follows:
    - **Server Profile**: Microsoft Exchange Online
    - **Incoming Email**: Server-Side Synchronization or Email Router
    - **Outgoing Email**: Server-Side Synchronization or Email Router
    - **Appointments, Contacts, and Tasks**: Server-Side Synchronization
-8. Click **Approve Email**. (**Note:** You must approve the mailbox before you can send and receive email.)
+8. **Save** your changes. Then click **Approve Email**. (**Note:** You must approve the mailbox before you can send and receive email.)
 9. You will be asked if you want to approve the primary email. Select **OK**.
 10. Click **Test & Enable Mailbox**.
 11. On the test and enable pop-up screen, make sure that if this mailbox was previously configured to sync with another organization, checking this option will switch it to sync with this organization.
@@ -50,8 +50,8 @@ In this task, you will enable server-based SharePoint integration for your Dynam
    - If SharePoint Integration is not configured, select **Enable Server-Based SharePoint Integration**.
 7. In the enable Server-Based SharePoint Integration screen, click the **Next** button.
 8. Select **Online** for the deployment type, click the **Next** button.
-9. Enter the URL of the SharePoint site you want to use. (Example: `https://”Orgname”.sharepoint.com`), click the **Next** button. (Hint: You will be able to find the org name in your current browser tab. It will be before `.crm.dynamics.com`.)
-10. After the site has been validated, click the **Finish** button.
+9. Enter the URL of the SharePoint site you want to use. (Example: `https://”Orgname”.sharepoint.com`), click the **Next** button. 
+10. After the site has been validated, click the **Enable** button.
 11. Click **Document Management Settings**.
 12. Select any entities that you want document management to be enabled for, such as Leads, Accounts, Opportunities, and click **Next**.
     - **IMPORTANT**: If you are planning on configuring email engagement in Sales insights, select the Email Entity.
