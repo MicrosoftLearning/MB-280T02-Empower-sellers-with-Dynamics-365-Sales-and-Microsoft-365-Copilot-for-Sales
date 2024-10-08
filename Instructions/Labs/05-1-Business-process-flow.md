@@ -85,7 +85,7 @@ Sales Process and then test the new BPF.
 
 2. Navigate to the **Leads** section and click **+New** to create a new lead. You can enter any information you like in the Contact section of the form.
 
-4. Open the **Qualify** stage of the Lead to Opportunity Sales Process business process flow. Enter *$800,000* for Budget Amount.
+4. Open the **Qualify** stage of the Lead to Opportunity Sales Process business process flow. Enter *$800,000* for Estimated Budget.
 
 12. The Business Process Flow should have 4 stages: **Qualify**, **Develop**, **Propose**, and **Close**. The Confirm Interest stage will not be part of the process if the Budget Amount is less than $1,000,000.
 
