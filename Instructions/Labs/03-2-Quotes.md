@@ -44,7 +44,7 @@ In this task, you will create a Quote from the Opportunity you created in Task 1
 4. Above the subgrid, Click **+ New Quote.**
 5. The Quote form will open, and relevant information will be copied from the Opportunity.
 6. On the Interested in Airpot XL Accessories Quote page, examine the Products sub-grid and make sure products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
-7. On the Command bar, select **Activate Quote.**
+7. On the Command bar, select **Activate Quote.** (Depending on the size of your browser, you may need to select the ellipses to see this option.)
 8. Click **Export to PDF** located on the command bar and select **Print Quote for Customer.** Click **Download.**
 9. Open the generated document and see what the Quote looks like.
 10. Close the PDF.
