@@ -8,7 +8,7 @@ lab:
 ## Practice Lab 3.1 – Manage product catalog
 
 ### Scenario
-As Contoso Coffee grows, they are looking to standardize their pricing structure and allow for easier creation of quotes, orders, and invoices with more accurate pricing and product details. Contoso Coffee recently released its newest smart coffee machine. As a functional consultant on their Dynamics 365 for Sales implementation, you have been asked to configure the product catalog.
+As Contoso Coffee grows, they are looking to standardize their pricing structure and allow for easier creation of quotes, orders, and invoices with more accurate pricing and product details. Contoso Coffee recently released its newest smart coffee machine. As a functional consultant on their Dynamics 365 Sales implementation, you have been asked to configure the product catalog.
 
 Upon successful completion of this lab, you will be able to:
 - Create unit groups
@@ -19,7 +19,7 @@ Upon successful completion of this lab, you will be able to:
 ### Exercise 1 – Product Catalog
 
 #### Task 1 – Create Unit Group
-In this task, you will create unit groups for the speakers.
+In this task, you will create unit groups for a line of coffee machine filters.
 1. Go to your Dynamics 365 Sales Hub application.
 2. Click into the Change area menu (located in lower left side of screen). By default, Sales will be displayed in the bottom of the left menu.
 3. From the menu that appears, select **App Settings.**
@@ -28,7 +28,7 @@ In this task, you will create unit groups for the speakers.
 6. Enter **Filters** for Name, enter **Each** for Primary Unit, and click **OK.**
 7. Once the Unit Group opens, select the Related tab and choose **Units.**
 8. You will find that you only have the default unit Each now; you will add three more units. Click **+ New Unit.**
-9. Enter *Speaker* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
+9. Enter *Filter* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
 10. Enter *Pack* for Name, *2* for Quantity, select **Filter** for Base Unit and click **Save & Create New.**
 11. Enter *Value Pack* for Name, *2* for Quantity, select **Pack** for Base Unit and click **Save and Close.**
 12. You should now have four unit groups in the list.
