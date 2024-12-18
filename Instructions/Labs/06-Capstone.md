@@ -59,3 +59,24 @@ Share your work with your small group. Compare the experience as a customer expe
 Consider the following:
 1. What did other teams do differently? Did it still meet the business requirement?
 2. How would you improve upon your solution?
+
+## The Contoso product catalog
+Contoso home security sells a variety of products and services. These are automatically added to deals so pricing can be calculated based the prices of the specific items each customer needs.
+
+Contoso sells the following products:
+
+| Product                            | Product Number | Est. Retail Price |
+|------------------------------------|----------------|-------------------|
+| A-100 Control Unit                 | A100-CU        | \$2200.00         |
+| A-101 Smart Doorbell               | A101-SD        | \$500.00          |
+| A-102 Security Sensor              | A102-SS        | \$150.00          |
+| A-103 Thermostat                   | A103-T         | \$450.00          |
+| A-104 Moisture Sensor              | A104-MS        | \$150.00          |
+| A-105 Wired Outdoor Camera         | A105-WOC       | \$750.00          |
+| A-106 Solor Outdoor Camera         | A106-SOC       | \$1500.00         |
+| A-107 Indoor/Outdoor Camera        | A107-IOC       | \$500.00          |
+| A-108 Motion Detectors             | A108-MD        | \$750.00          |
+| A-109 Motion Activated Flood Light | A109-MAFL      | \$900.00          |
+
+Contoso has two different ways that they price products. Individuals who purchase from the website or retail store get retail pricing. Corporate organizations receive corporate pricing which is 10% less than retail pricing.
+
