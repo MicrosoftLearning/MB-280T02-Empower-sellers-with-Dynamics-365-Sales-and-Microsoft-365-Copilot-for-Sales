@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 2.1: Manage leads and opportunities'
+    title: 'Lab 1: Manage leads and opportunities'
 ---
 
-# Module 2: Manage leads and opportunities with Dynamics 365 Sales
+# TW-7003: Optimize sales processes with Dynamics 365 Sales
 
-## Practice Lab 2.1 – Manage leads and opportunities
+## Lab 1 – Manage leads and opportunities
 
 ### Scenario
 Contoso Coffee is looking to use Dynamics 365 Sales to formalize their sales process as well as address a backlog of untouched leads imported by the marketing team from trade shows and campaigns. As a sales analyst at Contoso Coffee, you have been asked to assess and update lead records to ensure that the executive team is working from an accurate pipeline report in the upcoming leadership meeting.
