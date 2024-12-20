@@ -2,8 +2,9 @@
 lab:
     title: 'Capstone'
 ---
+# TW-7003: Optimize sales processes with Dynamics 365 Sales
 
-# Capstone: Configure a product catalog for an organization
+## Capstone: Configure a product catalog for an organization
 
 The applied workshop portion if the MB-280 course is designed to help students apply the skills they have learned throughout the course to a real-world example. The scenario has a variety of different elements included that span across Dynamics 365 Sales, Customer Insights - Journeys, and Customer Insights – Data. 
 
