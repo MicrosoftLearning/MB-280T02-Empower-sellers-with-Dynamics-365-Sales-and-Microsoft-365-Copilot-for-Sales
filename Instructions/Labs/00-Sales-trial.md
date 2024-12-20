@@ -3,9 +3,9 @@ lab:
     title: 'Lab 0: Validate lab environment'
 ---
 
-# Module 1: Configure Dynamics 365 Sales
+# TW-7003: Optimize sales processes with Dynamics 365 Sales
 
-## Practice Lab 0 - Validate lab environment
+## Lab 0 - Validate lab environment
 
 ### Scenario
 Contoso Coffee produces high-quality coffee and coffee machines, which they retail through channels including new Contoso Retail Stores in premium locations, premium food resellers and the Contoso Coffee Web Site.
