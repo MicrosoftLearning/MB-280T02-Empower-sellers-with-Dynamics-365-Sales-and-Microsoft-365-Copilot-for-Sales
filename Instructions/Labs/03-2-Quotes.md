@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 3.2: Build quotes'
+    title: 'Lab 3: Build quotes'
 ---
 
-# Module 3: Manage orders and product catalog with Dynamics 365
+# TW-7003: Optimize sales processes with Dynamics 365 Sales
 
-## Practice Lab 3.2 – Build quotes
+## Lab 3 – Build quotes
 
 ### Scenario
 As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you will test the process of building a quote from a new opportunity.
