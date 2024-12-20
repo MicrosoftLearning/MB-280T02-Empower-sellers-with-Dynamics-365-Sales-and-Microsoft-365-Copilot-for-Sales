@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 3.1: Configure the product catalog'
+    title: 'Lab 2: Configure the product catalog'
 ---
 
-# Module 3: Manage orders and product catalog with Dynamics 365
+# TW-7003: Optimize sales processes with Dynamics 365 Sales
 
-## Practice Lab 3.1 – Manage product catalog
+## Lab 2 – Manage product catalog
 
 ### Scenario
 As Contoso Coffee grows, they are looking to standardize their pricing structure and allow for easier creation of quotes, orders, and invoices with more accurate pricing and product details. Contoso Coffee recently released its newest smart coffee machine. As a functional consultant on their Dynamics 365 Sales implementation, you have been asked to configure the product catalog.
