@@ -51,7 +51,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
     ![Empty Account field](./Media/account_empty.png)
 
-1. Select **Save.**.
+1. Select **Save**.
 
 #### Task 2 – Qualify Coffee Machine Lead with Company
 1. Go to your Sales Hub application.
