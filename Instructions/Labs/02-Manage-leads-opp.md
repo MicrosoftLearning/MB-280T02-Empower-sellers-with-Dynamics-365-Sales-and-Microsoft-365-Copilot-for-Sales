@@ -20,7 +20,7 @@ Upon successful completion of this lab, you will be able to:
 #### Task 1 – Creating Leads
 In this task, you will create three leads, one without company information and two with company information.
 1. Go to your Dynamics 365 Sales Hub application. Ensure you are in the Sales area, using the bottom left dropdown menu.
-1. In the left navigation, under the **Sales** group, select **Leads.**
+1. In the left navigation, under the **Sales** group, select **Leads**.
 1. At the top of the **My Open Leads** pane, select **Read Only Grid** to change the type of view.
 1. From the menu that appears, select the **+ New** button on the top command bar.
 1. Enter *Coffee Machine Lead Without Company* for Topic, *Jane* for First Name, *Doe* for Last Name.
@@ -37,7 +37,7 @@ In this task, you will create three leads, one without company information and t
 In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
 #### Task 1 – Qualify Coffee Machine Lead Without Company Information
-1. In the left navigation, under the **Sales** group, select **Leads.**
+1. In the left navigation, under the **Sales** group, select **Leads**.
 1. On the **My Open Leads** pane, select **Jane Doe**.
 1. Select **Qualify** from the command bar. The lead will be Qualified into a new Opportunity record.
 1. Select **Opportunities** from the left navigation to view all open opportunities. 
@@ -52,21 +52,23 @@ In this exercise, you will qualify/disqualify leads and see what records will be
     ![Empty Account field](./Media/account_empty.png)
 
 #### Task 2 – Qualify Coffee Machine Lead with Company
-1. Go to your Sales Hub application.
-2. Select **Leads**.
-3. Locate Coffee Machine Lead with Company and open it.
-4. Click **Qualify** from the top menu.
-5. The lead will be qualified like the previous lead, and you will be taken to the newly created Opportunity record from the qualified Lead.
-6. Locate the Contact field. You will find that Jon Doe is now a Contact record.
-7. Locate the Account field. You will find that Doe, Inc. is now an Account record.
+1. In the left navigation, select **Leads**.
+1. Locate **Jon Doe** and open it.
+1. Click **Qualify** from the top menu.
+1. Select **Opportunities** from the left navigation to view all open opportunities. 
+1. Select the **Coffee Machine Lead with Company** opportunity. 
+1. Locate the **Contact** field. You will find that **Jon Doe** is now a Contact record.
+1. Locate the **Account** field. You will find that **Doe, Inc.** is now an Account record.
 
 #### Task 3 – Disqualify a Lead
-1. If necessary, go to your Sales Hub application.
-2. Select **Leads.**
-3. Locate the Another Coffee Machine Lead and open it.
-4. Click **Disqualify** (you may need to select the vertical ellipsis button for it to display).
-5. From the menu that appears, select **No Longer Interested.**
-6. The Lead will be Disqualified, the status will change to No Longer Interested, and the record will become Read-only.
+1. In the left navigation, select **Leads**.
+1. Locate and select **Jack Rogers** to open the lead.
+1. Select **Disqualify** from the command bar. You may need to select the vertical ellipsis button for it to display.
+
+    ![Disqualify](./Media/disqualify.png)
+
+1. From the menu that appears, select **No Longer Interested**.
+1. The lead will be Disqualified, the status will change to **No Longer Interested**, and the record will become Read-only.
 
 #### Task 4 – Reactivate A Lead
 1. If necessary, go to your Sales Hub application.
