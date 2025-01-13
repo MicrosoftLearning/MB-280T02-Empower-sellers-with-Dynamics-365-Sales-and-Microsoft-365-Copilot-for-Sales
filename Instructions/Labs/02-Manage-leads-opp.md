@@ -109,15 +109,17 @@ In this exercise, you will walk through the process of working an opportunity th
    - Identify Stakeholders: completed
    - Identify Competitors: completed
 1. Select the **Next Stage** button.
-1. On the Propose stage, set all the fields to **Completed.**
+1. On the **Propose** stage, set all the fields to **Completed**.
 1. Select the **Next Stage** button.
 1. Select anywhere outside of the business process stage to close it.
-1. In the Assistant section, under Notifications, select the **Phone Call** item you created earlier to open it.
-1. Select **Complete**. (Notice that the item disappears from your notifications.)
-1. Select the **Close stage** on the Lead to Opportunity sales process.
-1. Mark all the items in the Close stage as **Completed.**
-1. Select the **Finish** button.
-1. On the Command bar at the top, select the **Close as won** button.
-1. On the Close Opportunity screen, select the **OK** button.
+1. On the **Timeline** tile, select the **Close Activity** button for the Phone Call activity you created earlier.
+
+    ![Close phone call activity](./Media/close_phone_activity.png)
+
+1. Select **Completed** for the **State**, then select **Close Phone Call**.
+1. Select the **Close** stage of the Lead to Opportunity Sales Process flow.
+1. Mark all the items in the Close stage as **Completed**, then select the **Finish** button.
+1. On the command bar at the top, select the **Close as won** button.
+1. On the **Close opportunity** pane, select the **OK** button.
 
 Congratulations, you have successfully created and managed Leads and Opportunities in Dynamics 365 Sales.
