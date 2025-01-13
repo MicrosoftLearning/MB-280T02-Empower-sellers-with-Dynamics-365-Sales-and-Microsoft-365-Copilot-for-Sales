@@ -99,7 +99,11 @@ In this exercise, you will walk through the process of working an opportunity th
    - Subject: Initial Call to Jon.
    - Due: Enter Today’s Date at 4:30 PM
 1. Select the **Save and Close** button.
-1. With the Opportunity open, select the **Develop stage** on the Lead to Opportunity business process flow. Complete as follows:
+1. Select the **Develop** stage of the Lead to Opportunity Sales Process flow.
+
+    ![Lead to Opportunity Sales Process flow](./Media/sales_process_flow.png)
+
+1. Enter the following:
    - Customer Need: Looking to upgrade their coffee machines at multiple locations.
    - Proposed Solution: Recommending multiple AirPot Duo Machines.
    - Identify Stakeholders: Completed
