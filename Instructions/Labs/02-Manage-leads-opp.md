@@ -37,16 +37,21 @@ In this task, you will create three leads, one without company information and t
 In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
 #### Task 1 – Qualify Coffee Machine Lead Without Company Information
-1. Go to your Sales Hub application.
-2. Select **Leads.**
-3. On the Work Items pane, click on the **Read Only Grid** button.
-4. Locate **Coffee Machine Lead Without Company** and select it.
-5. Click **Qualify** from the top menu.
-6. The lead will be Qualified into a new Opportunity record.
-   - **NOTE:** If the new opportunity is not opened automatically, select Opportunities from the left menu to view all open opportunities. Then open the Coffee Machine Lead without Company opportunity.
-7. Locate the Contact field. You will find that Jane Doe is now a Contact record in the application that you can open.
-8. Locate the Account field (in the header of the opportunity record). Notice that the field will be empty.
-9. Click **Save.**
+1. In the left navigation, under the **Sales** group, select **Leads.**
+1. On the **My Open Leads** pane, select **Jane Doe**.
+1. Select **Qualify** from the command bar. The lead will be Qualified into a new Opportunity record.
+1. Select **Opportunities** from the left navigation to view all open opportunities. 
+1. In the command bar, select **Show As**, then select **Read Only Grid**.
+
+    ![Read Only Grid](./Media/opportunities_read_only.png)
+
+1. Select the **Coffee Machine Lead without Company** opportunity. 
+1. Locate the **Contact** field. You will find that **Jane Doe** is now a Contact record in the application that you can open.
+1. Locate the **Account** field in the header of the opportunity record. Notice that the field is empty.
+
+    ![Empty Account field](./Media/account_empty.png)
+
+1. Select **Save.**.
 
 #### Task 2 – Qualify Coffee Machine Lead with Company
 1. Go to your Sales Hub application.
