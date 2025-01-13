@@ -106,8 +106,8 @@ In this exercise, you will walk through the process of working an opportunity th
 1. Enter the following:
    - Customer Need: Looking to upgrade their coffee machines at multiple locations.
    - Proposed Solution: Recommending multiple AirPot Duo Machines.
-   - Identify Stakeholders: Completed
-   - Identify Competitors: Completed
+   - Identify Stakeholders: completed
+   - Identify Competitors: completed
 1. Select the **Next Stage** button.
 1. On the Propose stage, set all the fields to **Completed.**
 1. Select the **Next Stage** button.
