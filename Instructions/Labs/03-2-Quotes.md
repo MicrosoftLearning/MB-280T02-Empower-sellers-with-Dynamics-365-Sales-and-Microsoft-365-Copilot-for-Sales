@@ -66,7 +66,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 1. On the Quote page, examine the **PRODUCTS** section and make sure the products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
 1. Select **Activate Quote** on the command bar.
 
-    You may need to select the ellipses to see the option depending on your window size/resolution.
+    **Note:** You may need to select the ellipsis to see the option depending on your window size/resolution.
 
     ![Activate quote](./Media/activate-quote.png)
 
