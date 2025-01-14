@@ -54,16 +54,25 @@ In this task, you will create an Opportunity and add Products Line Items.
 1. Select **Save & Close** in the command bar.
 
 #### Task 2 – Create Quote
-In this task, you will create a Quote from the Opportunity you created in Task 1.
-1. If not there already, go to your Dynamics 365 Sales Hub application.
-2. If necessary, open the opportunity you created in the previous task. It will be called **Interested in Airpot XL accessories.**
-3. Select the **Quotes** tab.
-4. Above the subgrid, Click **+ New Quote.**
-5. The Quote form will open, and relevant information will be copied from the Opportunity.
-6. On the Interested in Airpot XL Accessories Quote page, examine the Products sub-grid and make sure products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
-7. On the Command bar, select **Activate Quote.** (Depending on the size of your browser, you may need to select the ellipses to see this option.)
-8. Click **Export to PDF** located on the command bar and select **Print Quote for Customer.** Click **Download.**
-9. Open the generated document and see what the Quote looks like.
-10. Close the PDF.
-11. Close the Export to PDF window.
+In this task, you will create a Quote from the Opportunity you created in Task 
+
+1. In the same **Interested in Airpot XL Accessories** Opportunity, select the **Quotes** tab.
+1. Select **+ New Quote** in the top-right of the Quotes section.
+
+    ![New quote](./Media/new-quote.png)
+
+    The Quote form will open, and relevant information will be copied from the Opportunity.
+
+1. On the Quote page, examine the **PRODUCTS** section and make sure the products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
+1. Select **Activate Quote** on the command bar.
+
+    You may need to select the ellipses to see the option depending on your window size/resolution.
+
+    ![Activate quote](./Media/activate-quote.png)
+
+1. Select **Export to PDF** on the command bar.
+1. On the **Export to PDF** dialog, select **Print quote for customer** if not already selected, then select **Download** at the top-left.
+1. Open the document and observe what the Quote looks like.
+1. Close the PDF.
+1. Close the **Export to PDF** dialog.
 
