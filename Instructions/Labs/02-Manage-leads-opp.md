@@ -26,7 +26,7 @@ In this task, you will create three leads, one without company information and t
 1. Enter *Coffee Machine Lead Without Company* for Topic, *Jane* for First Name, *Doe* for Last Name.
 1. Select the **Save** button on the command bar.
 1. On the command bar, select **+ New** again.
-1. If prompted to discard suggestions, select **Continue anyway**.
+1. If prompted to discard suggestions, select the **Do not show again** checkbox, then select **Continue anyway**.
 1. Enter *Coffee Machine Lead with Company* for Topic, *Jon* for First Name, *Doe* for Last Name, *Doe Inc.* for Company.
 1. Select  **Save**.
 1. On the command bar, select the **+ New** button one more time.
