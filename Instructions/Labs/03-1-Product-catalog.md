@@ -23,7 +23,7 @@ In this task, you will create unit groups for a line of coffee machine filters.
 1. Go to your Dynamics 365 Sales Hub application.
 1. Select **Sales** (default option for the Change Area menu) in the lower-left, then select **App Settings**.
 
-    [Change Area - App Settings](./Media/change-area-app-settings.png)
+    ![Change Area - App Settings](./Media/change-area-app-settings.png)
 
 1. Under the **Product Catalog** section on the left menu, select **Unit Groups**.
 1. Select **+ New** on the top command bar.
