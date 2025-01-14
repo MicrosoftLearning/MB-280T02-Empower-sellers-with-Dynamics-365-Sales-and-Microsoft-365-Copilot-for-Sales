@@ -16,7 +16,7 @@ This new offering will help them to build direct relationship with their custome
 
 #### Task 1 – Create a Trial
 
-1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. 
+1. In a new browser tab, go to https://dynamics.microsoft.com/dynamics-365-free-trial. 
     
 1. Select **Try for free**.
 
@@ -24,7 +24,7 @@ This new offering will help them to build direct relationship with their custome
 
 1. Locate the **Dynamic 365 Sales** tile and select **Try for free**.
 
-    ![Try Dynamic 365 Sales for free](./Media/try-for-free.png)
+    ![Try Dynamic 365 Sales for free](./Media/try-for-free-2.png)
 
 1. In the **Let's get started** dialog, enter the credentials that were provided to you as part of your lab environment.
 
