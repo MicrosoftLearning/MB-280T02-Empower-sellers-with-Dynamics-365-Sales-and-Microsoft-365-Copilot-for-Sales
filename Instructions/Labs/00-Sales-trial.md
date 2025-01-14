@@ -30,11 +30,7 @@ This new offering will help them to build direct relationship with their custome
 
 1. Select the checkbox for the terms and agreements, then select **Start your free trial**.
 
-1. If prompted to enter a phone number, you can enter *0123456789*.
-
-1. Select **Submit**.
-
-    Your trial will launch. It may take a few minutes for your environment to open.
+1. When prompted to enter a phone number, enter *0123456789*, then select **Submit** to launch your trial.
 
 1. On the header in the top-left, select **Sales trial**. 
 
@@ -43,6 +39,8 @@ This new offering will help them to build direct relationship with their custome
     This will open your list of available apps.
     
 1. In the **Apps** dialog, select **Sales Hub** to open the application.
+
+    ![Open Sales Hub](./Media/sales-hub.png)
 
 1. Feel free to take a few minutes to explore the application.
 
