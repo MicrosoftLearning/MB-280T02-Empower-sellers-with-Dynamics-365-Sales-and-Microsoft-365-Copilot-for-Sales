@@ -39,8 +39,8 @@ Upon successful completion of this lab, you will be able to:
 
 1. For the default form for each record type, configure as follows:
 
-    - Leads: Sales Insights
-    - Opportunities: Sales Insights
+    - Leads: **Sales Insights**
+    - Opportunities: **Sales Insights**
 
 1. Select the **Publish** button.
 
@@ -49,11 +49,17 @@ Upon successful completion of this lab, you will be able to:
 ### Task 2: Create a Segment
 
 1. Under the **Sales accelerator** section, select the **Work Assignment** tab.
+
 1. Select **Next** through the tips.
+
 1. Set **Record type** to **Leads**
+
 1. Select the **New Segment** button.
+
 1. In the **Name** field enter *Trade Show Leads* and then select the **Next** button.
+
 1. On the default **Segment definition** tab, select the **Add** button, then select **Add row**.
+
 1. Configure the condition as follows:
 
     - **Lead Source** – **Equals** – **Trade Show**
@@ -63,23 +69,34 @@ Upon successful completion of this lab, you will be able to:
     You'll see a segment member simulation screen which will include any leads that meet your criteria.
 
 1. Close the **Segment member simulation** dialog.
+
 1. Select the **Save** button in the top-right.
+
 1. Select the **Activate** button in the top-right, then select **Activate** again in the dialog.
 
 ## Exercise 2: Create and attach Sequences to records
 
 ### Task 1: Create new sequence
 
-1.  If you have not done so already, change the area to **Sales Insights settings.**
-2.  In the Sales Insights group, select **Global settings.**
-3.  In the Sales accelerator sub-group, select the **Sequences** tab.
-4.  If necessary, select **Enable** on the notification to enable workflow for sequences to work properly.
-5.  On the Sequences tab, select **+ New sequence.**
-6.  You have the option to create a sequence from a number of common templates. You can explore the templates available. When you're ready, select **Start from blank.**
-7.  Next, you will assign a name, description, and choose the type of table that the sequence will be available for. In the Sequence Name text box, type the sequence name, *Trade Show Follow-up Sequence.*
-8.  In the Description text box, enter sequence description: "This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows."
-9.  In Record type, select **Lead** (if it is not already selected).
-10. Click **Next.**
+1. Under the **Sales accelerator** section, select the **Sequences** tab.
+
+1. If prompted, select **Enable** on the banner notification to enable workflow for sequences to work properly.
+
+    ![Enable workflow](./Media/enable-workflow.png)
+
+1. On the Sequences blade, select **+ New sequence**.
+    
+    You'll have the option to create a sequence from a number of common templates. You can explore the templates available. 
+    
+1. Select the **Start from blank** button at the bottom-right.
+
+1. You'll assign a name, description, and choose the type of table that the sequence will be available for. Use the following:
+
+    - Name: *Trade Show Follow-up Sequence*
+    - Description: *This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows.*
+    - Record type: **Lead**
+
+1. Select **Next**.
 
 ### Task 2: Choose the first activity for seller to take
 
