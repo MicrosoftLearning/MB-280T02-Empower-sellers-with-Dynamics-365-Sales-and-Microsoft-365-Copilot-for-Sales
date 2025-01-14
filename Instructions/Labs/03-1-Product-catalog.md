@@ -116,7 +116,7 @@ In this task, you will create products.
 1. Select **Add Product** on the top command bar.
 1. Use the following information for **Product: New Product**:
 
-    - Name: **Airpot XL 6 month filter**
+    - Name: **Airpot XL 6 Month Filter**
     - Product ID: **AXL6MF-1234**
     - Unit Group: **Filters**
     - Default Unit: **Filter**
