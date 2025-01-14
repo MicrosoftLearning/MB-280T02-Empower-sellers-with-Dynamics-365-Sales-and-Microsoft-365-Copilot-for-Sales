@@ -143,7 +143,7 @@ To make the sequence available for sellers to use, activate the sequence.
 
 1. In the **Activate sequence?** dialog, select the **I understand** checkbox, then select **Activate**.
 
-1. Your sequence will display a green banner notification at the top telling you the sequence was successfully activated.
+    Your sequence will display a green banner notification at the top telling you the sequence was successfully activated.
 
 ### Task 5: Connect the sequence to a segment
 
