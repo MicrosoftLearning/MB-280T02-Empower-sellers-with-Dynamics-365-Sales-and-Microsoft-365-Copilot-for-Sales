@@ -47,6 +47,7 @@ In this task, you will create three leads, one without company information and t
 1. Select **Save**.
 
 ### Exercise 2 – Lead Qualifications
+
 In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
 #### Task 1 – Qualify Coffee Machine Lead Without Company Information

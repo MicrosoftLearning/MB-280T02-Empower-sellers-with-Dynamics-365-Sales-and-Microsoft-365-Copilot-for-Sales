@@ -15,13 +15,20 @@ This new offering will help them to build direct relationship with their custome
 ### Exercise 1 – Access a trial environment
 
 #### Task 1 – Create a Trial
-1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. In the middle of the screen, you will see two buttons: one to see plans and pricing, the other to try for free. Select **Try for free.**
 
-1. Locate Dynamic 365 Sales.
+1. In a new browser tab, navigate to https://dynamics.microsoft.com/dynamics-365-free-trial. 
+    
+1. Select **Try for free**.
 
-1. Select the **Try for free** button.
+    ![Try for free](./Media/try-for-free.png)
 
-1. In the **Let's get started** screen, enter the credentials that were provided to you as part of your lab environment. Accept the license agreement.
+1. Locate the **Dynamic 365 Sales** tile and select **Try for free**.
+
+    ![Try Dynamic 365 Sales for free](./Media/try-for-free.png)
+
+1. In the **Let's get started** dialog, enter the credentials that were provided to you as part of your lab environment.
+
+1. Select the checkbox for the terms and agreements, then select **Start your free trial**.
 
 1. If prompted to enter a phone number, you can enter *0123456789*.
 
