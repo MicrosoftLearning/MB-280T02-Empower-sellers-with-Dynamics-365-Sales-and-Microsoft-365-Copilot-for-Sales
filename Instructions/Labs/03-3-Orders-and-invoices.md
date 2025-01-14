@@ -32,9 +32,9 @@ In this task, you will create an Order from a Quote.
 1. At the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Order Summary**.
 1. Open the generated Word document and review the Order. 
 1. Close the document.
-1. At the end of the command bar, select **Fulfill Order**.
+1. Select **Fulfill Order** on the command bar.
 
-    **Note:** You may need to select the ellipsis to see the option depending on your window size/resolution.
+    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
 
 1. Select **Fulfill**. 
 

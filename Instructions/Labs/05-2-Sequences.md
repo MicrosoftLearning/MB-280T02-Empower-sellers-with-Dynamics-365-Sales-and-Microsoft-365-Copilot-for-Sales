@@ -21,35 +21,50 @@ Upon successful completion of this lab, you will be able to:
 
 ### Task 1: Enable Sales Accelerator
 
-1.  In the Sales Insights group, select **Global settings.**
-2.  In the Sales accelerator sub-group, select the **Sequences** tab.
-3.  You will be asked to set up the Workspace to be able to use Sequences. Select the **Setup workspace** button.
-4.  Select the **Quick setup** button.
-5.  In the Record type and form section, select **+ Add record type**. Select **Opportunities.**
-6.  For the default form for each record type, configure as follows:
-    -   Leads: Sales Insights
-    -   Opportunities: Sales Insights
-7.  Select the **Publish** button.
-    -   Note: It can take several minutes for your changes to be applied.
+1. Select **Sales** on the Change Area menu in the lower-left, then select **Sales Insights settings**.
+
+    ![Change area to Sales Insights settings](./Media/sales-insights-settings.png)
+
+1. Under the **Sales accelerator** section, select the **Sequences** tab.
+
+    You will be asked to set up the Workspace to be able to use Sequences. 
+    
+1. Select the **Setup workspace** button.
+    
+1. Select the **Quick setup** button.
+
+1. Under the **Record type and form** section, select **+ Add record type**. 
+
+1. Select **Opportunities**.
+
+1. For the default form for each record type, configure as follows:
+
+    - Leads: Sales Insights
+    - Opportunities: Sales Insights
+
+1. Select the **Publish** button.
+
+    **Alert:** It may take several minutes for your changes to be applied.
 
 ### Task 2: Create a Segment
 
-1.  If you have not done so already, change the area to **Sales Insights settings.**
-2.  In the Sales Insights group, select **Global settings.**
-3.  In the Sales accelerator sub-group, select the **Work Assignment** tab.
-4.  Make sure the **Record type** is set to **Leads** and select the **New Segment** button.
-5.  In the **Name** field enter the text **Trade Show Leads** and then select the **Next** button.
-6.  On the **Segment definition** tab, select the **Add** button.
-7.  From the menu that appears, select **Add** row.
-8.  Configure the condition as follows:
-    1.  **Lead Source** – **Equals** – **Trade Show**
-9.  Select **Simulate Results**.
+1. Under the **Sales accelerator** section, select the **Work Assignment** tab.
+1. Select **Next** through the tips.
+1. Set **Record type** to **Leads**
+1. Select the **New Segment** button.
+1. In the **Name** field enter *Trade Show Leads* and then select the **Next** button.
+1. On the default **Segment definition** tab, select the **Add** button, then select **Add row**.
+1. Configure the condition as follows:
 
-    You should see a segment member simulation screen which will include any leads that meet your criteria.
+    - **Lead Source** – **Equals** – **Trade Show**
 
-10. Close the **Segment member simulation** window.
-11. Select the **Save** button.
-12. Select the **Activate** button.
+1.  Select **Simulate Results**.
+
+    You'll see a segment member simulation screen which will include any leads that meet your criteria.
+
+1. Close the **Segment member simulation** dialog.
+1. Select the **Save** button in the top-right.
+1. Select the **Activate** button in the top-right, then select **Activate** again in the dialog.
 
 ## Exercise 2: Create and attach Sequences to records
 
