@@ -90,7 +90,7 @@ Upon successful completion of this lab, you will be able to:
     
 1. Select the **Start from blank** button at the bottom-right.
 
-1. You'll assign a name, description, and choose the type of table that the sequence will be available for. Use the following:
+1. Assign a name, description, and the type of table that the sequence will be available for using the following:
 
     - Name: *Trade Show Follow-up Sequence*
     - Description: *This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows.*
@@ -100,27 +100,40 @@ Upon successful completion of this lab, you will be able to:
 
 ### Task 2: Choose the first activity for seller to take
 
-Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. In our example, we will start with an email.
+Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. In our example, we'll start with an email.
 
-1.  Underneath the Sequence start tile, select the **+** button to add an action or other element.
-2.  Click on **Send an email.**
-3.  For Title, enter: *Introduction email.*
-4.  For Description, optionally enter a description: *Introduce lead to the sales team.*
-5.  If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this case, we will assume that the seller will write their own introduction email.
-6.  Select the **X** to close out of the Activity pane.
-7.  On the Command Bar for the sequence, select **Save.**
+1. Underneath the **Sequence start** node, select the **+** button to add an action or other element.
+
+1. In the **Add an action** dialog, select on **Send an email**.
+
+1. Enter the following in the **Email** pane:
+
+    - Title: *Introduction email*
+    - Description: *Introduce lead to the sales team.*
+
+    **Note:** If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this lab, we'll forego the template and assume the seller will write their own introduction email.
+
+1.  Select **Save** on the command bar.
 
 ### Task 3: Add additional activities for your seller to take
 
-Add additional activities for your sellers to take in an ordered manner - for example, the seller needs to take the first activity first, then the second and third and so on.
+Add additional activities for your sellers to take in an ordered manner following the introduction email.
 
-1.  Click on the **+** button.
-2.  Choose the next activity for the seller to take, can be either sending an email, making a phone call or add a task of your own. Select **Set wait time** to define a time-interval between activities. In our example we will add a time-interval of 1 hour.
-3.  Click Save.
-4.  Click on the **+** button.
-5.  Select **Phone call.**
-6.  In the Title, enter *Follow-up call.* (You can choose to add a description if you would like.)
-7.  Select **Save** on the command bar.
+1. Under the new **Send an email** node, select the **+** button.
+
+1. Select **Set wait time** to define a time-interval between activities.
+
+1. In the **Wait** pane, set **Hours** to **1**.
+
+1. Select **Save** on the command bar.
+
+1. Under the **Set wait time** node, select the **+** button.
+
+1. Select **Make a phone call**.
+
+1. In the **Phone call** pane, enter *Follow-up call* for the **Title**, and optionally add a description.
+
+1.  Select **Save**.
 
 ### Task 4: Activate the sequence
 
