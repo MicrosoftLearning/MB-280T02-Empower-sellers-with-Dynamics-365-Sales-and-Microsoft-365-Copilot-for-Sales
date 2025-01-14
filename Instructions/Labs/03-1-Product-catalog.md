@@ -32,7 +32,9 @@ In this task, you will create unit groups for a line of coffee machine filters.
     - Name: **Filters**
     - Primary Unit: **Each** 
 
-1. Once the Unit Group opens, select the **Related** tab, then **Units**.
+1. Once the Unit Group opens, select the **Related** tab, then select **Units**.
+
+    ![Related tab](./Media/related-tab.png)
 
     You will find that you only have the default unit **Each** now. You will add three more units. 
 
@@ -45,7 +47,7 @@ In this task, you will create unit groups for a line of coffee machine filters.
 
 1. Select the **˅** dropdown icon to the right of the **Save and Close** button, then select **Save & Create New**.
 
-1. Enter the following information in **Quick Create: Unit**:
+1. Enter the following information:
 
     - Name: **Pack**
     - Quantity: **2** 
@@ -53,7 +55,7 @@ In this task, you will create unit groups for a line of coffee machine filters.
 
 1. Select the **˅** dropdown icon, then select **Save & Create New**.
 
-1. Enter the following information in **Quick Create: Unit**:
+1. Enter the following information:
 
     - Name: **Value Pack**
     - Quantity: **2** 
@@ -65,14 +67,35 @@ In this task, you will create unit groups for a line of coffee machine filters.
 
 #### Task 2 – Create Discount List
 In this task, you will create a Discount List for people that buy 15 or 20 or more filters. The 15 filters will get a 15% discount and 20 to 50 filters will get a 25% discount.
-1. Select **Discount Lists** from the Product Catalog section of the left menu.
-2. Click **+ New.**
-3. Enter *Quantity Discount* for Name, select **Percentage** for Type, and click **Save.**
-4. Click **Related** and choose **Discounts.**
-5. Click **+ New Discount.**
-6. Make sure Quantity Discount is selected for Discount Type, enter *15* for Begin Quantity, *19* for End Quantity, *15* for Percentage and click **Save.**
-7. Click **+ New** again.
-8. Select **Quantity Discount** for Discount Type. Then enter *20* for Begin Quantity, *50* for End Quantity, enter *25* for Percentage, and click **Save.**
+
+1. Under the **Product Catalog** section on the left menu, select **Discount Lists**.
+1. Select **+ New** on the top command bar.
+1. Use the following information for the **New Discount List**:
+
+    - Name: **Quantity Discount**
+    - Type: **Percentage** 
+
+1. Select **Save** on the command bar.
+1. Select the **Related** tab, then select **Discounts**.
+1. Select **+ New Discount** at the top of the **Discount Associated View** section.
+
+1. Enter the following information for the **New Discount List**:
+
+    - Discount Type: **Quantity Discount**
+    - Begin Quantity: **15** 
+    - End Quantity: **19**
+    - Percentage: **15**
+
+1. Select **Save**.
+1. Select **+ New** again.
+1. Enter the following information:
+
+    - Discount Type: **Quantity Discount**
+    - Begin Quantity: **20** 
+    - End Quantity: **50**
+    - Percentage: **25**
+
+1. Select **Save**.
 
 #### Task 3 – Create Price List
 In this task, you will create a price list for the filters.
