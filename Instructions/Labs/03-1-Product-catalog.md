@@ -193,4 +193,4 @@ In this task, you will create products.
 1. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
 1. Select **Products** again in the left menu.
 
-    The products you created will show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. 
+    The products you created will show up on the **All Products, Families & Bundles** view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. 
