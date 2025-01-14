@@ -21,17 +21,47 @@ Upon successful completion of this lab, you will be able to:
 #### Task 1 – Create Unit Group
 In this task, you will create unit groups for a line of coffee machine filters.
 1. Go to your Dynamics 365 Sales Hub application.
-2. Click into the Change area menu (located in lower left side of screen). By default, Sales will be displayed in the bottom of the left menu.
-3. From the menu that appears, select **App Settings.**
-4. Select **Unit Groups** from the Product Catalog section of the left menu.
-5. Click **+ New.**
-6. Enter **Filters** for Name, enter **Each** for Primary Unit, and click **OK.**
-7. Once the Unit Group opens, select the Related tab and choose **Units.**
-8. You will find that you only have the default unit Each now; you will add three more units. Click **+ New Unit.**
-9. Enter *Filter* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
-10. Enter *Pack* for Name, *2* for Quantity, select **Filter** for Base Unit and click **Save & Create New.**
-11. Enter *Value Pack* for Name, *2* for Quantity, select **Pack** for Base Unit and click **Save and Close.**
-12. You should now have four unit groups in the list.
+1. Select **Sales** (default option for the Change Area menu) in the lower-left, then select **App Settings**.
+
+    [Change Area - App Settings](./Media/change-area-app-settings.png)
+
+1. Under the **Product Catalog** section on the left menu, select **Unit Groups**.
+1. Select **+ New** on the top command bar.
+1. Enter the following information in **Create Unit Group**:
+
+    - Name: **Filters**
+    - Primary Unit: **Each** 
+
+1. Once the Unit Group opens, select the **Related** tab, then **Units**.
+
+    You will find that you only have the default unit **Each** now. You will add three more units. 
+
+1. Select **+ New Unit** at the top of the **Unit Group Units Associated View** section.
+1. Enter the following information in **Quick Create: Unit**:
+
+    - Name: **Filter**
+    - Quantity: **1** 
+    - Base Unit: **Each**
+
+1. Select the **˅** dropdown icon to the right of the **Save and Close** button, then select **Save & Create New**.
+
+1. Enter the following information in **Quick Create: Unit**:
+
+    - Name: **Pack**
+    - Quantity: **2** 
+    - Base Unit: **Filter**
+
+1. Select the **˅** dropdown icon, then select **Save & Create New**.
+
+1. Enter the following information in **Quick Create: Unit**:
+
+    - Name: **Value Pack**
+    - Quantity: **2** 
+    - Base Unit: **Pack**
+
+1. Select **Save and Close**.
+
+    You will now see the four unit groups in the list.
 
 #### Task 2 – Create Discount List
 In this task, you will create a Discount List for people that buy 15 or 20 or more filters. The 15 filters will get a 15% discount and 20 to 50 filters will get a 25% discount.
