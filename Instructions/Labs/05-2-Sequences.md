@@ -131,36 +131,53 @@ Add additional activities for your sellers to take in an ordered manner followin
 
 1. Select **Make a phone call**.
 
-1. In the **Phone call** pane, enter *Follow-up call* for the **Title**, and optionally add a description.
+1. In the **Phone call** pane, enter *Follow-up call* for the **Title**, and optionally add a **Description**.
 
-1.  Select **Save**.
+1. Select **Save**.
 
 ### Task 4: Activate the sequence
 
 To make the sequence available for sellers to use, activate the sequence.
 
-1.  Select **Activate** on the command bar.
-2.  Select **I understand**, and then **Activate** in the pop-up.
-3.  Your sequence will now have a green bar at the top telling you that the sequence was successfully activated.
+1. Select **Activate** on the command bar.
+
+1. In the **Activate sequence?** dialog, select the **I understand** checkbox, then select **Activate**.
+
+1. Your sequence will display a green banner notification at the top telling you the sequence was successfully activated.
 
 ### Task 5: Connect the sequence to a segment
 
-1.  Make sure you are in the **Sales Insights settings** area.
-2.  Using the navigation on the left, select **Sequences**.
-3.  Open the **Trade Show follow-up** sequence you created earlier.
-4.  Select the **Connected leads** tab.
-5.  Select **+ Connect Segments**
-6.  Locate and select the **Trade Show Leads** segment you created earlier.
-7.  Select **Connect**.
+1. In **Trade Show Follow-up Sequence**, select the **Connected leads** tab.
+
+    ![Connected leads tab](./Media/connected-leads.png)
+
+1. Select **+ Connect Segments**.
+
+1. In the **Connect segments** dialog, ensure the **Trade Show Leads** segment is selected, then select **Connect**.
 
 ### Task 6: Connect the sequence to record (From Record)
 
-1.  Change the area to the **Sales** area using the bottom left dropdown menu.
-2.  Select **Leads** from the site navigation menu.
-3.  Select one of the leads you created earlier.
-4.  On the command bar, select the **down arrow** next to Sequences. From the menu that appears, select **Connect sequence** from the command bar.
-5.  Select the sequence you created earlier and select **Connect.**
-6.  A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record.
-7.  If you are prompted to assign a seller, select the **Assign** button. Now, the seller(s) who have access to the lead record can see the activities connected with it.
-8.  Refresh the page - you should see the tasks you created in the **Up next** section.
+1. Select **Sales Insights settings** on the Change Area menu in the lower-left, then select **Sales**.
+
+1. In the left navigation, under the **Sales** group, select **Leads**.
+
+1. Select **Jack Rogers** to open the lead you created earlier.
+
+1. On the command bar, select the arrow to the right of **Sequences**, then select **Connect sequence**.
+
+    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
+
+    ![Connect sequence ellipsis](./Media/connect-sequence.png)
+
+1. In the **Connect lead to sequence** dialog, select **Trade Show Follow-up Sequence** from the list, then select **Connect**.
+
+    A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record.
+
+1. If prompted to assign a seller, select the **Assign** button. 
+
+    The seller(s) who have access to the lead record can see the activities connected with it.
+
+1. In the **Up next** section, you will now see the tasks you created.
+
+    ![Final results](./Media/up-next.png)
 
