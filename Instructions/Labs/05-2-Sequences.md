@@ -10,7 +10,7 @@ lab:
 ### Scenario
 Contoso Coffee’s sellers suggest that sales could be improved if organizational "best practices" were easier to follow. After examination, Contoso’s sales managers have determined an ideal sequence of sales events for sellers. They want to enforce best practices by setting up a series of consecutive activities for sellers to follow while qualifying leads. You want to ensure that it is as easy as possible for sellers to follow during their day. You have determined that a sequence is the best way to accomplish this.
 
-Upon successful completion of this lab, you will be able to:
+Upon successful completion of this lab, you'll be able to:
 
 -   Create a segment
 -   Create a sequence
@@ -27,7 +27,7 @@ Upon successful completion of this lab, you will be able to:
 
 1. Under the **Sales accelerator** section, select the **Sequences** tab.
 
-    You will be asked to set up the Workspace to be able to use Sequences. 
+    You'll be asked to set up the Workspace to be able to use Sequences. 
     
 1. Select the **Setup workspace** button.
     
@@ -100,7 +100,7 @@ Upon successful completion of this lab, you will be able to:
 
 ### Task 2: Choose the first activity for seller to take
 
-Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. In our example, we'll start with an email.
+Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. You'll start with an email.
 
 1. Underneath the **Sequence start** node, select the **+** button to add an action or other element.
 
@@ -111,7 +111,7 @@ Choose the first step for your sellers to take. This can be either sending an em
     - Title: *Introduction email*
     - Description: *Introduce lead to the sales team.*
 
-    **Note:** If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this lab, we'll forego the template and assume the seller will write their own introduction email.
+    **Note:** If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this lab, you'll forego this and assume the seller will write their own introduction email.
 
 1.  Select **Save** on the command bar.
 
@@ -159,7 +159,7 @@ To make the sequence available for sellers to use, activate the sequence.
 
 1. Select **Sales Insights settings** on the Change Area menu in the lower-left, then select **Sales**.
 
-1. In the left navigation, under the **Sales** group, select **Leads**.
+1. In the left pane, under the **Sales** group, select **Leads**.
 
 1. Select **Jack Rogers** to open the lead you created earlier.
 
@@ -177,7 +177,7 @@ To make the sequence available for sellers to use, activate the sequence.
 
     The seller(s) who have access to the lead record can see the activities connected with it.
 
-1. In the **Up next** section, you will now see the tasks you created.
+1. In the **Up next** section, you'll now see the tasks you created.
 
     ![Final results](./Media/up-next.png)
 

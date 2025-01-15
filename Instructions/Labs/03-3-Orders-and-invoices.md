@@ -8,16 +8,16 @@ lab:
 ## Lab 4 – Orders and invoices
 
 ### Scenario
-As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you will test the process of generating orders, and invoices.
+As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you'll test the process of generating orders, and invoices.
 
-Upon successful completion of this lab, you will be able to:
+Upon successful completion of this lab, you'll be able to:
 - Generate an order from a quote
 - Convert the order into an invoice
 
 ### Exercise 1 – Orders and Invoices
 
 #### Task 1 – Create Order
-In this task, you will create an Order from a Quote.
+In this task, you'll create an Order from a Quote.
 
 1. In the left menu of Dynamic 365 Sales Hub, under **Collateral**, select **Quotes**.
 
@@ -49,7 +49,7 @@ In this task, you will create an Order from a Quote.
 
 #### Task 2 – Create Invoice
 
-In this task, you will create an Invoice.
+In this task, you'll create an Invoice.
 
 1. Select **Create Invoice** on the command bar.
     

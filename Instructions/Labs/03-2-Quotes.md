@@ -8,9 +8,9 @@ lab:
 ## Lab 3 – Build quotes
 
 ### Scenario
-As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you will test the process of building a quote from a new opportunity.
+As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you'll test the process of building a quote from a new opportunity.
 
-Upon successful completion of this lab, you will be able to:
+Upon successful completion of this lab, you'll be able to:
 - Create opportunities and add opportunity line items
 - Generate a quote from an opportunity
 
@@ -18,7 +18,7 @@ Upon successful completion of this lab, you will be able to:
 
 #### Task 1 – Add Products Line Items
 
-In this task, you will create an Opportunity and add Products Line Items.
+In this task, you'll create an Opportunity and add Products Line Items.
 
 1. Go to your Dynamics 365 Sales Hub application.
 
@@ -53,7 +53,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 1. For **Airpot XL Reservoir Extension**, leave *1* for **Quantity**, and select **Add**.
 
-    You will see three products are added. 
+    You'll see three products are added. 
     
 1. Select **Save to Opportunity**.
 
@@ -71,7 +71,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 
 #### Task 2 – Create Quote
 
-In this task, you will create a Quote from the Opportunity you created in Task 
+In this task, you'll create a Quote from the Opportunity you created in Task 
 
 1. In the same **Interested in Airpot XL Accessories** Opportunity, select the **Quotes** tab.
 

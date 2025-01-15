@@ -10,7 +10,7 @@ lab:
 ### Scenario
 Contoso Coffee is looking to use Dynamics 365 Sales to formalize their sales process as well as address a backlog of untouched leads imported by the marketing team from trade shows and campaigns. As a sales analyst at Contoso Coffee, you have been asked to assess and update lead records to ensure that the executive team is working from an accurate pipeline report in the upcoming leadership meeting.
 
-Upon successful completion of this lab, you will be able to:
+Upon successful completion of this lab, you'll be able to:
 - Create and update lead records
 - Qualify and disqualify leads
 - Reactivate lead records
@@ -20,11 +20,11 @@ Upon successful completion of this lab, you will be able to:
 ### Exercise 1 – Manage customers
 
 #### Task 1 – Creating Leads
-In this task, you will create three leads, one without company information and two with company information.
+In this task, you'll create three leads, one without company information and two with company information.
 
 1. Go to your Dynamics 365 Sales Hub application. Ensure you are in the Sales area, using the bottom left dropdown menu.
 
-1. In the left navigation, under the **Sales** group, select **Leads**.
+1. In the left pane, under the **Sales** group, select **Leads**.
 
 1. At the top of the **My Open Leads** pane, select **Read Only Grid** to change the type of view.
 
@@ -54,11 +54,11 @@ In this task, you will create three leads, one without company information and t
 
 ### Exercise 2 – Lead Qualifications
 
-In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
+In this exercise, you'll qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
 #### Task 1 – Qualify Coffee Machine Lead Without Company Information
 
-1. In the left navigation, under the **Sales** group, select **Leads**.
+1. In the left pane, under the **Sales** group, select **Leads**.
 
 1. On the **My Open Leads** pane, select **Jane Doe**.
 
@@ -68,7 +68,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
     ![Qualify lead](./Media/qualify-lead.png)
 
-1. In the left navigation, under the **Sales** group, select **Opportunities** to view all open opportunities. 
+1. In the left pane, under the **Sales** group, select **Opportunities** to view all open opportunities. 
 
 1. In the command bar, select **Show As**, then select **Read Only Grid**.
 
@@ -85,13 +85,13 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 2 – Qualify Coffee Machine Lead With Company
 
-1. In the left navigation, select **Leads**.
+1. In the left pane, select **Leads**.
 
 1. Select **Jon Doe** from the list to open the lead.
 
 1. Select **Qualify** on the command bar.
 
-1. Select **Opportunities** from the left navigation to view all open opportunities. 
+1. Select **Opportunities** from the left pane to view all open opportunities. 
 
 1. Select the **Coffee Machine Lead With Company** opportunity. 
 
@@ -102,7 +102,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 3 – Disqualify a Lead
 
-1. In the left navigation, select **Leads**.
+1. In the left pane, select **Leads**.
 
 1. Locate and select **Jack Rogers** to open the lead.
 
@@ -121,7 +121,7 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 4 – Reactivate A Lead
 
-1. In the left navigation, select **Leads**.
+1. In the left pane, select **Leads**.
 
     The Lead you disqualified is no longer in the **My Open Leads** view. 
     
@@ -136,10 +136,10 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 
 ### Exercise 3 – Work with Opportunities
-In this exercise, you will walk through the process of working an opportunity through the sales process.
+In this exercise, you'll walk through the process of working an opportunity through the sales process.
 
 #### Task 1 – Manage the Coffee Machine Lead With Company
-1. In the left navigation, select **Opportunities**.
+1. In the left pane, select **Opportunities**.
 
 1. Select the **Coffee Machine Lead With Company** opportunity to open it.
 
@@ -201,6 +201,6 @@ In this exercise, you will walk through the process of working an opportunity th
 
 1. On the command bar at the top, select the **Close as won** button.
 
-1. On the **Close opportunity** pane, select the **OK** button.
+1. On the **Close opportunity** dialog, select **OK**.
 
 Congratulations, you have successfully created and managed Leads and Opportunities in Dynamics 365 Sales.
