@@ -17,6 +17,7 @@ Upon successful completion of this lab, you'll be able to:
 -   Define sequence activities
 -   Activate and connect sequences to records
 
+
 ## Exercise 1: Create and attach Sequences to records
 
 ### Task 1: Enable Sales Accelerator
@@ -29,36 +30,39 @@ Upon successful completion of this lab, you'll be able to:
 
     You'll be asked to set up the Workspace to be able to use Sequences. 
     
-1. Select the **Setup workspace** button.
+1. Select **Setup workspace**.
     
-1. Select the **Quick setup** button.
+1. Select **Quick setup**.
 
-1. Under the **Record type and form** section, select **+ Add record type**. 
+1. Under the **Record type and form** section, select **+ Add record type**, then select **Opportunities**.
 
-1. Select **Opportunities**.
-
-1. For the default form for each record type, configure as follows:
+1. For the **Default form** selection for each record type, configure as follows:
 
     - Leads: **Sales Insights**
     - Opportunities: **Sales Insights**
 
-1. Select the **Publish** button.
+1. Select **Publish**.
 
     **Alert:** It may take several minutes for your changes to be applied.
+
 
 ### Task 2: Create a Segment
 
 1. Under the **Sales accelerator** section, select the **Work Assignment** tab.
 
-1. Select **Next** through the tips.
-
 1. Set **Record type** to **Leads**
 
-1. Select the **New Segment** button.
+1. Select **Create a segment**.
 
-1. In the **Name** field enter *Trade Show Leads* and then select the **Next** button.
+    ![Create a segment](./Media/create-a-segment.png)
 
-1. On the default **Segment definition** tab, select the **Add** button, then select **Add row**.
+    **Alert:** If the button is missing, try switching **Record type** to **Opportunities** and back to **Leads**.
+
+1. In the **Name** field, enter *Trade Show Leads*, then select **Next**.
+
+1. On the initial **Segment definition** tab, select **Add**, then select **Add row**.
+
+    ![Add row to segment definition](./Media/segment-add-row.png)
 
 1. Configure the condition as follows:
 
@@ -70,9 +74,11 @@ Upon successful completion of this lab, you'll be able to:
 
 1. Close the **Segment member simulation** dialog.
 
-1. Select the **Save** button in the top-right.
+1. Select **Save** in the top-right.
 
-1. Select the **Activate** button in the top-right, then select **Activate** again in the dialog.
+1. Select **Activate** in the top-right, then select **Activate** again in the dialog.
+
+
 
 ## Exercise 2: Create and attach Sequences to records
 
@@ -80,15 +86,15 @@ Upon successful completion of this lab, you'll be able to:
 
 1. Under the **Sales accelerator** section, select the **Sequences** tab.
 
-1. If prompted, select **Enable** on the banner notification to enable workflow for sequences to work properly.
+1. If prompted, select **Enable** on the red banner notification to enable workflow for sequences to work properly.
 
     ![Enable workflow](./Media/enable-workflow.png)
 
-1. On the Sequences blade, select **+ New sequence**.
+1. On the Sequences pane, select **+ New sequence**.
     
     You'll have the option to create a sequence from a number of common templates. You can explore the templates available. 
     
-1. Select the **Start from blank** button at the bottom-right.
+1. Select **Start from blank** at the bottom-right.
 
 1. Assign a name, description, and the type of table that the sequence will be available for using the following:
 
@@ -97,6 +103,7 @@ Upon successful completion of this lab, you'll be able to:
     - Record type: **Lead**
 
 1. Select **Next**.
+
 
 ### Task 2: Choose the first activity for seller to take
 
@@ -114,6 +121,7 @@ Choose the first step for your sellers to take. This can be either sending an em
     **Note:** If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this lab, you'll forego this and assume the seller will write their own introduction email.
 
 1.  Select **Save** on the command bar.
+
 
 ### Task 3: Add additional activities for your seller to take
 
@@ -135,6 +143,7 @@ Add additional activities for your sellers to take in an ordered manner followin
 
 1. Select **Save**.
 
+
 ### Task 4: Activate the sequence
 
 To make the sequence available for sellers to use, activate the sequence.
@@ -145,35 +154,37 @@ To make the sequence available for sellers to use, activate the sequence.
 
     Your sequence will display a green banner notification at the top telling you the sequence was successfully activated.
 
+
 ### Task 5: Connect the sequence to a segment
 
-1. In **Trade Show Follow-up Sequence**, select the **Connected leads** tab.
+1. In the same pane, select the **Connected leads** tab.
 
     ![Connected leads tab](./Media/connected-leads.png)
 
 1. Select **+ Connect Segments**.
 
-1. In the **Connect segments** dialog, ensure the **Trade Show Leads** segment is selected, then select **Connect**.
+1. In the **Connect segments** dialog, ensure **Trade Show Leads** is selected, then select **Connect** at the bottom.
+
 
 ### Task 6: Connect the sequence to record (From Record)
 
 1. Select **Sales Insights settings** on the Change Area menu in the lower-left, then select **Sales**.
 
-1. In the left pane, under the **Sales** group, select **Leads**.
+1. In the left pane, under the **Sales** section, select **Leads**.
 
 1. Select **Jack Rogers** to open the lead you created earlier.
 
-1. On the command bar, select the arrow to the right of **Sequences**, then select **Connect sequence**.
+1. On the command bar, select the down arrow to the right of **Sequences**, then select **Connect sequence**.
 
-    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
+    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution. It will be a right arrow in that case.
 
     ![Connect sequence ellipsis](./Media/connect-sequence.png)
 
-1. In the **Connect lead to sequence** dialog, select **Trade Show Follow-up Sequence** from the list, then select **Connect**.
+1. In the **Connect lead to sequence** dialog, select **Trade Show Follow-up Sequence** from the list, then select **Connect** in the bottom-right.
 
     A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record.
 
-1. If prompted to assign a seller, select the **Assign** button. 
+1. If prompted to assign a seller, select **Assign**. 
 
     The seller(s) who have access to the lead record can see the activities connected with it.
 
