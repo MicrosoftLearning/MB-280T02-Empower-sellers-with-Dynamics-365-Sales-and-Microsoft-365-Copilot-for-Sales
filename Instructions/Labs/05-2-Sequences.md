@@ -94,7 +94,7 @@ Upon successful completion of this lab, you'll be able to:
     
     You'll have the option to create a sequence from a number of common templates. You can explore the templates available. 
     
-1. Select **Start from blank** at the bottom-right.
+1. Select **Start from blank** at the bottom-right of the dialog.
 
 1. Assign a name, description, and the type of table that the sequence will be available for using the following:
 
@@ -110,6 +110,8 @@ Upon successful completion of this lab, you'll be able to:
 Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. You'll start with an email.
 
 1. Underneath the **Sequence start** node, select the **+** button to add an action or other element.
+
+    ![Add sequence node](./Media/add-sequence-node.png)
 
 1. In the **Add an action** dialog, select on **Send an email**.
 
