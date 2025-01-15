@@ -23,7 +23,7 @@ In this task, you'll create an Order from a Quote.
 
 1. Select **Interested in Airpot XL Accessories** to open the quote you created.
 
-   - Change the view to **My Quotes**, if needed, to retrieve the quotes created.
+   **Notes:** If needed, change the view to **My Quotes** to see the quotes created.
 
 1. Select **Create Order** on the command bar.
 
@@ -31,7 +31,7 @@ In this task, you'll create an Order from a Quote.
 
     The Order form will open where you can edit the Order information.
 
-1. At the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Order Summary**.
+1. After the Order page loads, at the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Order Summary**.
 
     ![Order form word templates](./Media/order-word-templates.png)
 
@@ -58,7 +58,7 @@ In this task, you'll create an Invoice.
     
     The Invoice form will open.
 
-1. At the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Invoice Summary.**
+1. After the Invoice page loads, at the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Invoice Summary.**
 
 1. Open the generated Word doc and review the Invoice. 
 
