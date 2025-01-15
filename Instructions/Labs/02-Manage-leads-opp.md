@@ -15,6 +15,8 @@ Upon successful completion of this lab, you will be able to:
 - Qualify and disqualify leads
 - Reactivate lead records
 
+
+
 ### Exercise 1 – Manage customers
 
 #### Task 1 – Creating Leads
@@ -26,17 +28,19 @@ In this task, you will create three leads, one without company information and t
 
 1. At the top of the **My Open Leads** pane, select **Read Only Grid** to change the type of view.
 
-1. From the menu that appears, select the **+ New** button on the top command bar.
+    ![Read Only Grid view](./Media/read-only-grid.png)
+
+1. From the new view, select the **+ New** button on the top command bar.
 
 1. Enter *Coffee Machine Lead Without Company* for Topic, *Jane* for First Name, *Doe* for Last Name.
 
 1. Select the **Save** button on the command bar.
 
-1. On the command bar, select **+ New** again.
+1. Select **+ New** again.
 
 1. If prompted to discard suggestions, select the **Do not show again** checkbox, then select **Continue anyway**.
 
-1. Enter *Coffee Machine Lead with Company* for Topic, *Jon* for First Name, *Doe* for Last Name, *Doe Inc.* for Company.
+1. Enter *Coffee Machine Lead With Company* for Topic, *Jon* for First Name, *Doe* for Last Name, *Doe Inc.* for Company.
 
 1. Select  **Save**.
 
@@ -45,6 +49,8 @@ In this task, you will create three leads, one without company information and t
 1. Enter *Another Coffee Machine Lead* for Topic, *Jack* for First Name, *Rogers* for Last Name, *Test Coffee Shop, Inc.* for Company.
 
 1. Select **Save**.
+
+
 
 ### Exercise 2 – Lead Qualifications
 
@@ -58,35 +64,41 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1. Select **Qualify** from the command bar. The lead will be Qualified into a new Opportunity record.
 
-1. Select **Opportunities** from the left navigation to view all open opportunities. 
+    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
+
+    ![Qualify lead](./Media/qualify-lead.png)
+
+1. In the left navigation, under the **Sales** group, select **Opportunities** to view all open opportunities. 
 
 1. In the command bar, select **Show As**, then select **Read Only Grid**.
 
     ![Read Only Grid](./Media/opportunities_read_only.png)
 
-1. Select the **Coffee Machine Lead without Company** opportunity. 
+1. Select the **Coffee Machine Lead Without Company** opportunity. 
 
-1. Locate the **Contact** field. You will find that **Jane Doe** is now a Contact record in the application that you can open.
+1. Locate the **Contact** field. You'll find that **Jane Doe** is now a Contact record in the application that you can open.
 
-1. Locate the **Account** field in the header of the opportunity record. Notice that the field is empty.
+1. Locate the **Account** field in the header of the opportunity record. Notice the field is empty.
 
     ![Empty Account field](./Media/account_empty.png)
 
-#### Task 2 – Qualify Coffee Machine Lead with Company
+
+#### Task 2 – Qualify Coffee Machine Lead With Company
 
 1. In the left navigation, select **Leads**.
 
-1. Locate **Jon Doe** and open it.
+1. Select **Jon Doe** from the list to open the lead.
 
-1. Click **Qualify** from the top menu.
+1. Select **Qualify** on the command bar.
 
 1. Select **Opportunities** from the left navigation to view all open opportunities. 
 
-1. Select the **Coffee Machine Lead with Company** opportunity. 
+1. Select the **Coffee Machine Lead With Company** opportunity. 
 
-1. Locate the **Contact** field. You will find that **Jon Doe** is now a Contact record.
+1. Locate the **Contact** field.
 
-1. Locate the **Account** field. You will find that **Doe, Inc.** is now an Account record.
+1. Locate the **Account** field. You'll see **Doe Inc.** is now an Account record.
+
 
 #### Task 3 – Disqualify a Lead
 
@@ -94,35 +106,44 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 1. Locate and select **Jack Rogers** to open the lead.
 
-1. Select **Disqualify** from the command bar. You may need to select the vertical ellipsis button for it to display.
+1. Select **Disqualify** from the command bar.
+
+    **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
 
     ![Disqualify](./Media/disqualify.png)
 
 1. From the menu that appears, select **No Longer Interested**.
 
-1. The Lead will be Disqualified, the status will change to **No Longer Interested**, and the record will become Read-only.
+1. The Lead will be Disqualified, the status will change to **No Longer Interested**, and the record will become **Read-only**.
+
+    ![Disqualified record - read only](./Media/disqualified-record.png)
+
 
 #### Task 4 – Reactivate A Lead
 
 1. In the left navigation, select **Leads**.
 
-1. The Lead you disqualified is no longer in the **My Open Leads** view. Select the down arrow next to **My Open Leads** and change the view to **Closed Leads**.
+    The Lead you disqualified is no longer in the **My Open Leads** view. 
+    
+1. Select the down arrow next to **My Open Leads** and select **Closed Leads** to change the view.
 
-1. Locate and select **Jack Rogers** to reopen it.
+1. Select **Jack Rogers**.
 
 1. Select the **Reactivate Lead** button on the command bar.
 
 1. The Lead will be reactivated, the status will change back to New, and the record will become editable.
 
+
+
 ### Exercise 3 – Work with Opportunities
 In this exercise, you will walk through the process of working an opportunity through the sales process.
 
-#### Task 1 – Manage the Coffee Machine Lead with Company
+#### Task 1 – Manage the Coffee Machine Lead With Company
 1. In the left navigation, select **Opportunities**.
 
-1. Select the **Coffee Machine Lead with Company** opportunity to open it.
+1. Select the **Coffee Machine Lead With Company** opportunity to open it.
 
-1. Enter the following in the **Opportunity information** section:
+1. Enter the following in the Opportunity's **Summary** tab fieds:
 
    - Budget Amount: $17,000
    - Purchase Timeframe: This Quarter
@@ -131,16 +152,18 @@ In this exercise, you will walk through the process of working an opportunity th
 
 1. Expand the record header near the top-right using the down arrow, and enter the following:
 
-   - Est. Close Date: Enter tomorrow’s date.
+   - Est. Close Date: Tomorrow's Date
    - Est. revenue: $16,500
 
     ![Estimated close date and revenue](./Media/est_date_rev.png)
 
 1. On the **Timeline** tile, select the **+** (Create a timeline record), then select **Phone call**.
 
+    ![Add phone call to timeline](./Media/timeline-phone-call.png)
+
 1. Enter the following in the new **Quick Create: Phone Call** pane:
 
-   - Subject: Initial Call to Jon.
+   - Subject: Initial Call to Jon
    - Due: Enter Today’s Date at 4:30 PM
 
 1. Select the **Save and Close** button.
@@ -164,11 +187,13 @@ In this exercise, you will walk through the process of working an opportunity th
 
 1. Select anywhere outside of the business process stage to close it.
 
-1. On the **Timeline** tile, select the **Close Activity** button for the Phone Call activity you created earlier.
+1. On the **Timeline** tile, select the **Close Activity** (check mark) button on the Phone Call activity you created.
 
     ![Close phone call activity](./Media/close_phone_activity.png)
 
-1. Select **Completed** for the **State**, then select **Close Phone Call**.
+    **Alert:** If you receive an error, select **Save** on the command bar, refresh the page, and try again.
+
+1. Set **State** to **Completed**, then select **Close Phone Call**.
 
 1. Select the **Close** stage of the Lead to Opportunity Sales Process flow.
 
