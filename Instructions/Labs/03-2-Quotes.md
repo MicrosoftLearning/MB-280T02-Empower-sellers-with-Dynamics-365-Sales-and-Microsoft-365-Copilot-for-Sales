@@ -25,7 +25,7 @@ In this task, you'll create an Opportunity and add Products Line Items.
 
 1. In the left menu, under the **Sales** section, select **Opportunities**.
 
-1. Select **+ New** in the top command bar.
+1. Select **+ New** on the command bar.
 
 1. Enter in the **Opportunity information** section: 
 
@@ -36,7 +36,7 @@ In this task, you'll create an Opportunity and add Products Line Items.
 
     ![Owner dropdown](./Media/opportunity-owner.png)
 
-1. Enter and select **Doe Inc.** for **Account**.
+1. Enter and select **Doe Inc.** in the **Account** field.
 
 1. Select **Save** on the command bar.
 
@@ -58,9 +58,9 @@ In this task, you'll create an Opportunity and add Products Line Items.
 
 1. For **Airpot XL Reservoir Extension**, leave *1* for **Quantity**, then select **Add**.
     
-1. Select **Save to Opportunity**.
+1. Select **Save to Opportunity** in the bottom-right.
 
-1. Hover over the **Airpot XL 6 Month Filter** product, and select the right arrow in the rightmost column to navigate to it.
+1. Hover over the **Airpot XL 6 Month Filter** product in the list, then select the right arrow in the rightmost column to navigate to it.
 
     ![Navigate to opportunity](./Media/nav-to-opp.png)
 
