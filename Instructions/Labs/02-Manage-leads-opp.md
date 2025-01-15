@@ -30,13 +30,15 @@ In this task, you'll create three leads, one without company information and two
 
     ![Read Only Grid view](./Media/read-only-grid.png)
 
-1. From the new view, select the **+ New** button on the top command bar.
+1. From the new view, select **+ New** on the top command bar.
+
+    ![New button command bar](./Media/new-command-bar.png)
 
 1. Enter *Coffee Machine Lead Without Company* for Topic, *Jane* for First Name, *Doe* for Last Name.
 
-1. Select the **Save** button on the command bar.
+1. Select **Save** on the command bar.
 
-1. Select **+ New** again.
+1. Select **+ New** on the command bar again.
 
 1. If prompted to discard suggestions, select the **Do not show again** checkbox, then select **Continue anyway**.
 
@@ -44,7 +46,7 @@ In this task, you'll create three leads, one without company information and two
 
 1. Select  **Save**.
 
-1. On the command bar, select the **+ New** button one more time.
+1. Select **+ New** one more time.
 
 1. Enter *Another Coffee Machine Lead* for Topic, *Jack* for First Name, *Rogers* for Last Name, *Test Coffee Shop, Inc.* for Company.
 
@@ -58,7 +60,7 @@ In this exercise, you'll qualify/disqualify leads and see what records will be c
 
 #### Task 1 – Qualify Coffee Machine Lead Without Company Information
 
-1. In the left pane, under the **Sales** group, select **Leads**.
+1. In the left pane, under the **Sales** section, select **Leads**.
 
 1. On the **My Open Leads** pane, select **Jane Doe**.
 
@@ -68,15 +70,15 @@ In this exercise, you'll qualify/disqualify leads and see what records will be c
 
     ![Qualify lead](./Media/qualify-lead.png)
 
-1. In the left pane, under the **Sales** group, select **Opportunities** to view all open opportunities. 
+1. In the left pane, under the **Sales** section, select **Opportunities** to view all open opportunities. 
 
-1. In the command bar, select **Show As**, then select **Read Only Grid**.
+1. On the command bar, select **Show As**, then select **Read Only Grid**.
 
     ![Read Only Grid](./Media/opportunities_read_only.png)
 
 1. Select the **Coffee Machine Lead Without Company** opportunity. 
 
-1. Locate the **Contact** field. You'll find that **Jane Doe** is now a Contact record in the application that you can open.
+1. Under the Opportunity information section, locate the **Contact** field. You'll see **Jane Doe** is now a Contact record in the application that you can open.
 
 1. Locate the **Account** field in the header of the opportunity record. Notice the field is empty.
 
@@ -106,13 +108,11 @@ In this exercise, you'll qualify/disqualify leads and see what records will be c
 
 1. Locate and select **Jack Rogers** to open the lead.
 
-1. Select **Disqualify** from the command bar.
+1. Select **Disqualify** from the command bar, then select **No Longer Interested**.
 
     **Note:** You may need to select the ellipsis to see the option, depending on your window size/resolution.
 
     ![Disqualify](./Media/disqualify.png)
-
-1. From the menu that appears, select **No Longer Interested**.
 
 1. The Lead will be Disqualified, the status will change to **No Longer Interested**, and the record will become **Read-only**.
 
@@ -129,7 +129,7 @@ In this exercise, you'll qualify/disqualify leads and see what records will be c
 
 1. Select **Jack Rogers**.
 
-1. Select the **Reactivate Lead** button on the command bar.
+1. Select **Reactivate Lead** on the command bar.
 
 1. The Lead will be reactivated, the status will change back to New, and the record will become editable.
 
@@ -150,14 +150,14 @@ In this exercise, you'll walk through the process of working an opportunity thro
    - Purchase Process: Committee
    - Description: Looking to upgrade their current coffee machines at multiple locations.
 
-1. Expand the record header near the top-right using the down arrow, and enter the following:
+1. Select the down arrown next to Owner in the top-right, and enter the following:
 
    - Est. Close Date: Tomorrow's Date
    - Est. revenue: $16,500
 
     ![Estimated close date and revenue](./Media/est_date_rev.png)
 
-1. On the **Timeline** tile, select the **+** (Create a timeline record), then select **Phone call**.
+1. On the **Timeline** section, select the **+** button (Create a timeline record), then select **Phone call**.
 
     ![Add phone call to timeline](./Media/timeline-phone-call.png)
 
@@ -166,7 +166,7 @@ In this exercise, you'll walk through the process of working an opportunity thro
    - Subject: Initial Call to Jon
    - Due: Enter Today’s Date at 4:30 PM
 
-1. Select the **Save and Close** button.
+1. Select **Save and Close** at the bottom.
 
 1. Select the **Develop** stage of the Lead to Opportunity Sales Process flow.
 
