@@ -46,6 +46,8 @@ In this task, you'll create unit groups for a line of coffee machine filters.
 
 1. Select **+ New Unit** at the top of the **Unit Group Units Associated View** section.
 
+    ![New unit](./Media/unit-group-new-unit.png)
+
 1. Enter the following information in **Quick Create: Unit**:
 
     - Name: **Filter**
@@ -70,7 +72,7 @@ In this task, you'll create unit groups for a line of coffee machine filters.
 
 1. Select **Save and Close**.
 
-    You'll see the four unit groups in the list.
+    You'll see the four unit groups on the list.
 
 
 #### Task 2 – Create Discount List
@@ -154,6 +156,8 @@ In this task, you'll create products.
 
 1. At the top-right of the **Price List Items** section, select **+ New Price List Item**.
 
+    ![New price list item](./Media/new-price-list-item.png)
+
 1. If prompted to discard suggestions, select the **Do not show again** checkbox, then select **Continue anyway**.
 
 1. Enter the following information for **New Price List Item**:
@@ -163,6 +167,8 @@ In this task, you'll create products.
     - Quantity Selling Option: **Whole**
 
 1. Select the **Pricing Information** tab.
+
+    ![Pricing information tab](./Media/pricing-info-tab.png)
 
 1. Enter *25* for **Amount**.
 
