@@ -46,7 +46,7 @@ In this task, you'll create an Opportunity and add Products Line Items.
 
 1. You need to select a **Price List** before you can add Opportunity Products. Enter and select **Filter Direct**.
 
-1. Select **System Calculated** for **Revenue**.
+1. Select **System Calculated** for the **Revenue** field.
 
 1. In the same section, down and to the right of that field, select **+ Add products**.
 

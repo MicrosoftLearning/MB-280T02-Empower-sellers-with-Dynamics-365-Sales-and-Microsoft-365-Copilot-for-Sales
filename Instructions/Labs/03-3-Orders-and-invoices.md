@@ -19,7 +19,7 @@ Upon successful completion of this lab, you'll be able to:
 #### Task 1 – Create Order
 In this task, you'll create an Order from a Quote.
 
-1. In the left menu of Dynamic 365 Sales Hub, under **Collateral**, select **Quotes**.
+1. In the left menu of Dynamic 365 Sales Hub, under the **Collateral** section, select **Quotes**.
 
 1. Select **Interested in Airpot XL Accessories** to open the quote you created.
 
@@ -32,6 +32,8 @@ In this task, you'll create an Order from a Quote.
     The Order form will open where you can edit the Order information.
 
 1. At the right side of the command bar, select the vertical ellipsis button, select **Word Templates**, then select **Order Summary**.
+
+    ![Order form word templates](./Media/order-word-templates.png)
 
 1. Open the generated Word document and review the Order. 
 
@@ -47,6 +49,7 @@ In this task, you'll create an Order from a Quote.
     
 1. Do not navigate away from this page.
 
+
 #### Task 2 – Create Invoice
 
 In this task, you'll create an Invoice.
@@ -61,7 +64,7 @@ In this task, you'll create an Invoice.
 
 1. Close the document.
 
-1. Assuming the customer paid in full, select **Invoice Paid** on the command bar. 
+1. In this task, assume the customer paid in full. Select **Invoice Paid** on the command bar. 
 
 1. Select **OK** to mark the invoice as complete.
 
