@@ -15,6 +15,8 @@ Upon successful completion of this lab, you will be able to:
 - Qualify and disqualify leads
 - Reactivate lead records
 
+This lab will take approximately **30** minutes to complete.
+
 ### Exercise 1 – Manage customers
 
 #### Task 1 – Creating Leads
