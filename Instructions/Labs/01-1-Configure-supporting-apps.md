@@ -18,6 +18,8 @@ Contoso Coffee sellers report that although Dynamics 365 Sales is very helpful i
 
 In this lab, we will turn on and configure the features that will help our CRM organization meet these sellers' requirements.
 
+This lab will take approximately **30** minutes to complete.
+
 ## Exercise 1: Configure email, SharePoint, and OneDrive integration
 
 ### Task 1: Configure Email Integration
