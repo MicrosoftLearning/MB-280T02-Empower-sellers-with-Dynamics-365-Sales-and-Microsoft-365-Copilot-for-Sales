@@ -18,6 +18,8 @@ Sellers would like to add the following steps to their business process:
 
 In this lab, we will customize the business process flow to meet our sellers' requests.
 
+This lab will take approximately **45** minutes to complete.
+
 ## Exercise 1 – Customize Business Process Flow
 
 ### Task 1 – Create Business Process Flow
