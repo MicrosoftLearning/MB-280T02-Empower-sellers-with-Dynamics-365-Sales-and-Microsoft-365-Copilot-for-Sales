@@ -12,6 +12,8 @@ Contoso Coffee produces high-quality coffee and coffee machines, which they reta
 Contoso Coffee is looking to formalize their sales process to increase revenue and give leadership, stronger forecasting abilities. You are a functional consultant configuring Dynamics 365 for Sales for Contoso Coffee. In this lab, you will install the Sales application and install sample data.
 This new offering will help them to build direct relationship with their customers and learn more about how customers consume their products.
 
+This lab will take approximately **10** minutes to complete.
+
 ### Exercise 1 – Access a trial environment
 
 #### Task 1 – Create a Trial
