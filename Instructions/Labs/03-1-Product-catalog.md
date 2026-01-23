@@ -16,6 +16,8 @@ Upon successful completion of this lab, you will be able to:
 - Create discount lists
 - Define products and product families
 
+This lab will take approximately **30** minutes to complete.
+
 ### Exercise 1 – Product Catalog
 
 #### Task 1 – Create Unit Group
