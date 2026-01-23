@@ -14,6 +14,8 @@ Upon successful completion of this lab, you will be able to:
 - Generate an order from a quote
 - Convert the order into an invoice
 
+This lab will take approximately **15** minutes to complete.
+
 ### Exercise 1 – Orders and Invoices
 
 #### Task 1 – Create Order
