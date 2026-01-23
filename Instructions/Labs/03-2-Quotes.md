@@ -14,6 +14,8 @@ Upon successful completion of this lab, you will be able to:
 - Create opportunities and add opportunity line items
 - Generate a quote from an opportunity
 
+This lab will take approximately **15** minutes to complete.
+
 ### Exercise 1 – Create a Quote
 
 #### Task 1 – Add Products Line Items
