@@ -17,6 +17,8 @@ Upon successful completion of this lab, you will be able to:
 -   Define sequence activities
 -   Activate and connect sequences to records
 
+This lab will take approximately **45** minutes to complete.
+
 ## Exercise 1: Create and attach Sequences to records
 
 ### Task 1: Enable Sales Accelerator
