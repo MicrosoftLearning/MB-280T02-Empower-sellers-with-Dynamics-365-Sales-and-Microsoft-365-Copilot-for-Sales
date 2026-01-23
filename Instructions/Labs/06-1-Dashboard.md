@@ -14,6 +14,8 @@ Upon successful completion of this lab, you will be able to:
 - Create personal dashboards
 - Add components to dashboards
 
+This lab will take approximately **30** minutes to complete.
+
 ## Exercise 1 - Configure a dashboard 
 ### Task 1 - Create a dashboard
 1. Make sure you are in the Sales area of the application, if you are not already. Use the bottom-left dropdown menu to change area to **Sales** if you need to switch.
