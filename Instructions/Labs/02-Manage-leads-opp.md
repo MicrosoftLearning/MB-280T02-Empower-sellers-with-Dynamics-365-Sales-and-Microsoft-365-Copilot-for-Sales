@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 2.1: Manage leads and opportunities'
+  title: 'Lab 2.1: Manage leads and opportunities'
+  description: In this task, you will create three leads, one without company information and two with company information.
+  duration: 152 minutes
+  level: 200
+  islab: true
 ---
 
 # Module 2: Manage leads and opportunities with Dynamics 365 Sales
