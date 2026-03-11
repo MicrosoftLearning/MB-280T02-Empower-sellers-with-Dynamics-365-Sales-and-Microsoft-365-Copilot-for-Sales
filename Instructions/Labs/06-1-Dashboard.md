@@ -1,6 +1,15 @@
 ---
 lab:
-    title: 'Lab 6.1: Configure a dashboard'
+  title: 'Lab 6.1: Configure a dashboard'
+  description: Contoso Coffee’s sales managers want to monitor their sales team’s
+    success more effectively, especially around closed opportunities. One sales manager
+    has requested a personal dashboard that will provide them with an overview of
+    recently closed opportunities and their sellers' actions against them. Additionally,
+    they would like this dashboard to be their default dashboard when they open the
+    Dashboards section of the application.
+  duration: 52 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 6: Analyze Dynamics 365 Sales data
