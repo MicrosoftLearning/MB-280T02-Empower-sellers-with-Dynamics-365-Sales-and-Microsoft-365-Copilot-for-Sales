@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 3.1: Configure the product catalog'
+  title: 'Lab 3.1: Configure the product catalog'
+  description: In this task, you will create a price list for the filters.
+  duration: 126 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 3: Manage orders and product catalog with Dynamics 365
