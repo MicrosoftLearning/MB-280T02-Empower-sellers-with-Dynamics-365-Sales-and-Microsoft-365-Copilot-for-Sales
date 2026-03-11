@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 6.1: Configure a dashboard'
+  title: 'Lab 6.1: Configure a dashboard'
+  description: 'Upon successful completion of this lab, you will be able to:'
+  duration: 52 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 6: Analyze Dynamics 365 Sales data
