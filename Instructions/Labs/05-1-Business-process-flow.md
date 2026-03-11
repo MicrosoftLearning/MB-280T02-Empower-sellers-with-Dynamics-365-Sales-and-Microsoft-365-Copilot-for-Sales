@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 5.1: Customize a business process flow'
+  title: 'Lab 5.1: Customize a business process flow'
+  description: In this task, you will create a new Business Process Flow from the Opportunity Sales Process and then test the new BPF.
+  duration: 134 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 5: Work with Dynamics 365 Sales Insights and the Sales accelerator 
