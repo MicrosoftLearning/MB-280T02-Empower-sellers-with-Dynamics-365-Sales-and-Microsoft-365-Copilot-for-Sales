@@ -1,6 +1,15 @@
 ---
 lab:
-    title: 'Lab 1.1: Configure supporting applications'
+  title: 'Lab 1.1: Configure supporting applications'
+  description: 'Contoso Coffee sellers report that although Dynamics 365 Sales is
+    very helpful in increasing seller productivity, the application feels very siloed
+    in relation to their daily flow of work. They have the following requirements
+    for their IT department:'
+  duration: 126 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Dynamics 365
 ---
 
 # Module 1: Configure Dynamics 365 Sales
