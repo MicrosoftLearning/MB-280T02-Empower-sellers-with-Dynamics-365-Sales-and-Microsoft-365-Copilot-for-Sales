@@ -1,6 +1,13 @@
 ---
 lab:
-    title: 'Lab 5.1: Customize a business process flow'
+  title: 'Lab 5.1: Customize a business process flow'
+  description: Contoso Coffee is looking to add a few extra steps to their tried-and-true
+    Sales Business Process. Although sellers have been successful following this framework
+    in the past, they are reporting that a few new suggestions would help nurture
+    leads and land high-value contracts.
+  duration: 134 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 5: Work with Dynamics 365 Sales Insights and the Sales accelerator 
