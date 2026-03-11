@@ -1,6 +1,16 @@
 ---
 lab:
-    title: 'Lab 3.2: Build quotes'
+  title: 'Lab 3.2: Build quotes'
+  description: As a sales analyst for the Dynamics 365 Sales implementation at Contoso
+    Coffee, you want to ensure that salespeople will be able to leverage the product
+    catalog enhancements throughout the entire sales lifecycle. To ensure the functionality
+    is working correctly, you will test the process of building a quote from a new
+    opportunity.
+  duration: 76 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Dynamics 365
 ---
 
 # Module 3: Manage orders and product catalog with Dynamics 365
