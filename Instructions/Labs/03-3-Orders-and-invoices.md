@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 3.3: Orders and invoices'
   description: As a sales analyst for the Dynamics 365 Sales implementation at Contoso Coffee, you want to ensure that salespeople will be able to leverage the product catalog enhancements throughout the entire sales lifecycle. To ensure the functionality is working correctly, you will test the process of generating orders, and invoices.
-  duration: 54 minutes
+  duration: 15 minutes
   level: 100
   islab: true
   primarytopics:
