@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 6.1: Configure a dashboard'
   description: 'Upon successful completion of this lab, you will be able to:'
-  duration: 52 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---
