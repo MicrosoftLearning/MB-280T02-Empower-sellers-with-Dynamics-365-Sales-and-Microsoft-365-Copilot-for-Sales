@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 2.1: Manage leads and opportunities'
   description: In this task, you will create three leads, one without company information and two with company information.
-  duration: 152 minutes
+  duration: 30 minutes
   level: 200
   islab: true
 ---
