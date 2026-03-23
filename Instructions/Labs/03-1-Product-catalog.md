@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 3.1: Configure the product catalog'
   description: In this task, you will create a price list for the filters.
-  duration: 126 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---
