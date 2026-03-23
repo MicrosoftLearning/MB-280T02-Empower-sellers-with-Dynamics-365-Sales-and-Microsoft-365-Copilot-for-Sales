@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 5.2: Build a sequence'
   description: 'Upon successful completion of this lab, you will be able to:'
-  duration: 154 minutes
+  duration: 45 minutes
   level: 100
   islab: true
 ---
