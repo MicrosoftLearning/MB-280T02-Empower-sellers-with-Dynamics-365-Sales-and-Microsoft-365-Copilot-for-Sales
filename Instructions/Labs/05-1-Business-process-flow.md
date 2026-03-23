@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 5.1: Customize a business process flow'
   description: In this task, you will create a new Business Process Flow from the Opportunity Sales Process and then test the new BPF.
-  duration: 134 minutes
+  duration: 45 minutes
   level: 100
   islab: true
 ---
