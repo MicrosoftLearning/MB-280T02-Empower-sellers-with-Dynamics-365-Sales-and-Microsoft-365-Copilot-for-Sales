@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 1.1: Configure supporting applications'
   description: In this lab, we will turn on and configure the features that will help our CRM organization meet these sellers' requirements.
-  duration: 126 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---
