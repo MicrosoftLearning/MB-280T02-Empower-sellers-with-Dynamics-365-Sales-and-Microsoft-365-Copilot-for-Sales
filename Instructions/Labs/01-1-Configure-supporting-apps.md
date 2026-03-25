@@ -39,7 +39,9 @@ This lab will take approximately **30** minutes to complete.
     -   **Incoming Email**: Server-Side Synchronization 
     -   **Outgoing Email**: Server-Side Synchronization 
     -   **Appointments, Contacts, and Tasks**: Server-Side Synchronization
-8.  **Save** your changes. Then click **Approve Email**. (**Note:** You must approve the mailbox before you can send and receive email.)
+8. Select **Save**, then select **Approve Email**.
+
+   > **Note:** You must approve the mailbox before you can send and receive email.
 9.  You will be asked if you want to approve the primary email. Select **OK**.
 10. Click **Test & Enable Mailbox**.
 11. On the test and enable pop-up screen, make sure that if this mailbox was previously configured to sync with another organization, checking this option will switch it to sync with this organization.
