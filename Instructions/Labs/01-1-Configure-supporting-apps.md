@@ -36,8 +36,8 @@ This lab will take approximately **30** minutes to complete.
 6.  Open the Mailbox record for **MOD Administrator**.
 7.  Configure the **MOD Administrator Mailbox** as follows:
     -   **Server Profile**: Microsoft Exchange Online
-    -   **Incoming Email**: Server-Side Synchronization or Email Router
-    -   **Outgoing Email**: Server-Side Synchronization or Email Router
+    -   **Incoming Email**: Server-Side Synchronization 
+    -   **Outgoing Email**: Server-Side Synchronization 
     -   **Appointments, Contacts, and Tasks**: Server-Side Synchronization
 8.  **Save** your changes. Then click **Approve Email**. (**Note:** You must approve the mailbox before you can send and receive email.)
 9.  You will be asked if you want to approve the primary email. Select **OK**.
