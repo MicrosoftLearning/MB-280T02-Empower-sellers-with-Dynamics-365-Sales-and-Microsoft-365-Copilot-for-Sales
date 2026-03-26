@@ -57,10 +57,10 @@ In this task, you will enable server-based SharePoint integration for your Dynam
 2.  From the site navigation on the left side of the screen, select **Environments**.
 3.  Open the **Sales Trial** environment that you have been working in to open it.
 4.  Locate and select **Settings** from the commands listed at the top.
-5.  Under the Integration heading, select **Document management settings**.
-6.  You should see an option to **Enable Server-Based SharePoint Integration**. (If it is not there, SharePoint integration has already been enabled and you can skip to step eleven.)
-    -   If SharePoint Integration is not configured, select **Enable Server-Based SharePoint Integration**.
-7.  In the enable Server-Based SharePoint Integration screen, click the **Next** button.
+5.  Under the **Integration** heading, select **Document management settings**.
+6.  You should see an option to **Configure server-based SharePoint integration**. (If it is not there, SharePoint integration has already been enabled and you can skip to step eleven.)
+    -   If SharePoint Integration is not configured, select **Configure server-based SharePoint integration**.
+7.  In the Configure Server-based SharePoint integration screen, click the **Next** button.
 8.  Select **Online** for the deployment type, click the **Next** button.
 9.  Enter the URL of the SharePoint site you want to use. (Example: https://”Orgname”.sharepoint.com), click the **Next** button.
 
