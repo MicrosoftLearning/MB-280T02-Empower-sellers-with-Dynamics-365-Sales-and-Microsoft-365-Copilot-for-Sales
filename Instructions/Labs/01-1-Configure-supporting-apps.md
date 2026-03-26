@@ -100,15 +100,18 @@ In this task, you will set up OneDrive integration for your Dynamics CRM organiz
 
 ### Task 1: Configure Teams Integration
 
-1.  Open the Sales Hub app.
-2.  Using the navigation on the left, select the **Sales** area (Bottom Left).
+1.  If necessary, open the **Sales Hub** app.
+2.  In the bottom-left corner, select the **Sales** area switcher..
 3.  From the menu that appears, select **App Settings**.
 4.  Under the General Settings group, select **Chat and Collaboration**.
 5.  Set **Turn on the linking of Dynamics 365 records to Microsoft Teams channels** to **Yes**.
-6.  Set **Turn on Enhanced Microsoft Teams Integration** to **Yes**. (You may need to select your MOD Administrator account. If asked for permissions, select **Accept**.)
+6.  Set **Turn on Enhanced Microsoft Teams Integration** to **Yes**.
+    > [!NOTE]
+    > You may need to select your MOD Administrator account. If asked for permissions, select **Accept**.
 7.  Under **Turn on Microsoft Teams chats inside Dynamics 365**, select **Turn on for all Dynamics 365 Apps**.
-8.  Select the **Save** button.  
-    **IMPORTANT**: It can take several minutes for the changes to be saved.
+8.  Select **Save**.
+    > [!IMPORTANT] 
+    > It can take several minutes for the changes to be saved.
 
 ### Task 2: Configure Copilot
 
