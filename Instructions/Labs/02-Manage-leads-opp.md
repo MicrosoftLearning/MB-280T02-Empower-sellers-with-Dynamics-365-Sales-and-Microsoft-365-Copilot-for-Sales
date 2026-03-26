@@ -67,12 +67,14 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 2 – Qualify Coffee Machine Lead with Company
 1. Go to your Sales Hub application.
-2. Select **Leads**.
-3. Locate Coffee Machine Lead with Company and open it.
-4. Click **Qualify** from the top menu.
-5. The lead will be qualified like the previous lead, and you will be taken to the newly created Opportunity record from the qualified Lead.
-6. Locate the Contact field. You will find that Jon Doe is now a Contact record.
-7. Locate the Account field. You will find that Doe, Inc. is now an Account record.
+2. In the left navigation, under **Sales**, select **Leads**.
+3. Locate and open **Coffee Machine Lead with Company** record.
+4. On the command bar, select **Qualify** to convert the lead into a 
+   new opportunity record.
+   > [!NOTE]
+   > You are automatically taken to the newly created opportunity record. If the opportunity does not open automatically, select **Opportunities** in the left navigation, then open the **Coffee Machine Lead with Company** opportunity.
+5. In the **Contact** field, notice that **Jon Doe** is now a Contact record in the application.
+6. In the header of the opportunity record, locate the **Account** field and notice that **Doe Inc.** is now an Account record.
 
 #### Task 3 – Disqualify a Lead
 1. If necessary, go to your Sales Hub application.
