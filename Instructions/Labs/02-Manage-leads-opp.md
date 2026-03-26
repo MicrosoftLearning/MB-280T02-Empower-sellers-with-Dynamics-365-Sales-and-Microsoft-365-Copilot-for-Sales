@@ -26,16 +26,28 @@ This lab will take approximately **30** minutes to complete.
 #### Task 1 – Creating Leads
 In this task, you will create three leads, one without company information and two with company information.
 1. Go to your Dynamics 365 Sales Hub application. Ensure you are in the Sales area, using the bottom left dropdown menu.
-2. Using the navigation on the left, under the Sales group, select **Leads.**
-3. In the Work Items pane, select **Read Only Grid** to change the type of view.
-4. From the menu that appears, select the **+ New** button.
-5. Enter *Coffee Machine Lead Without Company* for Topic, *Jane* for First Name, *Doe* for Last Name.
-6. Accept the **Cafeteria Manager** suggestion that was populated in the Job Title field.
-7. Select the **Save** button. On the command bar at the top, select **+ New** again.
-8. Enter *Coffee Machine Lead with Company* for Topic, *Jon* for First Name, *Doe* for Last Name, *Doe Inc.* for Company, and click **Save.**
-9. On the Command Bar, select the **+ New** button one more time.
-10. Enter *Another Coffee Machine Lead* for Topic, *Jack* for First Name, *Rogers* for Last Name, *Test Coffee Shop, Inc.* for Company, and click **Save.**
+2. In the left navigation, under **Sales**, select **Leads**.
+3. On the command bar, select **Read Only Grid** to change the type of view.
+4. On the command bar, select **+ New**.
+5. Enter the following values:
+   - **Topic:** `Coffee Machine Lead Without Company`
+   - **First Name:** `Jane`
+   - **Last Name:** `Doe`
+6. In the **Job Title** field, enter `Cafeteria Manager`. If a suggestion appears, you can accept it instead.
+7. Select **Save**, then on the command bar, select **+ New**.
+8. Enter the following values:
+   - **Topic:** `Coffee Machine Lead with Company`
+   - **First Name:** `Jon`
+   - **Last Name:** `Doe`
+   - **Company:** `Doe Inc.`
+9. Select **Save**, then on the command bar, select **+ New**.
+10. Enter the following values:
+    - **Topic:** `Another Coffee Machine Lead`
+    - **First Name:** `Jack`
+    - **Last Name:** `Rogers`
+    - **Company:** `Test Coffee Shop, Inc.`
 
+11. Select **Save**.
 ### Exercise 2 – Lead Qualifications
 In this exercise, you will qualify/disqualify leads and see what records will be created when a lead goes through the qualification process.
 
