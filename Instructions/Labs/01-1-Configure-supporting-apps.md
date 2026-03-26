@@ -61,7 +61,7 @@ In this task, you will enable server-based SharePoint integration for your Dynam
 6.  You should see an option to **Configure server-based SharePoint integration**. (If it is not there, SharePoint integration has already been enabled and you can skip to step eleven.)
     -   If SharePoint Integration is not configured, select **Configure server-based SharePoint integration**.
 7.  In the Configure Server-based SharePoint integration screen, click the **Next** button.
-8.  Select **Online** for the deployment type, click the **Next** button.
+8.  Select **Online** for the site location, and then click the **Next** button.
 9.  Enter the URL of the SharePoint site you want to use. (Example: https://”Orgname”.sharepoint.com), click the **Next** button.
 
     **Note:** *You can find your SharePoint URL by selecting the App checker Icon in the upper left corner of the screen. (Looks like a 3 x 3 square.) holding down the CTRL key and selecting SharePoint.*
