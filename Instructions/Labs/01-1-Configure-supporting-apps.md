@@ -30,8 +30,8 @@ This lab will take approximately **30** minutes to complete.
 
 1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`
 2.  In the left navigation, select **Manage**, then select **Environments**.
-3.  Select the **Sales Trial** environment to open it.
-4.  Locate and select **Settings** from the commands listed at the top.
+3.  Open the **Sales Trial** environment.
+4.  In the top command bar, select **Settings**.
 5.  Select the email heading to expand it and select **Mailboxes**.
 6.  Open the Mailbox record for **MOD Administrator**.
 7.  Configure the **MOD Administrator Mailbox** as follows:
@@ -88,13 +88,13 @@ In this task, you will set up OneDrive integration for your Dynamics CRM organiz
 
 1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`
 2.  In the left navigation, select **Manage**, then select **Environments**.
-3.  Open the **Sales Trial** environment that you have been working in to open it.
-4.  Locate and select **Settings** from the commands listed at the top.
-5.  Under the Integration heading, select **Document management settings**.
-6.  Click on the **Enable OneDrive for Business** icon.
-7.  Select the **Enable OneDrive for Business** checkbox and click **OK**.
-8.  After the screen refreshes, click the **OneDrive for Business Folder Settings**.
-9.  Accept the default folder name, or enter a name of your choice, and click **OK**.
+3.  Open the **Sales Trial** environment.
+4.  In the top command bar, select **Settings**.
+5.  Under **Integration**, open **Document management settings**.
+6.  Select **Configure server-based Sharepoint integration**.
+7.  Select **Next** until you reach the **OneDrive for business** tab.
+8.  Select the **Enable OneDrive for Business** checkbox, then select **Next**.
+9.  Review the summary and select **Done**.
 
 ## Exercise 2: Configure Teams and Copilot
 
