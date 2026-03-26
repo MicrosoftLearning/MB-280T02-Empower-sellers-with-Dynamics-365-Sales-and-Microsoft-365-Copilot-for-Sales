@@ -54,25 +54,33 @@ This lab will take approximately **30** minutes to complete.
 In this task, you will enable server-based SharePoint integration for your Dynamics 365 organization.
 
 1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`
-2.  From the site navigation on the left side of the screen, select **Environments**.
-3.  Open the **Sales Trial** environment that you have been working in to open it.
-4.  Locate and select **Settings** from the commands listed at the top.
-5.  Under the **Integration** heading, select **Document management settings**.
-6.  You should see an option to **Configure server-based SharePoint integration**. (If it is not there, SharePoint integration has already been enabled and you can skip to step eleven.)
-    -   If SharePoint Integration is not configured, select **Configure server-based SharePoint integration**.
-7.  In the Configure Server-based SharePoint integration screen, click the **Next** button.
-8.  Select **Online** for the site location, and then click the **Next** button.
-9.  Enter the URL of the SharePoint site you want to use. (Example: https://”Orgname”.sharepoint.com), click the **Next** button.
+2.  In the left navigation, select **Environments**.
+3.  Open the **Sales Trial** environment.
+4.  In the top command bar, select **Settings**.
+5.  Under **Integration**, open **Document management settings**.
+6.  If the **Configure server-based SharePoint integration** option is 
+   available, select it and continue to the next step. If the option is 
+   not visible, SharePoint integration is already enabled — skip to 
+   step 13.
+7.  On the **Configure Server-based SharePoint integration** page, select **Next**.
+8.  Select **Online** as the site location, then select **Next**.
+9.  Enter the URL of your SharePoint site (Example: https://m365x<XXXXXXXX>.sharepoint.com), then select **Next**.
+    > [!NOTE]
+    > To find your SharePoint URL, select the **App Launcher** icon (Looks like a 3 x 3 square) in the upper-left corner of the screen, hold **Ctrl** and then select **SharePoint**.
 
-    **Note:** *You can find your SharePoint URL by selecting the App checker Icon in the upper left corner of the screen. (Looks like a 3 x 3 square.) holding down the CTRL key and selecting SharePoint.*
-
-10. After the site has been validated, click the **Enable** button.
-11. Click **Document Management Settings**.
-12. Select any entities that you want document management to be enabled for, such as Leads, Accounts, Opportunities, and click **Next**.
-    -   **IMPORTANT**: If you are planning on configuring email engagement in Sales insights, select the Email Entity.
-13. In the SharePoint site URL field, enter the URL of the SharePoint site you used in the previous task.
-14. Click the **Next** button.
-15. Click the **Finish** button to complete the setup.
+10. After the site is validated, select **Next**.
+11. Select **Next**.
+12. Review the summary and select **Done**.
+13. Select **Document management settings**.
+14. Select any entities that you want document management to be enabled for, such as **Lead**, **Account**, **Opportunity**, then select **Next**.
+    
+    > [!IMPORTANT]
+    > If you plan to configure email engagement in Sales insights, ensure you also select the **Email** Entity.
+15. In the SharePoint site URL field, enter the URL of the SharePoint site you used in step 9 and validate the URL.
+16. Select **Next**.
+17. Select **Next**.
+18. Review the **Document library creation status**, then select **Finish**.
+19. Select **Close**.
 
 ### Task 3: Setup OneDrive for Business Integration
 
