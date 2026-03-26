@@ -100,7 +100,7 @@ In this task, you will set up OneDrive integration for your Dynamics CRM organiz
 
 ### Task 1: Configure Teams Integration
 
-1.  If necessary, open the Sales Hub app.
+1.  Open the Sales Hub app.
 2.  Using the navigation on the left, select the **Sales** area (Bottom Left).
 3.  From the menu that appears, select **App Settings**.
 4.  Under the General Settings group, select **Chat and Collaboration**.
