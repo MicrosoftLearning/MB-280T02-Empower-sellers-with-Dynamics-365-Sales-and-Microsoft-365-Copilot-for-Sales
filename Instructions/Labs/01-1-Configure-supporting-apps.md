@@ -92,7 +92,7 @@ In this task, you will set up OneDrive integration for your Dynamics CRM organiz
 4.  In the top command bar, select **Settings**.
 5.  Under **Integration**, open **Document management settings**.
 6.  Select **Configure server-based Sharepoint integration**.
-7.  Select **Next** until you reach the **OneDrive for business** tab.
+7.  Select **Next** until you reach the **OneDrive for Business** tab.
 8.  Select the **Enable OneDrive for Business** checkbox, then select **Next**.
 9.  Review the summary and select **Done**.
 
