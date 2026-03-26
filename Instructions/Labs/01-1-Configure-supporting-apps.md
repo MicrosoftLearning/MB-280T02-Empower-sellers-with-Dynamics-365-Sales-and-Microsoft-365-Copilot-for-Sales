@@ -28,7 +28,7 @@ This lab will take approximately **30** minutes to complete.
 
 ### Task 1: Configure Email Integration
 
-1.  In a web browser, navigate to [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
+1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`.
 2.  In the left navigation, select **Manage**, then select **Environments**.
 3.  Select the **Sales Trial** environment to open it.
 4.  Locate and select **Settings** from the commands listed at the top.
@@ -53,7 +53,7 @@ This lab will take approximately **30** minutes to complete.
 
 In this task, you will enable server-based SharePoint integration for your Dynamics 365 organization.
 
-1.  In a web browser, navigate to [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
+1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`.
 2.  From the site navigation on the left side of the screen, select **Environments**.
 3.  Open the **Sales Trial** environment that you have been working in to open it.
 4.  Locate and select **Settings** from the commands listed at the top.
@@ -78,7 +78,7 @@ In this task, you will enable server-based SharePoint integration for your Dynam
 
 In this task, you will set up OneDrie integration for your Dynamics CRM organization. (As of the publication of this course, Document Management settings were not available from within the Power Platform Admin center. You will need to configure OneDrive for business integration from the classic Dynamics 365 Settings area.)
 
-1.  In a web browser, navigate to [admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com/).
+1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`.
 2.  From the site navigation on the left side of the screen, select **Environments**.
 3.  Open the **Sales Trial** environment that you have been working in to open it.
 4.  Locate and select **Settings** from the commands listed at the top.
