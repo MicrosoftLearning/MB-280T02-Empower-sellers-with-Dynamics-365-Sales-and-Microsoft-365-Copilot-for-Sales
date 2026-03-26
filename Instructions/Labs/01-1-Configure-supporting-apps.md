@@ -117,9 +117,6 @@ In this task, you will set up OneDrive integration for your Dynamics CRM organiz
 
 1.  Make sure that you are in the **App Settings** area.
 2.  Under the General Settings group, select **Copilot**.
-3.  Select the checkbox next to **Try our newest preview features before they’re rolled out to everyone** to enable it.
-4.  Under **Copilot features**, change the **All Dynamics 365 Sales Apps** as follows:
-    -   **Chat**: On
-    -   **Email (Preview)**: On
-5.  Select the **Save** button.
+3.  Under **All apps**, set **Copilot** to **On**.
+4.  Select **Save** 
 
