@@ -34,7 +34,7 @@ In this task, you will create an Opportunity and add Products Line Items.
    - **Contact:** Jon Doe
 5. In the record header, select the **down arrow** next to the **Owner** field and select **Test Coffee Shop, Inc.** for **Account**, then select **Save**.
   > [!NOTE]
-    > If **Test Coffee Shop, Inc.** does not appear in the list, select **+ New** to create a new account, enter `Test Coffee Shop, Inc.` for **Account Name**, and select **Save & Close**.
+  > If **Test Coffee Shop, Inc.** does not appear in the list, select **+ New** to create a new account, enter `Test Coffee Shop, Inc.` for **Account Name**, and select **Save & Close**.
 6. Select the **Products** tab.
 7. Select the following values:
    - **Price List:** Filter Direct
@@ -49,21 +49,32 @@ In this task, you will create an Opportunity and add Products Line Items.
 11. Double click on the **Airpot XL 6 Month Filter** product.
 12. Locate the **Volume Discount** field and notice that no discount is applied.
 13. Change **Quantity** to `15` and select outside the field.
-  > [!NOTE]
-  > The discount is now applied and the **Volume Discount** field shows the discounted value.
+    > [!NOTE]
+    > The discount is now applied and the **Volume Discount** field shows the discounted value.
 14. Select **Save & Close.**
 
 #### Task 2 – Create Quote
 In this task, you will create a Quote from the Opportunity you created in Task 1.
-1. If not there already, go to your Dynamics 365 Sales Hub application.
-2. If necessary, open the opportunity you created in the previous task. It will be called **Interested in Airpot XL accessories.**
+1. If necessary, open the **Sales Hub** app and ensure you are in 
+   the **Sales** area.
+2. Open the **Interested in Airpot XL Accessories** opportunity.
 3. Select the **Quotes** tab.
-4. Above the subgrid, Click **+ New Quote.**
-5. The Quote form will open, and relevant information will be copied from the Opportunity.
-6. On the Interested in Airpot XL Accessories Quote page, examine the Products sub-grid and make sure products and their quantities look as you expected. You can change the quantities and discount the price of each line item.
-7. On the Command bar, select **Activate Quote.** (Depending on the size of your browser, you may need to select the ellipses to see this option.)
-8. Click **Export to PDF** located on the command bar and select **Print Quote for Customer.** Click **Download.**
-9. Open the generated document and see what the Quote looks like.
+4. Above the subgrid, select **+ New Quote.**
+    > [!NOTE]
+    > The quote form opens with relevant information copied from 
+    > the opportunity.
+5. Review the **Products** subgrid and verify that the products and 
+   quantities are correct.
+    > [!NOTE]
+    > You can modify quantities and apply discounts to individual 
+    > line items if needed.
+7. On the command bar, select **Activate Quote**.
+    > [!NOTE]
+    > Depending on your browser size, you may need to select the 
+    > ellipsis (**⋮**) to find this option.
+8. On the command bar, select **Export to PDF**, then select **Print Quote for Customer**.
+9. Select **Download** and open the generated document to review 
+   the quote.
 10. Close the PDF.
-11. Close the Export to PDF window.
+11. Close the **Export to PDF** window.
 
