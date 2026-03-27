@@ -104,38 +104,38 @@ In this exercise, you will walk through the process of working an opportunity th
 
 #### Task 1 – Manage the Coffee Machine Lead with Company
 1. If necessary, go to your Sales Hub application.
-2. In the navigation on the left, select **Opportunities** under the Sales group.
+2. In the left navigation, under **Sales**, select **Opportunities**.
 3. Locate and open the **Coffee Machine Lead with Company** opportunity.
-4. On the Opportunity panel that appears, select the **Go to Main button** (located next to the X (Close) button).
-5. Complete the Opportunity record as follows:
-   - Budget Amount: $17,000
-   - Purchase Timeframe: This Quarter
-   - Purchase Process: Committee
-   - Description: Looking to upgrade their current coffee machines at multiple locations.
-6. Expand the record header at the top, and complete as follows:
-   - Est. Close Date: Enter tomorrow’s date.
-   - Est. revenue: $16,500
-7. On the Timeline control, select the **+** (add a timeline record).
-8. From the menu that appears, select **Phone call.**
-9. Complete the Phone call as follows:
-   - Subject: Initial Call to Jon.
-   - Due: Enter Today’s Date at 4:30 PM
-10. Select the **Save and Close** button.
-11. With the Opportunity open, select the **Develop stage** on the Lead to Opportunity business process flow. Complete as follows:
-   - Customer Need: Looking to upgrade their coffee machines at multiple locations.
-   - Proposed Solution: Recommending multiple AirPot Duo Machines.
+4. In the **Opportunity information** section, enter the following values:
+   - **Budget Amount:** `$17,000`
+   - **Purchase Timeframe:** `This Quarter`
+   - **Purchase Process:** `Committee`
+   - **Description:** `Looking to upgrade their current coffee machines at multiple`
+5. Expand the record header and enter the following values:
+   - **Est. Close Date:** Enter tomorrow's date.
+   - **Est. Revenue:** `$16,500`
+6. On the **Timeline** control, select **+** to add a timeline record.
+7. From the menu that appears, select **Phone call.**
+8. Enter the following values:
+   - **Subject:** `Initial Call to Jon`
+   - **Due:** Select today's date at 4:30 PM
+9. Select **Save and Close**.
+10. On the **Lead to Opportunity** business process flow, select the 
+    **Develop** stage and enter the following values:
+   - Customer Need: `Looking to upgrade their coffee machines at multiple locations.`
+   - Proposed Solution: `Recommending multiple AirPot Duo Machines.`
    - Identify Stakeholders: Completed
    - Identify Competitors: Completed
-12. Select the **Next Stage** button.
-13. On the Propose stage, set all the fields to **Completed.**
-14. Select the **Next Stage** button.
-15. Select anywhere outside of the business process stage to close it.
-16. In the Assistant section, under Notifications, select the **Phone Call** item you created earlier to open it.
-17. Select **Complete.** (Notice that the item disappears from your notifications.)
-18. Select the **Close stage** on the Lead to Opportunity sales process.
-19. Mark all the items in the Close stage as **Completed.**
-20. Select the **Finish** button.
-21. On the Command bar at the top, select the **Close as won** button.
-22. On the Close Opportunity screen, select the **OK** button.
+11. Select **Next Stage**.
+12. On the **Propose** stage, set all the fields to **Completed.**
+13. Select **Next Stage**.
+14. Select anywhere outside of the business process stage to close it.
+15. In the **Timeline** section, locate the **Initial Call to Jon** phone call activity and select the **Open record** icon to open it.
+16. On the command bar, select **Mark Complete**.
+17. On the **Lead to Opportunity** business process flow, select the **Close** stage.
+18. Mark all the items in the Close stage as **Completed.**
+19. Select **Finish**.
+20. On the Command bar at the top, select **Close as won**.
+21. On the **Close opportunity** dialog, select the **OK**.
 
 Congratulations, you have successfully created and managed Leads and Opportunities in Dynamics 365 Sales.
