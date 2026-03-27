@@ -27,7 +27,7 @@ This lab will take approximately **30** minutes to complete.
 #### Task 1 – Create Unit Group
 In this task, you will create unit groups for a line of coffee machine filters.
 1. Go to your Dynamics 365 Sales Hub application.
-2. In the bottom-left corner, select the **Sales** area switcher.
+2. In the bottom-left corner, select the **Sales** Change area.
 3. From the menu that appears, select **App Settings.**
 4. In the left navigation, under **Product Catalog** group, select **Unit Groups**.
 5. Select **+ New.**
@@ -89,7 +89,7 @@ In this task, you will create a price list for the filters.
 
 #### Task 4 – Create Products
 In this task, you will create products.
-1. Click on the **App Settings** change area.
+1. In the bottom-left corner, select the **App Settings** Change area.
 2. Select **Sales.**
 3. Select **Products** from the Collateral section of the left menu.
 4. Click **Add Product.**
