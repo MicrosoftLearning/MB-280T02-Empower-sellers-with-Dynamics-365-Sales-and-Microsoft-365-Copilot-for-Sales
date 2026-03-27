@@ -89,11 +89,15 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 4 – Reactivate A Lead
 1. If necessary, go to your Sales Hub application.
-2. In the Site Navigation, under the Sales group, select **Leads.**
-3. The Lead you disqualified is no longer in the My Open Leads view. Select the down arrow next to My Open Leads and change the view to **Closed Leads.**
-4. Locate Another Coffee Machine Lead and open it.
-5. Click **Reactivate Lead.**
-6. The Lead will be reactivated, the status will change back to New, and the record will become editable.
+2. In the left navigation, under **Sales**, select **Leads**.
+3. Select the view selector next to **My Open Leads** and change the 
+   view to **Closed Leads**.
+   > [!NOTE]
+   > The lead you disqualified is no longer visible in the **My Open Leads** view.
+4. Locate and open the **Another Coffee Machine Lead** record.
+5. On the command bar, select **Reactivate Lead**.
+   > [!NOTE]
+   > The lead is reactivated, the status changes back to **New**, and the record becomes editable.
 
 ### Exercise 3 – Work with Opportunities
 In this exercise, you will walk through the process of working an opportunity through the sales process.
