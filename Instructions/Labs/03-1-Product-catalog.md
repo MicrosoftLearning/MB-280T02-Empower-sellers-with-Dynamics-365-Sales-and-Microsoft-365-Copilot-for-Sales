@@ -60,14 +60,24 @@ In this task, you will create unit groups for a line of coffee machine filters.
 
 #### Task 2 – Create Discount List
 In this task, you will create a Discount List for people that buy 15 or 20 or more filters. The 15 filters will get a 15% discount and 20 to 50 filters will get a 25% discount.
-1. Select **Discount Lists** from the Product Catalog section of the left menu.
-2. Click **+ New.**
-3. Enter *Quantity Discount* for Name, select **Percentage** for Type, and click **Save.**
-4. Click **Related** and choose **Discounts.**
-5. Click **+ New Discount.**
-6. Make sure Quantity Discount is selected for Discount Type, enter *15* for Begin Quantity, *19* for End Quantity, *15* for Percentage and click **Save.**
-7. Click **+ New** again.
-8. Select **Quantity Discount** for Discount Type. Then enter *20* for Begin Quantity, *50* for End Quantity, enter *25* for Percentage, and click **Save.**
+1. In the left navigation, under **Product Catalog** group, select **Discount Lists**.
+2. Select **+ New.**
+3. Enter the following values and select **Save**:
+   - **Name:** `Quantity Discount`
+   - **Type:** `Percentage`
+4. Select the **Related** tab, then select **Discounts**.
+5. Select **+ New Discount**.
+6. Enter the following values and select **Save**:
+   - **Discount Type:** `Quantity Discount`
+   - **Begin Quantity:** `15`
+   - **End Quantity:** `19`
+   - **Percentage:** `15`
+7. Select **+ New**.
+8. Enter the following values and select **Save**:
+   - **Discount Type:** `Quantity Discount`
+   - **Begin Quantity:** `20`
+   - **End Quantity:** `50`
+   - **Percentage:** `25`
 
 #### Task 3 – Create Price List
 In this task, you will create a price list for the filters.
