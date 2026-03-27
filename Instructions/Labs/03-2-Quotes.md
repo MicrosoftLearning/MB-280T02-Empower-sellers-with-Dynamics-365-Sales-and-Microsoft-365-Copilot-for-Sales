@@ -68,13 +68,13 @@ In this task, you will create a Quote from the Opportunity you created in Task 1
     > [!NOTE]
     > You can modify quantities and apply discounts to individual 
     > line items if needed.
-7. On the command bar, select **Activate Quote**.
+6. On the command bar, select **Activate Quote**.
     > [!NOTE]
     > Depending on your browser size, you may need to select the 
     > ellipsis (**⋮**) to find this option.
-8. On the command bar, select **Export to PDF**, then select **Print Quote for Customer**.
-9. Select **Download** and open the generated document to review 
+7. On the command bar, select **Export to PDF**, then select **Print Quote for Customer**.
+8. Select **Download** and open the generated document to review 
    the quote.
-10. Close the PDF.
-11. Close the **Export to PDF** window.
+9. Close the PDF.
+10. Close the **Export to PDF** window.
 
