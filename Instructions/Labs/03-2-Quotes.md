@@ -27,22 +27,31 @@ This lab will take approximately **15** minutes to complete.
 #### Task 1 – Add Products Line Items
 In this task, you will create an Opportunity and add Products Line Items.
 1. Go to your Dynamics 365 Sales Hub application.
-2. From the left menu, in the Sales group, select **Opportunities.**
-3. Click **+ New.**
-4. Enter *Interested in Airpot XL Accessories* for Topic, and select **Jon Doe** for Contact.
-5. In the record header at the top select the **down arrow** next to the Owner field, and choose **Test Coffee Shop, Inc.** for Account. Select **Save.**
+2. In the left navigation, under **Sales** group, select **Opportunities**.
+3. Select **+ New.**
+4. Enter and select the following values:
+   - **Topic:** `Interested in Airpot XL Accessories`
+   - **Contact:** Jon Doe
+5. In the record header, select the **down arrow** next to the **Owner** field and select **Test Coffee Shop, Inc.** for **Account**, then select **Save**.
+  > [!NOTE]
+    > If **Test Coffee Shop, Inc.** does not appear in the list, select **+ New** to create a new account, enter `Test Coffee Shop, Inc.` for **Account Name**, and select **Save & Close**.
 6. Select the **Products** tab.
-7. You must select a Price List before you can add Opportunity Products. Select **Filter Direct** for Price List.
-8. Select **System Calculated** for Revenue.
-9. Above the subgrid, click **+ Add products.**
-10. From the All products list, find **Airpot XL 6 Month Filter**, enter *6* for Quantity, select **Add.**
-11. Find **AirpotXL pot extender** in the list of products, enter *1* for Quantity, and select **Add.**
-12. Find **Airpot XL Reservoir Extension** in the list of products, enter *1* for Quantity and select **Add.**
-13. You will see three products are added. Select **Save.**
-14. Double click on the **Airpot XL 6 Month Filter** product.
-15. Locate the Volume Discount field. You will find that there is no discount.
-16. Change the Quantity to *15* and click out of the field. The discount will now kick in and the Volume Discount field will show the discounted value.
-17. Select **Save & Close.**
+7. Select the following values:
+   - **Price List:** Filter Direct
+   - **Revenue:** System Calculated
+8. Above the subgrid, select **+ Add products.**
+9. On the **Add products** panel, for each product, update the 
+   **Quantity** and select **Add**:
+   - **Airpot XL 6 month filter** — Quantity: `6`
+   - **Airpot XL Pot Extender** — Quantity: `1`
+   - **Airpot XL Reservoir Extension** — Quantity: `1`
+10. Select **Save to Opportunity**
+11. Double click on the **Airpot XL 6 Month Filter** product.
+12. Locate the **Volume Discount** field and notice that no discount is applied.
+13. Change **Quantity** to `15` and select outside the field.
+  > [!NOTE]
+  > The discount is now applied and the **Volume Discount** field shows the discounted value.
+14. Select **Save & Close.**
 
 #### Task 2 – Create Quote
 In this task, you will create a Quote from the Opportunity you created in Task 1.
