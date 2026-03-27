@@ -81,9 +81,11 @@ In this task, you will create a Discount List for people that buy 15 or 20 or mo
 
 #### Task 3 – Create Price List
 In this task, you will create a price list for the filters.
-1. Select **Price Lists** from the Product Catalog section of the left menu.
-2. Click **+ New.**
-3. Enter *Filter Direct* for Name, select **US Dollar** for Currency, and click **Save & Close.**
+1. In the left navigation, under **Product Catalog** group, select **Price Lists**.
+2. Select **+ New.**
+3. Enter the following values and select **Save & Close**:
+   - **Name:** `Filter Direct`
+   - **Currency:** `US Dollar`
 
 #### Task 4 – Create Products
 In this task, you will create products.
