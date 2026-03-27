@@ -78,11 +78,14 @@ In this exercise, you will qualify/disqualify leads and see what records will be
 
 #### Task 3 – Disqualify a Lead
 1. If necessary, go to your Sales Hub application.
-2. Select **Leads.**
-3. Locate the Another Coffee Machine Lead and open it.
-4. Click **Disqualify** (you may need to select the vertical ellipsis button for it to display).
+2. In the left navigation, under **Sales**, select **Leads**.
+3. Locate and open **Another Coffee Machine Lead** record.
+4. On the command bar, select the vertical ellipsis (**⋮**), then 
+   select **Disqualify**.
 5. From the menu that appears, select **No Longer Interested.**
-6. The Lead will be Disqualified, the status will change to No Longer Interested, and the record will become Read-only.
+> [!NOTE]
+> Notice that the lead is disqualified, the status changes to **No Longer Interested**, and the record becomes read-only.
+
 
 #### Task 4 – Reactivate A Lead
 1. If necessary, go to your Sales Hub application.
