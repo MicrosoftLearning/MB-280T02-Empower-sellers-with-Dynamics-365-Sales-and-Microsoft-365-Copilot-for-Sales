@@ -43,22 +43,23 @@ This lab will take approximately **45** minutes to complete.
 
 ### Task 2: Create a Segment
 
-1.  If you have not done so already, change the area to **Sales Insights settings.**
+1.  In the bottom-left corner, select **Sales Insights settings** from the 
+   **Change area** menu.
 2.  In the Sales Insights group, select **Global settings.**
 3.  In the Sales accelerator sub-group, select the **Work Assignment** tab.
-4.  Make sure the **Record type** is set to **Leads** and select the **New Segment** button.
+4.  Make sure the **Record type** is set to **Leads** and select the **New segment** button.
 5.  In the **Name** field enter the text **Trade Show Leads** and then select the **Next** button.
 6.  On the **Segment definition** tab, select the **Add** button.
 7.  From the menu that appears, select **Add** row.
 8.  Configure the condition as follows:
     1.  **Lead Source** – **Equals** – **Trade Show**
 9.  Select **Simulate Results**.
-
-    You should see a segment member simulation screen which will include any leads that meet your criteria.
+    > [!NOTE]
+    > You should see a segment member simulation screen which will include any leads that meet your criteria.
 
 10. Close the **Segment member simulation** window.
-11. Select the **Save** button.
-12. Select the **Activate** button.
+11. Select **Save**.
+12. Select **Activate**.
 
 ## Exercise 2: Create and attach Sequences to records
 
