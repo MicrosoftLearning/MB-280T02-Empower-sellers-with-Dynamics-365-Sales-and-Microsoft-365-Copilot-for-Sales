@@ -115,7 +115,7 @@ To make the sequence available for sellers to use, activate the sequence.
 ### Task 5: Connect the sequence to a segment
 
 1.  Make sure you are in the **Sales Insights settings** area.
-2.  Using the navigation on the left, select **Sequences**.
+2.  In the Sales accelerator sub-group, select the **Sequences** tab.
 3.  Open the **Trade Show follow-up** sequence you created earlier.
 4.  Select the **Connected leads** tab.
 5.  Select **+ Connect Segments**
@@ -125,11 +125,12 @@ To make the sequence available for sellers to use, activate the sequence.
 ### Task 6: Connect the sequence to record (From Record)
 
 1.  Change the area to the **Sales** area using the bottom left dropdown menu.
-2.  Select **Leads** from the site navigation menu.
+2.  In the left navigation, under **Sales**, select **Leads**.
 3.  Select one of the leads you created earlier.
-4.  On the command bar, select the **down arrow** next to Sequences. From the menu that appears, select **Connect sequence** from the command bar.
+4.  On the command bar,if necessary select the vertical ellipsis (**⋮**), select  **Sequences** > **Connect sequence**.
 5.  Select the sequence you created earlier and select **Connect.**
-6.  A confirmation message appears at the bottom of the page, and the sequence is connected to the selected lead record.
-7.  If you are prompted to assign a seller, select the **Assign** button. Now, the seller(s) who have access to the lead record can see the activities connected with it.
+6.  If you are prompted to assign a seller, select the **Assign** button. Now, the seller(s) who have access to the lead record can see the activities connected with it.
+7.  Verify that a confirmation message appears at the top of the page indicating 
+   that the sequence is connected to the lead record.
 8.  Refresh the page - you should see the tasks you created in the **Up next** section.
 
