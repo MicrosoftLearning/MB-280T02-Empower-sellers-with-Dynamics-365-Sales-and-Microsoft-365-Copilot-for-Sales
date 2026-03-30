@@ -22,11 +22,15 @@ This lab will take approximately **30** minutes to complete.
 
 ## Exercise 1 - Configure a dashboard 
 ### Task 1 - Create a dashboard
-1. Make sure you are in the Sales area of the application, if you are not already. Use the bottom-left dropdown menu to change area to **Sales** if you need to switch.
-2. In the My Work group, select **Dashboards** from the left navigation menu.
-3. By default, the Sales Activity Social Dashboard will appear. Feel free to explore the various components. Additionally, you can use the **˅** dropdown icon next to the title of the dashboard to explore the other system dashboards.
-4. When you're ready to create your own dashboard, select **+ New**, and then select **Dynamics 365 Dashboard.**
-5. Explore the various dashboard layouts. In this task, we will be creating a 2-Column Regular Dashboard. When you are ready, select it from the list and select **Create.**
+
+1. If necessary,go to your Dynamics 365 Sales Hub application.
+2. In the bottom-left corner, select **Sales** from the **Change area** menu.
+3. In the left navigation, under **My Work** group, select **Dashboards**.
+4. Review the **Sales Activity Social Dashboard** that appears by default. 
+   Select the dropdown arrow next to the dashboard title to view the other 
+   available system dashboards.
+5. When you're ready to create your own dashboard, select **+ New**, and then select **Dynamics 365 Dashboard.**
+6. Review the available dashboard layouts, then select **2-Column Regular Dashboard** and select **Create**.
 
 ### Task 2 - Add components
 1. The dashboard designer will open in a new window. (If your new dashboard does not open in a new window, make sure the pop-up blocker is disabled.) The designer may take a minute to load.
