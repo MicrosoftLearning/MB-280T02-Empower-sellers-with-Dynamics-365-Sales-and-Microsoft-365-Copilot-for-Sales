@@ -67,7 +67,7 @@ In this task, you will create a new Business Process Flow from the Opportunity S
 28. In the **Properties** tab, open the dropdown for **Data Field.** Select **Confirm interest**. 
     > [!NOTE]
     > The **Step Name** updates automatically.
-29. Check the **Required** check box and click **Apply**.
+29. Leave the **Required** checkbox unchecked, then select **Apply**.
 30. Next, we will add a new step to ask for customer pain points in the Develop stage, as requested by our sellers. Select the **Develop** stage and expand **Details.**
 31. From the Components pane, drag a **Data Step** below Data Step \#4.
 32. In the Data Field drop down, select **Customer Pain Points.**
@@ -88,18 +88,21 @@ In this task, you will create a new Business Process Flow from the Opportunity S
 ### Task 2 – Test Business Process Flow
 
 1.  Return to the Sales Hub app.
-2.  Navigate to the **Opportunities** section and click **+New** to create a new opportunity. Enter a topic such as **Interested in new machines**.
-3.  Select an existing contact for the contact field.
-4.  Open the **Qualify** stage of the Sales Process business process flow. Enter *\$800,000* for Estimated Budget.
-5.  The Business Process Flow should have 4 stages: **Qualify**, **Develop**, **Propose**, and **Close**. The Confirm Interest stage will not be part of the process if the Budget Amount is less than \$1,000,000.
-6.  Change the **Budget Amount** to *\$1,200,000.*
-7.  The Business Process Flow should now have 5 stages: **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**. Move from the Qualify stage to the next stage.
+2.  In the left navigation, select **Opportunities**, then select **+ New** to create a new oppportunity.
+3.  In the **Topic** field, enter `Interested in new machines`.
+4.  In the **Contact** field, select an existing contact.
+5.  Open the **Qualify** stage of the Sales Process business process flow and enter *\$800,000* for Estimated Budget.
+    > [!NOTE] 
+    >The Business Process Flow includes 4 stages: **Qualify**, **Develop**, **Propose**, and **Close**. The Confirm Interest stage will not be part of the process if the Budget Amount is less than \$1,000,000.
+6.  Change the **Estimated budget amount** to *\$1,200,000.*
+7.  Confirm that the business process flow now shows five stages: **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**.
 8.  **Save** The Opportunity.
-9.  Select the **Qualify** stage and select the **Next Stage** button to move to the **Confirm Interest** stage.
-10. Confirm interest by selecting **No,** then **Yes.**
-11. Select the **Next Stage** button to move to the **Develop** stage.
-12. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
-13. Enter *Current machines cannot handle customer volume* in the Customer Pain Points field.
-14. Select **Next stage**.
-15. **Save** the record.
+9.  In the **Qualify** stage flyout, select **Next Stage** to advance to the **Confirm Interest** stage.
+10.  **Save** The Opportunity.
+11. In the **Confirm Interest** stage, for the **Confirmed Interest** field, select **No**, then select **Yes** to confirm.
+12. Select the **Next Stage** button to move to the **Develop** stage.
+13. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
+14. Enter *Current machines cannot handle customer volume* in the Customer Pain Points field.
+15. Select **Next stage**.
+16. Select **Save** to save the record.
 
