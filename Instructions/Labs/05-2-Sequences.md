@@ -109,8 +109,8 @@ Add additional activities for your sellers to take in an ordered manner - for ex
 To make the sequence available for sellers to use, activate the sequence.
 
 1.  Select **Activate** on the command bar.
-2.  Select **I understand**, and then **Activate** in the pop-up.
-3.  Your sequence will now have a green bar at the top telling you that the sequence was successfully activated.
+2.  Select **I understand**, then select **Activate**.
+3.  Verify that a green confirmation bar appears at the top of the sequence indicating that the sequence was successfully activated.
 
 ### Task 5: Connect the sequence to a segment
 
