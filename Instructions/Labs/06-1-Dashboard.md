@@ -63,6 +63,6 @@ This lab will take approximately **30** minutes to complete.
 ### Task 3 - Save and edit the dashboard
 1. Select **Save** and then **Close**. Your window will close and you will be returned to the Dashboards form, where your new dashboard will be displayed.
 2. Select **Set As Default** from the command bar. This dashboard will now be your default dashboard when you navigate to the Dashboards section.
-3. Click **Edit** from the top menu. You will return to the dashboard designer in another new window. Add two more components beneath your chart. The components you select should solve the following business requirements requested by sales managers:
+3. Select **Edit** from the top menu. You will return to the dashboard designer in another new window. Add two more components beneath your chart. The components you select should solve the following business requirements requested by sales managers:
    - Sales managers would like to get a sense of how individual sellers are doing based on their closed opportunity revenue. They would like a chart that shows seller names and their total revenue from closed opportunities.
    - Sales managers would like to monitor the day-to-day tasks of the sellers on their team. They would like to see a list that shows their sales teams' activities.
