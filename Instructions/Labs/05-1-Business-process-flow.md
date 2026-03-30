@@ -98,7 +98,7 @@ In this task, you will create a new Business Process Flow from the Opportunity S
 7.  Confirm that the business process flow now shows five stages: **Qualify**, **Confirm Interest**, **Develop**, **Propose**, and **Close**.
 8.  **Save** The Opportunity.
 9.  In the **Qualify** stage flyout, select **Next Stage** to advance to the **Confirm Interest** stage.
-10.  **Save** The Opportunity.
+10. **Save** The Opportunity.
 11. In the **Confirm Interest** stage, for the **Confirmed Interest** field, select **No**, then select **Yes** to confirm.
 12. Select the **Next Stage** button to move to the **Develop** stage.
 13. Confirm that the Customer Pain Points field appears at the bottom of the Develop stage.
