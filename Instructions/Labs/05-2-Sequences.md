@@ -27,16 +27,19 @@ This lab will take approximately **45** minutes to complete.
 
 ### Task 1: Enable Sales Accelerator
 
-1.  In the Sales Insights group, select **Global settings.**
-2.  In the Sales accelerator sub-group, select the **Sequences** tab.
-3.  You will be asked to set up the Workspace to be able to use Sequences. Select the **Setup workspace** button.
-4.  Select the **Quick setup** button.
-5.  In the Record type and form section, select **+ Add record type**. Select **Opportunities.**
-6.  For the default form for each record type, configure as follows:
+1.  Go to your Dynamics 365 Sales Hub application.
+2.  In the bottom-left corner, select the **Sales Insights settings** from the Change area.
+3.  In the Sales Insights group, select **Global settings.**
+4.  In the Sales accelerator sub-group, select the **Sequences** tab.
+5.  You will be asked to set up the Workspace to be able to use Sequences. Select the **Setup workspace** button.
+6.  Select **Quick setup**.
+7.  In the Record type and form section, select **+ Add record type** and then select **Opportunities.**
+8.  For the default form for each record type, configure as follows:
     -   Leads: Sales Insights
     -   Opportunities: Sales Insights
-7.  Select the **Publish** button.
-    -   Note: It can take several minutes for your changes to be applied.
+9.  Select **Publish**.
+    > [!NOTE]
+    > It can take several minutes for your changes to be applied.
 
 ### Task 2: Create a Segment
 
