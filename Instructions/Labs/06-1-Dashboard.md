@@ -33,20 +33,32 @@ This lab will take approximately **30** minutes to complete.
 6. Review the available dashboard layouts, then select **2-Column Regular Dashboard** and select **Create**.
 
 ### Task 2 - Add components
-1. The dashboard designer will open in a new window. (If your new dashboard does not open in a new window, make sure the pop-up blocker is disabled.) The designer may take a minute to load.
-2. In the Name text box, type *Sales Manager Dashboard*.
-3. Let's add a component to the upper left section. Sales managers are requesting an easy way to see the amount of won versus lost revenue from opportunities. They'd like this information in a graphical view. To accomplish this, we will add a chart by selecting the **Insert Chart** icon in the middle of the upper left section.
-4. Select the following details for your chart:
+1. In the **Name** field, enter `Sales Manager Dashboard`.
+   > [!NOTE]
+   > The dashboard designer opens in a new window and may take a minute to 
+   > load. If it does not open, ensure that your browser's pop-up blocker 
+   > is disabled.
+2. Sales managers need a graphical view of won versus lost revenue from 
+   opportunities. To accomplish this, select the **Insert Chart** icon in 
+   the upper-left section.
+3. Configure the chart with the following details, then select **Add**:
+   - **Record Type:** Opportunity
+   - **View:** Closed Opportunities
+   - **Chart:** Deals Won vs. Deals Lost
+4. Verify that the chart appears in the upper-left section.
+5. Select the following details for your chart:
    - Record Type: Opportunity
    - View: Closed Opportunities
    - Chart: Deals Won vs. Deals Lost
    - Select **Add.**
-5. Your chart will appear in the upper left section.
-6. Next, let's add a component to the upper right section. Sales managers are requesting a way to easily view the recently closed opportunities so that they can check in with sellers on lessons learned. They would like the view to include both won and lost opportunities, but only opportunities closed in the current fiscal year. Select the **Insert List** icon for the upper right section.
-7. Select the following details for your list:
-   - Record Type: Opportunities
-   - View: Closed Opportunities in Current Fiscal Year
-   - Click **Add.**
+6. Your chart will appear in the upper left section.
+7. Sales managers need a way to review recently closed opportunities to 
+   check in with sellers on lessons learned. The view should include both 
+   won and lost opportunities closed in the current fiscal year. To 
+   accomplish this, select the **Insert List** icon in the upper-right section.
+8. Configure the list with the following details, then select **Add**:
+   - **Record Type:** Opportunities
+   - **View:** Closed Opportunities in Current Fiscal Year
 
 ### Task 3 - Save and edit the dashboard
 1. Select **Save** and then **Close**. Your window will close and you will be returned to the Dashboards form, where your new dashboard will be displayed.
