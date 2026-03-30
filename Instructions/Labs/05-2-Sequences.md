@@ -94,13 +94,15 @@ Choose the first step for your sellers to take. This can be either sending an em
 
 Add additional activities for your sellers to take in an ordered manner - for example, the seller needs to take the first activity first, then the second and third and so on.
 
-1.  Click on the **+** button.
-2.  Choose the next activity for the seller to take, can be either sending an email, making a phone call or add a task of your own. Select **Set wait time** to define a time-interval between activities. In our example we will add a time-interval of 1 hour.
-3.  Click Save.
-4.  Click on the **+** button.
-5.  Select **Phone call.**
-6.  In the Title, enter *Follow-up call.* (You can choose to add a description if you would like.)
-7.  Select **Save** on the command bar.
+1.  Select the **+** to add the next step.
+2.  Select **Set wait time**.
+3.  Set the wait time interval to **1 hour**, then select **Apply**.
+4.  Select **Save**.
+5.  Select the **+** to add the next step.
+6.  Select **Make a phone call.**
+7.  In the Title, enter `Follow-up call`.
+8.  Optionally, enter a description in the **Description** field.
+9.  Select **Save** on the command bar.
 
 ### Task 4: Activate the sequence
 
