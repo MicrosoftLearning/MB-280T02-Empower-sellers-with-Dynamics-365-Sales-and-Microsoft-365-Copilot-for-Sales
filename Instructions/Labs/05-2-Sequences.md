@@ -43,7 +43,7 @@ This lab will take approximately **45** minutes to complete.
 
 ### Task 2: Create a Segment
 
-1.  In the bottom-left corner, select **Sales Insights settings** from the 
+1.  If necessary,in the bottom-left corner, select **Sales Insights settings** from the 
    **Change area** menu.
 2.  In the Sales Insights group, select **Global settings.**
 3.  In the Sales accelerator sub-group, select the **Work Assignment** tab.
@@ -65,16 +65,18 @@ This lab will take approximately **45** minutes to complete.
 
 ### Task 1: Create new sequence
 
-1.  If you have not done so already, change the area to **Sales Insights settings.**
+1.  If necessary,in the bottom-left corner, select **Sales Insights settings** from the 
+   **Change area** menu.
 2.  In the Sales Insights group, select **Global settings.**
 3.  In the Sales accelerator sub-group, select the **Sequences** tab.
 4.  If necessary, select **Enable** on the notification to enable workflow for sequences to work properly.
 5.  On the Sequences tab, select **+ New sequence.**
-6.  You have the option to create a sequence from a number of common templates. You can explore the templates available. When you're ready, select **Start from blank.**
-7.  Next, you will assign a name, description, and choose the type of table that the sequence will be available for. In the Sequence Name text box, type the sequence name, *Trade Show Follow-up Sequence.*
-8.  In the Description text box, enter sequence description: "This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows."
+6.  Review the available sequence templates, then select **Start from blank**.
+7.  In the **Sequence name** field, enter `Trade Show Follow-up Sequence`.
+8.  In the **Description** field, enter 
+   `This is a test sequence for Test Coffee. This sequence will be used for following up with potential customers after trade shows.`
 9.  In Record type, select **Lead** (if it is not already selected).
-10. Click **Next.**
+10. Select **Next.**
 
 ### Task 2: Choose the first activity for seller to take
 
