@@ -82,13 +82,13 @@ This lab will take approximately **45** minutes to complete.
 
 Choose the first step for your sellers to take. This can be either sending an email, making a phone call or add a task of your own. In our example, we will start with an email.
 
-1.  Underneath the Sequence start tile, select the **+** button to add an action or other element.
-2.  Click on **Send an email.**
-3.  For Title, enter: *Introduction email.*
-4.  For Description, optionally enter a description: *Introduce lead to the sales team.*
-5.  If email templates (table specific or global templates) are available in your organization, you can choose an email template. In this case, we will assume that the seller will write their own introduction email.
-6.  Select the **X** to close out of the Activity pane.
-7.  On the Command Bar for the sequence, select **Save.**
+1.  Below the **Sequence start** tile, select **+** to add a step.
+2.  Select **Send an email.**
+3.  In the **Title** field, enter `Introduction email`.
+4.  For Description field, optionally enter a description: `Introduce lead to the sales team`.
+5.  If email templates (table specific or global templates) are available in your organization, you can select an email template. In this case, we will assume that the seller will write their own introduction email.
+6.  Select the **X** to close the **Email** pane.
+7.  Select **Save**.
 
 ### Task 3: Add additional activities for your seller to take
 
