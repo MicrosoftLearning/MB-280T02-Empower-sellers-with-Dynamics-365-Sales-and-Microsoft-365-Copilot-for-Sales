@@ -30,22 +30,22 @@ In this task, you will create three leads, one without company information and t
 3. On the command bar, select **Read Only Grid** to change the type of view.
 4. On the command bar, select **+ New**.
 5. Enter the following values:
-   - **Topic:** `Coffee Machine Lead Without Company`
-   - **First Name:** `Jane`
-   - **Last Name:** `Doe`
+   - **Topic:** *Coffee Machine Lead Without Company*
+   - **First Name:** *Jane*
+   - **Last Name:** *Doe*
 6. In the **Job Title** field, enter `Cafeteria Manager`. If a suggestion appears, you can accept it instead.
 7. Select **Save**, then on the command bar, select **+ New**.
 8. Enter the following values:
-   - **Topic:** `Coffee Machine Lead with Company`
-   - **First Name:** `Jon`
-   - **Last Name:** `Doe`
-   - **Company:** `Doe Inc.`
+   - **Topic:** *Coffee Machine Lead with Company*
+   - **First Name:** *Jon*
+   - **Last Name:** *Doe*
+   - **Company:** *Doe Inc.*
 9. Select **Save**, then on the command bar, select **+ New**.
 10. Enter the following values:
-    - **Topic:** `Another Coffee Machine Lead`
-    - **First Name:** `Jack`
-    - **Last Name:** `Rogers`
-    - **Company:** `Test Coffee Shop, Inc.`
+    - **Topic:** *Another Coffee Machine Lead*
+    - **First Name:** *Jack*
+    - **Last Name:** *Rogers*
+    - **Company:** *Test Coffee Shop, Inc.*
 
 11. Select **Save**.
 ### Exercise 2 – Lead Qualifications
@@ -107,23 +107,23 @@ In this exercise, you will walk through the process of working an opportunity th
 2. In the left navigation, under **Sales**, select **Opportunities**.
 3. Locate and open the **Coffee Machine Lead with Company** opportunity.
 4. In the **Opportunity information** section, enter the following values:
-   - **Budget Amount:** `$17,000`
-   - **Purchase Timeframe:** `This Quarter`
-   - **Purchase Process:** `Committee`
-   - **Description:** `Looking to upgrade their current coffee machines at multiple`
+   - **Budget Amount:** *$17,000*
+   - **Purchase Timeframe:** *This Quarter*
+   - **Purchase Process:** *Committee*
+   - **Description:** *Looking to upgrade their current coffee machines at multiple*
 5. Expand the record header and enter the following values:
    - **Est. Close Date:** Enter tomorrow's date.
-   - **Est. Revenue:** `$16,500`
+   - **Est. Revenue:** *$16,500*
 6. On the **Timeline** control, select **+** to add a timeline record.
 7. From the menu that appears, select **Phone call.**
 8. Enter the following values:
-   - **Subject:** `Initial Call to Jon`
+   - **Subject:** *Initial Call to Jon*
    - **Due:** Select today's date at 4:30 PM
 9. Select **Save and Close**.
 10. On the **Lead to Opportunity** business process flow, select the 
     **Develop** stage and enter the following values:
-   - Customer Need: `Looking to upgrade their coffee machines at multiple locations.`
-   - Proposed Solution: `Recommending multiple AirPot Duo Machines.`
+   - Customer Need: *Looking to upgrade their coffee machines at multiple locations.*
+   - Proposed Solution: *Recommending multiple AirPot Duo Machines.*
    - Identify Stakeholders: Completed
    - Identify Competitors: Completed
 11. Select **Next Stage**.
