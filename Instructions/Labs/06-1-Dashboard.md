@@ -33,7 +33,7 @@ This lab will take approximately **30** minutes to complete.
 6. Review the available dashboard layouts, then select **2-Column Regular Dashboard** and select **Create**.
 
 ### Task 2 - Add components
-1. In the **Name** field, enter `Sales Manager Dashboard`.
+1. In the **Name** field, enter *Sales Manager Dashboard*.
    > [!NOTE]
    > The dashboard designer opens in a new window and may take a minute to 
    > load. If it does not open, ensure that your browser's pop-up blocker 
