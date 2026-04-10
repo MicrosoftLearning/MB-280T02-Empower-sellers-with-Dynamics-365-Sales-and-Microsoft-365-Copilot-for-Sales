@@ -28,7 +28,7 @@ This lab will take approximately **30** minutes to complete.
 
 ### Task 1: Configure Email Integration
 
-1.  In a web browser, navigate to `https://admin.powerplatform.microsoft.com/`
+1.  In a web browser, navigate to https://admin.powerplatform.microsoft.com
 2.  In the left navigation, select **Manage**, then select **Environments**.
 3.  Open the **Sales Trial** environment.
 4.  In the top command bar, select **Settings**.
