@@ -30,7 +30,7 @@ This lab will take approximately **45** minutes to complete.
 
 In this task, you will create a new Business Process Flow from the Opportunity Sales Process and then test the new BPF.
 
-1.  Navigate to `https://make.powerapps.com`
+1.  Navigate to https://make.powerapps.com
 2.  Ensure that you are in the **Sales Trial** environment.
 3.  Select **Solutions.**
 4.  On the command bar at the top, select **+ New solution**.
@@ -77,7 +77,7 @@ In this task, you will create a new Business Process Flow from the Opportunity S
     > required.
 33. Select **Apply.**
 34. Select **Validate** to ensure that the changes you made are valid and that the BPF will work as expected.
-35. If there are no issues, select **Update.**
+35. If there are no issues, select **Update**.
 36. Close the tab with the Business process flow editor.
 37. Back on your previous tab, select **Done**.
 38. In the top menu, select **Publish all customizations.** 
