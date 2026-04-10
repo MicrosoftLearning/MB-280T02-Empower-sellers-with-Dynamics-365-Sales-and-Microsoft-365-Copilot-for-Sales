@@ -100,7 +100,7 @@ Add additional activities for your sellers to take in an ordered manner - for ex
 4.  Select **Save**.
 5.  Select the **+** to add the next step.
 6.  Select **Make a phone call.**
-7.  In the Title, enter `Follow-up call`.
+7.  In the **Title**, enter *Follow-up call*.
 8.  Optionally, enter a description in the **Description** field.
 9.  Select **Save** on the command bar.
 
