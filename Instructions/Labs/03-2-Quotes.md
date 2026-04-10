@@ -30,7 +30,7 @@ In this task, you will create an Opportunity and add Products Line Items.
 2. In the left navigation, under **Sales** group, select **Opportunities**.
 3. Select **+ New.**
 4. Enter and select the following values:
-   - **Topic:** `Interested in Airpot XL Accessories`
+   - **Topic:** *Interested in Airpot XL Accessories*
    - **Contact:** Jon Doe
 5. In the record header, select the **down arrow** next to the **Owner** field and select **Test Coffee Shop, Inc.** for **Account**, then select **Save**.
   > [!NOTE]
@@ -42,9 +42,9 @@ In this task, you will create an Opportunity and add Products Line Items.
 8. Above the subgrid, select **+ Add products.**
 9. On the **Add products** panel, for each product, update the 
    **Quantity** and select **Add**:
-   - **Airpot XL 6 month filter** — Quantity: `6`
-   - **Airpot XL Pot Extender** — Quantity: `1`
-   - **Airpot XL Reservoir Extension** — Quantity: `1`
+   - **Airpot XL 6 month filter** — Quantity: *6*
+   - **Airpot XL Pot Extender** — Quantity: *1*
+   - **Airpot XL Reservoir Extension** — Quantity: *1*
 10. Select **Save to Opportunity**
 11. Double click on the **Airpot XL 6 Month Filter** product.
 12. Locate the **Volume Discount** field and notice that no discount is applied.
