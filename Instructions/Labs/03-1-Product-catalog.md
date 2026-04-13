@@ -27,62 +27,119 @@ This lab will take approximately **30** minutes to complete.
 #### Task 1 – Create Unit Group
 In this task, you will create unit groups for a line of coffee machine filters.
 1. Go to your Dynamics 365 Sales Hub application.
-2. Click into the Change area menu (located in lower left side of screen). By default, Sales will be displayed in the bottom of the left menu.
+2. In the bottom-left corner, select the **Sales** Change area.
 3. From the menu that appears, select **App Settings.**
-4. Select **Unit Groups** from the Product Catalog section of the left menu.
-5. Click **+ New.**
-6. Enter **Filters** for Name, enter **Each** for Primary Unit, and click **OK.**
-7. Once the Unit Group opens, select the Related tab and choose **Units.**
-8. You will find that you only have the default unit Each now; you will add three more units. Click **+ New Unit.**
-9. Enter *Filter* for Name, *1* for Quantity, select **Each** for Base Unit, and click **Save & Create New** by selecting the **˅** dropdown icon to the right of the Save & Close button.
-10. Enter *Pack* for Name, *2* for Quantity, select **Filter** for Base Unit and click **Save & Create New.**
-11. Enter *Value Pack* for Name, *2* for Quantity, select **Pack** for Base Unit and click **Save and Close.**
-12. You should now have four unit groups in the list.
+4. In the left navigation, under **Product Catalog** group, select **Unit Groups**.
+5. Select **+ New.**
+6. Enter the following values and select **OK**:
+   - **Name:** *Filters*
+   - **Primary Unit:** *Each*
+7. Select the **Related** tab, then select **Units**.
+8. On the command bar, select **+ New Unit**.
+
+    > [!NOTE]
+    > By default, the unit group contains only the **Each** unit.You will add three more units in the following steps
+9. Enter the following values, then select the dropdown arrow next to 
+   **Save & Close** and select **Save & Create New**:
+   - **Name:** *Filter*
+   - **Quantity:** *1*
+   - **Base Unit:** Each
+
+10. Enter the following values and select **Save & Create New**:
+    - **Name:** *Pack`*
+    - **Quantity:** *2*
+    - **Base Unit:** Filter
+
+11. Enter the following values and select **Save & Close**:
+    - **Name:** *Value Pack*
+    - **Quantity:** *2*
+    - **Base Unit:** Pack
+
+> [!NOTE]
+> The unit group now contains four units — **Each**, **Filter**, **Pack**, and **Value Pack**.
 
 #### Task 2 – Create Discount List
 In this task, you will create a Discount List for people that buy 15 or 20 or more filters. The 15 filters will get a 15% discount and 20 to 50 filters will get a 25% discount.
-1. Select **Discount Lists** from the Product Catalog section of the left menu.
-2. Click **+ New.**
-3. Enter *Quantity Discount* for Name, select **Percentage** for Type, and click **Save.**
-4. Click **Related** and choose **Discounts.**
-5. Click **+ New Discount.**
-6. Make sure Quantity Discount is selected for Discount Type, enter *15* for Begin Quantity, *19* for End Quantity, *15* for Percentage and click **Save.**
-7. Click **+ New** again.
-8. Select **Quantity Discount** for Discount Type. Then enter *20* for Begin Quantity, *50* for End Quantity, enter *25* for Percentage, and click **Save.**
+1. In the left navigation, under **Product Catalog** group, select **Discount Lists**.
+2. Select **+ New.**
+3. Enter the following values and select **Save**:
+   - **Name:** *Quantity Discount*
+   - **Type:** *Percentage*
+4. Select the **Related** tab, then select **Discounts**.
+5. Select **+ New Discount**.
+6. Enter and select the following values, then select **Save**:
+   - **Discount Type:** Quantity Discount
+   - **Begin Quantity:** *15*
+   - **End Quantity:** *19*
+   - **Percentage:** *15*
+7. Select **+ New**.
+8. Enter and select the following values, then select **Save**:
+   - **Discount Type:** Quantity Discount
+   - **Begin Quantity:** *20*
+   - **End Quantity:** *50*
+   - **Percentage:** *25*
 
 #### Task 3 – Create Price List
 In this task, you will create a price list for the filters.
-1. Select **Price Lists** from the Product Catalog section of the left menu.
-2. Click **+ New.**
-3. Enter *Filter Direct* for Name, select **US Dollar** for Currency, and click **Save & Close.**
+1. In the left navigation, under **Product Catalog** group, select **Price Lists**.
+2. Select **+ New.**
+3. Enter and select the following values, then select **Save & Close**:
+   - **Name:** *Filter Direct*
+   - **Currency:** US Dollar
 
 #### Task 4 – Create Products
 In this task, you will create products.
-1. Click on the **App Settings** change area.
-2. Select **Sales.**
-3. Select **Products** from the Collateral section of the left menu.
-4. Click **Add Product.**
-5. Enter *Airpot XL 6 month filter* for Name, enter *AXL6MF-1234* for Product ID, select **Filters** for Unit Group, select **Filter** for Default Unit, enter *2* for Decimals Supported, and click **Save.** (You may need to select the blue check mark next to the decimals supported to accept the suggestion.)
+1. In the bottom-left corner, select the **App Settings** Change area.
+2. From the menu that appears, select **Sales.**
+3. In the left navigation, under **Collateral**, select **Products**.
+4. Select **Add Product** 
+5. Enter and select the following values, then select **Save**:
+   - **Name:** `Airpot XL 6 month filter`
+   - **Product ID:** *AXL6MF-1234*
+   - **Unit Group:** Filters
+   - **Default Unit:** Filter
+   - **Decimals Supported:** *2*
+    > [!NOTE]
+    > If a suggestion appears next to **Decimals Supported**, select the blue checkmark to accept it.
+
 6. Select the **Additional Details** tab.
-7. Click the **vertical ellipsis** on the top right of the Price List Items section. Click **+ New Price List** Item.
-8. Select **Filter Direct** for Price List, select **Quantity Discount** for Discount List, and select **Whole** for Quantity Selling Option.
-9. Select the **Pricing Information** tab, enter *25* for Amount and select **Save & Close.**
-10. If Auto publish is enabled, skip this step. (Publish will not appear on the command bar.) Otherwise, select **Publish** and **Confirm** to publish the product.
-11. In the left menu, select **Products** in the Collateral group.
-12. Click **Add Product.**
-13. Enter *Airpot XL Reservoir Extension* for Name, enter *AXLRE-4321* for Product ID, select **Default Unit** for Unit Group, select **Primary Unit** for Default Unit, select the blue checkmark next to the 2 for Decimals Supported, and click **Save.**
+7. In the **Price List Items** section, select the vertical ellipsis (**⋮**) and select **+ New Price List Item**.
+8. Select the following values:
+   - **Price List:** Filter Direct
+   - **Discount List:** Quantity Discount
+   - **Quantity Selling Option:** Whole
+9. Select the **Pricing Information** tab, enter *25* for Amount and select **Save & Close**.
+10. If Auto publish is enabled, skip this step. (Publish will not appear on the command bar.), otherwise, select **Publish** and **Confirm** to publish the product.
+11. In the left navigation, under **Collateral** group, select **Products**.
+12. Select **Add Product.**
+13. Enter and select the following values, then select **Save**:
+    - **Name:** *Airpot XL Reservoir Extension*
+    - **Product ID:** *AXLRE-4321*
+    - **Unit Group:** Default Unit
+    - **Default Unit:** Primary Unit
+    - **Decimals Supported:** *2*
 14. Select the **Additional Details** tab.
-15. Click the **vertical ellipsis** on the top right of the Price List Items section. Click **+ New Price List Item.**
-16. Select **Filter Direct** for Price List. Select **Whole** for Quantity Selling Option.
-17. Select the **Pricing Information** tab, enter *$299* for Amount and select **Save & Close.**
+15. In the **Price List Items** section, select the vertical ellipsis (**⋮**) and select **+ New Price List Item**.
+16. Select the following values:
+    - **Price List:** Filter Direct
+    - **Quantity Selling Option:** Whole
+17. Select the **Pricing Information** tab, enter *299* for **Amount**, then select **Save & Close**
 18. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
-19. Select **Products** from the left menu.
-20. Click **Add Product.**
-21. Enter *Airpot XL Pot Extender* for Name, enter *AXPLE-7894* for Product ID, select **Default Unit** for Unit Group, select **Primary Unit** for Default Unit, select the blue check mark next to the 2 for Decimals Supported, and click **Save.**
+19. In the left navigation, under **Collateral** group, select **Products**.
+20. Select **Add Product.**
+21. Enter and select the following values, then select **Save**:
+    - **Name:** *Airpot XL Pot Extender*
+    - **Product ID:** *AXPLE-7894*
+    - **Unit Group:** Default Unit
+    - **Default Unit:** Primary Unit
+    - **Decimals Supported:** *2*
 22. Select the **Additional Details** tab.
-23. Click the **vertical ellipses** on the top right of the Price List Items section. Click **+ New Price List Item.**
-24. Select **Filter Direct** for Price List. Select **Whole** for Quantity Selling Option.
-25. Select the **Pricing Information** tab, enter *199* for Amount and select **Save & Close.**
+23. In the **Price List Items** section, select the vertical ellipsis (**⋮**) and select **+ New Price List Item**.
+24. Select the following values:
+    - **Price List:** Filter Direct
+    - **Quantity Selling Option:** Whole
+25. Select the **Pricing Information** tab, enter *199* for **Amount**, then select **Save & Close**.
 26. If Auto publish is enabled, skip this step. Otherwise, select **Publish** and **Confirm** to publish the Product.
-27. From the left menu, select **Products.**
-28. The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. 
+27. In the left navigation, under **Collateral** group, select **Products**.
+> [!NOTE]
+>The products you created should show up on the All Products, Families & Bundles view. You can switch to this view by selecting the **˅** dropdown icon next to the default view title. 
